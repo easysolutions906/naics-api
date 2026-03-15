@@ -1,0 +1,7492 @@
+[
+  {
+    "code": "01",
+    "title": "Agricultural Production-Crops",
+    "level": "major_group"
+  },
+  {
+    "code": "011",
+    "title": "Cash Grains",
+    "level": "industry_group"
+  },
+  {
+    "code": "0111",
+    "title": "Wheat",
+    "level": "industry"
+  },
+  {
+    "code": "0112",
+    "title": "Rice",
+    "level": "industry"
+  },
+  {
+    "code": "0115",
+    "title": "Corn",
+    "level": "industry"
+  },
+  {
+    "code": "0116",
+    "title": "Soybeans",
+    "level": "industry"
+  },
+  {
+    "code": "0119",
+    "title": "Cash Grains, Not Elsewhere Classified",
+    "level": "industry"
+  },
+  {
+    "code": "012",
+    "title": "Field Crops, Except Cash Grains",
+    "level": "industry_group"
+  },
+  {
+    "code": "0121",
+    "title": "Tobacco",
+    "level": "industry"
+  },
+  {
+    "code": "0131",
+    "title": "Cotton",
+    "level": "industry"
+  },
+  {
+    "code": "0132",
+    "title": "Tobacco",
+    "level": "industry"
+  },
+  {
+    "code": "0133",
+    "title": "Sugarcane and Sugar Beets",
+    "level": "industry"
+  },
+  {
+    "code": "0134",
+    "title": "Irish Potatoes",
+    "level": "industry"
+  },
+  {
+    "code": "0139",
+    "title": "Field Crops, Except Cash Grains, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "013",
+    "title": "Field Crops, Except Cash Grains",
+    "level": "industry_group"
+  },
+  {
+    "code": "016",
+    "title": "Vegetables and Melons",
+    "level": "industry_group"
+  },
+  {
+    "code": "0161",
+    "title": "Vegetables and Melons",
+    "level": "industry"
+  },
+  {
+    "code": "017",
+    "title": "Fruits and Tree Nuts",
+    "level": "industry_group"
+  },
+  {
+    "code": "0171",
+    "title": "Berry Crops",
+    "level": "industry"
+  },
+  {
+    "code": "0172",
+    "title": "Grapes",
+    "level": "industry"
+  },
+  {
+    "code": "0173",
+    "title": "Tree Nuts",
+    "level": "industry"
+  },
+  {
+    "code": "0174",
+    "title": "Citrus Fruits",
+    "level": "industry"
+  },
+  {
+    "code": "0175",
+    "title": "Deciduous Tree Fruits",
+    "level": "industry"
+  },
+  {
+    "code": "0179",
+    "title": "Fruits and Tree Nuts, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "018",
+    "title": "Horticultural Specialties",
+    "level": "industry_group"
+  },
+  {
+    "code": "0181",
+    "title": "Ornamental Floriculture and Nursery Products",
+    "level": "industry"
+  },
+  {
+    "code": "0182",
+    "title": "Food Crops Grown Under Cover",
+    "level": "industry"
+  },
+  {
+    "code": "019",
+    "title": "General Farms, Primarily Crop",
+    "level": "industry_group"
+  },
+  {
+    "code": "0191",
+    "title": "General Farms, Primarily Crop",
+    "level": "industry"
+  },
+  {
+    "code": "02",
+    "title": "Agricultural Production-Livestock and Animal Specialties",
+    "level": "major_group"
+  },
+  {
+    "code": "021",
+    "title": "Livestock, Except Dairy and Poultry",
+    "level": "industry_group"
+  },
+  {
+    "code": "0211",
+    "title": "Beef Cattle Feedlots",
+    "level": "industry"
+  },
+  {
+    "code": "0212",
+    "title": "Beef Cattle, Except Feedlots",
+    "level": "industry"
+  },
+  {
+    "code": "0213",
+    "title": "Hogs",
+    "level": "industry"
+  },
+  {
+    "code": "0214",
+    "title": "Sheep and Goats",
+    "level": "industry"
+  },
+  {
+    "code": "0219",
+    "title": "General Livestock, Except Dairy and Poultry",
+    "level": "industry"
+  },
+  {
+    "code": "024",
+    "title": "Dairy Farms",
+    "level": "industry_group"
+  },
+  {
+    "code": "0241",
+    "title": "Dairy Farms",
+    "level": "industry"
+  },
+  {
+    "code": "025",
+    "title": "Poultry and Eggs",
+    "level": "industry_group"
+  },
+  {
+    "code": "0251",
+    "title": "Broiler, Fryer, and Roaster Chickens",
+    "level": "industry"
+  },
+  {
+    "code": "0252",
+    "title": "Chicken Eggs",
+    "level": "industry"
+  },
+  {
+    "code": "0253",
+    "title": "Turkeys and Turkey Eggs",
+    "level": "industry"
+  },
+  {
+    "code": "0254",
+    "title": "Poultry Hatcheries",
+    "level": "industry"
+  },
+  {
+    "code": "0259",
+    "title": "Poultry and Eggs, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "027",
+    "title": "Animal Specialties",
+    "level": "industry_group"
+  },
+  {
+    "code": "0271",
+    "title": "Fur-Bearing Animals and Rabbits",
+    "level": "industry"
+  },
+  {
+    "code": "0272",
+    "title": "Horses and Other Equines",
+    "level": "industry"
+  },
+  {
+    "code": "0273",
+    "title": "Animal Aquaculture",
+    "level": "industry"
+  },
+  {
+    "code": "0279",
+    "title": "Animal Specialties, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "029",
+    "title": "General Farms, Primarily Livestock and Animal Specialties",
+    "level": "industry_group"
+  },
+  {
+    "code": "0291",
+    "title": "General Farms, Primarily Livestock and Animal Specialties",
+    "level": "industry"
+  },
+  {
+    "code": "07",
+    "title": "Agricultural Services",
+    "level": "major_group"
+  },
+  {
+    "code": "071",
+    "title": "Soil Preparation Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "0711",
+    "title": "Soil Preparation Services",
+    "level": "industry"
+  },
+  {
+    "code": "072",
+    "title": "Crop Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "0721",
+    "title": "Crop Planting, Cultivating, and Protecting",
+    "level": "industry"
+  },
+  {
+    "code": "0722",
+    "title": "Crop Harvesting, Primarily by Machine",
+    "level": "industry"
+  },
+  {
+    "code": "0723",
+    "title": "Crop Preparation Services for Market, Except Cotton Ginning",
+    "level": "industry"
+  },
+  {
+    "code": "0724",
+    "title": "Cotton Ginning",
+    "level": "industry"
+  },
+  {
+    "code": "074",
+    "title": "Veterinary Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "0741",
+    "title": "Veterinary Services for Livestock",
+    "level": "industry"
+  },
+  {
+    "code": "0742",
+    "title": "Veterinary Services for Animal Specialties",
+    "level": "industry"
+  },
+  {
+    "code": "075",
+    "title": "Animal Services, Except Veterinary",
+    "level": "industry_group"
+  },
+  {
+    "code": "0751",
+    "title": "Livestock Services, Except Veterinary",
+    "level": "industry"
+  },
+  {
+    "code": "0752",
+    "title": "Animal Specialty Services, Except Veterinary",
+    "level": "industry"
+  },
+  {
+    "code": "076",
+    "title": "Farm Labor Management Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "0761",
+    "title": "Farm Labor Contractors and Crew Leaders",
+    "level": "industry"
+  },
+  {
+    "code": "0762",
+    "title": "Farm Management Services",
+    "level": "industry"
+  },
+  {
+    "code": "078",
+    "title": "Landscape and Horticultural Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "0781",
+    "title": "Landscape Counseling and Planning",
+    "level": "industry"
+  },
+  {
+    "code": "0782",
+    "title": "Lawn and Garden Services",
+    "level": "industry"
+  },
+  {
+    "code": "0783",
+    "title": "Ornamental Shrub and Tree Services",
+    "level": "industry"
+  },
+  {
+    "code": "08",
+    "title": "Forestry",
+    "level": "major_group"
+  },
+  {
+    "code": "081",
+    "title": "Timber Tracts",
+    "level": "industry_group"
+  },
+  {
+    "code": "0811",
+    "title": "Timber Tracts",
+    "level": "industry"
+  },
+  {
+    "code": "083",
+    "title": "Forest Nurseries and Gathering of Forest Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "0831",
+    "title": "Forest Nurseries and Gathering of Forest Products",
+    "level": "industry"
+  },
+  {
+    "code": "085",
+    "title": "Forestry Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "0851",
+    "title": "Forestry Services",
+    "level": "industry"
+  },
+  {
+    "code": "09",
+    "title": "Fishing, Hunting, and Trapping",
+    "level": "major_group"
+  },
+  {
+    "code": "091",
+    "title": "Commercial Fishing",
+    "level": "industry_group"
+  },
+  {
+    "code": "0912",
+    "title": "Finfish",
+    "level": "industry"
+  },
+  {
+    "code": "0913",
+    "title": "Shellfish",
+    "level": "industry"
+  },
+  {
+    "code": "0919",
+    "title": "Miscellaneous Marine Products",
+    "level": "industry"
+  },
+  {
+    "code": "092",
+    "title": "Fish Hatcheries and Preserves",
+    "level": "industry_group"
+  },
+  {
+    "code": "0921",
+    "title": "Fish Hatcheries and Preserves",
+    "level": "industry"
+  },
+  {
+    "code": "097",
+    "title": "Hunting and Trapping, and Game Propagation",
+    "level": "industry_group"
+  },
+  {
+    "code": "0971",
+    "title": "Hunting, Trapping, and Game Propagation",
+    "level": "industry"
+  },
+  {
+    "code": "10",
+    "title": "Metal Mining",
+    "level": "major_group"
+  },
+  {
+    "code": "101",
+    "title": "Iron Ores",
+    "level": "industry_group"
+  },
+  {
+    "code": "1011",
+    "title": "Iron Ores",
+    "level": "industry"
+  },
+  {
+    "code": "102",
+    "title": "Copper Ores",
+    "level": "industry_group"
+  },
+  {
+    "code": "1021",
+    "title": "Copper Ores",
+    "level": "industry"
+  },
+  {
+    "code": "103",
+    "title": "Lead and Zinc Ores",
+    "level": "industry_group"
+  },
+  {
+    "code": "1031",
+    "title": "Lead and Zinc Ores",
+    "level": "industry"
+  },
+  {
+    "code": "104",
+    "title": "Gold and Silver Ores",
+    "level": "industry_group"
+  },
+  {
+    "code": "1041",
+    "title": "Gold Ores",
+    "level": "industry"
+  },
+  {
+    "code": "1044",
+    "title": "Silver Ores",
+    "level": "industry"
+  },
+  {
+    "code": "106",
+    "title": "Ferroalloy Ores, Except Vanadium",
+    "level": "industry_group"
+  },
+  {
+    "code": "1061",
+    "title": "Ferroalloy Ores, Except Vanadium",
+    "level": "industry"
+  },
+  {
+    "code": "108",
+    "title": "Metal Mining Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "1081",
+    "title": "Metal Mining Services",
+    "level": "industry"
+  },
+  {
+    "code": "109",
+    "title": "Miscellaneous Metal Ores",
+    "level": "industry_group"
+  },
+  {
+    "code": "1094",
+    "title": "Uranium-Radium-Vanadium Ores",
+    "level": "industry"
+  },
+  {
+    "code": "1099",
+    "title": "Miscellaneous Metal Ores, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "12",
+    "title": "Coal Mining",
+    "level": "major_group"
+  },
+  {
+    "code": "121",
+    "title": "Bituminous Coal and Lignite Mining",
+    "level": "industry_group"
+  },
+  {
+    "code": "1221",
+    "title": "Bituminous Coal and Lignite Surface Mining",
+    "level": "industry"
+  },
+  {
+    "code": "1222",
+    "title": "Bituminous Coal Underground Mining",
+    "level": "industry"
+  },
+  {
+    "code": "122",
+    "title": "Bituminous Coal and Lignite Mining",
+    "level": "industry_group"
+  },
+  {
+    "code": "123",
+    "title": "Anthracite Mining",
+    "level": "industry_group"
+  },
+  {
+    "code": "1231",
+    "title": "Anthracite Mining",
+    "level": "industry"
+  },
+  {
+    "code": "124",
+    "title": "Coal Mining Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "1241",
+    "title": "Coal Mining Services",
+    "level": "industry"
+  },
+  {
+    "code": "13",
+    "title": "Oil and Gas Extraction",
+    "level": "major_group"
+  },
+  {
+    "code": "131",
+    "title": "Crude Petroleum and Natural Gas",
+    "level": "industry_group"
+  },
+  {
+    "code": "1311",
+    "title": "Crude Petroleum and Natural Gas",
+    "level": "industry"
+  },
+  {
+    "code": "132",
+    "title": "Natural Gas Liquids",
+    "level": "industry_group"
+  },
+  {
+    "code": "1321",
+    "title": "Natural Gas Liquids",
+    "level": "industry"
+  },
+  {
+    "code": "138",
+    "title": "Oil and Gas Field Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "1381",
+    "title": "Drilling Oil and Gas Wells",
+    "level": "industry"
+  },
+  {
+    "code": "1382",
+    "title": "Oil and Gas Field Services, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "1389",
+    "title": "Services Allied With Oil and Gas Extraction, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "14",
+    "title": "Mining and Quarrying of Nonmetallic Minerals, Except Fuels",
+    "level": "major_group"
+  },
+  {
+    "code": "141",
+    "title": "Dimension Stone",
+    "level": "industry_group"
+  },
+  {
+    "code": "1411",
+    "title": "Dimension Stone",
+    "level": "industry"
+  },
+  {
+    "code": "142",
+    "title": "Crushed and Broken Stone, Including Riprap",
+    "level": "industry_group"
+  },
+  {
+    "code": "1422",
+    "title": "Crushed and Broken Limestone",
+    "level": "industry"
+  },
+  {
+    "code": "1423",
+    "title": "Crushed and Broken Granite",
+    "level": "industry"
+  },
+  {
+    "code": "1429",
+    "title": "Crushed and Broken Stone, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "144",
+    "title": "Sand and Gravel",
+    "level": "industry_group"
+  },
+  {
+    "code": "1442",
+    "title": "Construction Sand and Gravel",
+    "level": "industry"
+  },
+  {
+    "code": "1446",
+    "title": "Industrial Sand",
+    "level": "industry"
+  },
+  {
+    "code": "145",
+    "title": "Clay, Ceramic, and Refractory Minerals",
+    "level": "industry_group"
+  },
+  {
+    "code": "1455",
+    "title": "Kaolin and Ball Clay",
+    "level": "industry"
+  },
+  {
+    "code": "1459",
+    "title": "Clay, Ceramic, and Refractory Minerals, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "147",
+    "title": "Chemical and Fertilizer Mineral Mining",
+    "level": "industry_group"
+  },
+  {
+    "code": "1474",
+    "title": "Potash, Soda, and Borate Minerals",
+    "level": "industry"
+  },
+  {
+    "code": "1475",
+    "title": "Phosphate Rock",
+    "level": "industry"
+  },
+  {
+    "code": "1479",
+    "title": "Chemical and Fertilizer Mineral Mining, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "148",
+    "title": "Nonmetallic Minerals Services, Except Fuels",
+    "level": "industry_group"
+  },
+  {
+    "code": "1481",
+    "title": "Nonmetallic Minerals Services, Except Fuels",
+    "level": "industry"
+  },
+  {
+    "code": "149",
+    "title": "Miscellaneous Nonmetallic Minerals, Except Fuels",
+    "level": "industry_group"
+  },
+  {
+    "code": "1499",
+    "title": "Miscellaneous Nonmetallic Minerals, Except Fuels",
+    "level": "industry"
+  },
+  {
+    "code": "15",
+    "title": "Building Construction-General Contractors and Operative Builders",
+    "level": "major_group"
+  },
+  {
+    "code": "152",
+    "title": "General Building Contractors-Residential Buildings",
+    "level": "industry_group"
+  },
+  {
+    "code": "1521",
+    "title": "General Contractors-Single-Family Houses",
+    "level": "industry"
+  },
+  {
+    "code": "1522",
+    "title": "General Contractors-Residential Buildings, Other Than Single-Family",
+    "level": "industry"
+  },
+  {
+    "code": "153",
+    "title": "Operative Builders",
+    "level": "industry_group"
+  },
+  {
+    "code": "1531",
+    "title": "Operative Builders",
+    "level": "industry"
+  },
+  {
+    "code": "154",
+    "title": "General Building Contractors-Nonresidential Buildings",
+    "level": "industry_group"
+  },
+  {
+    "code": "1541",
+    "title": "General Contractors-Industrial Buildings and Warehouses",
+    "level": "industry"
+  },
+  {
+    "code": "1542",
+    "title": "General Contractors-Nonresidential Buildings, Other Than Industrial Buildings and Warehouses",
+    "level": "industry"
+  },
+  {
+    "code": "16",
+    "title": "Heavy Construction Other Than Building Construction-Contractors",
+    "level": "major_group"
+  },
+  {
+    "code": "161",
+    "title": "Highway and Street Construction, Except Elevated Highways",
+    "level": "industry_group"
+  },
+  {
+    "code": "1611",
+    "title": "Highway and Street Construction, Except Elevated Highways",
+    "level": "industry"
+  },
+  {
+    "code": "162",
+    "title": "Heavy Construction, Except Highway and Street Construction",
+    "level": "industry_group"
+  },
+  {
+    "code": "1622",
+    "title": "Bridge, Tunnel, and Elevated Highway Construction",
+    "level": "industry"
+  },
+  {
+    "code": "1623",
+    "title": "Water, Sewer, Pipeline, and Communications and Power Line Construction",
+    "level": "industry"
+  },
+  {
+    "code": "1629",
+    "title": "Heavy Construction, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "17",
+    "title": "Construction-Special Trade Contractors",
+    "level": "major_group"
+  },
+  {
+    "code": "171",
+    "title": "Plumbing, Heating and Air-Conditioning",
+    "level": "industry_group"
+  },
+  {
+    "code": "1711",
+    "title": "Plumbing, Heating and Air-Conditioning",
+    "level": "industry"
+  },
+  {
+    "code": "172",
+    "title": "Painting and Paper Hanging",
+    "level": "industry_group"
+  },
+  {
+    "code": "1721",
+    "title": "Painting and Paper Hanging",
+    "level": "industry"
+  },
+  {
+    "code": "173",
+    "title": "Electrical Work",
+    "level": "industry_group"
+  },
+  {
+    "code": "1731",
+    "title": "Electrical Work",
+    "level": "industry"
+  },
+  {
+    "code": "174",
+    "title": "Masonry, Stonework, Tile Setting, and Plastering",
+    "level": "industry_group"
+  },
+  {
+    "code": "1741",
+    "title": "Masonry, Stone Setting, and Other Stonework",
+    "level": "industry"
+  },
+  {
+    "code": "1742",
+    "title": "Plastering, Drywall, Acoustical, and Insulation Work",
+    "level": "industry"
+  },
+  {
+    "code": "1743",
+    "title": "Terrazzo, Tile, Marble, and Mosaic Work",
+    "level": "industry"
+  },
+  {
+    "code": "175",
+    "title": "Carpentry and Floor Work",
+    "level": "industry_group"
+  },
+  {
+    "code": "1751",
+    "title": "Carpentry Work",
+    "level": "industry"
+  },
+  {
+    "code": "1752",
+    "title": "Floor Laying and Other Floor Work, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "176",
+    "title": "Roofing, Siding, and Sheet Metal Work",
+    "level": "industry_group"
+  },
+  {
+    "code": "1761",
+    "title": "Roofing, Siding, and Sheet Metal Work",
+    "level": "industry"
+  },
+  {
+    "code": "177",
+    "title": "Concrete Work",
+    "level": "industry_group"
+  },
+  {
+    "code": "1771",
+    "title": "Concrete Work",
+    "level": "industry"
+  },
+  {
+    "code": "178",
+    "title": "Water Well Drilling",
+    "level": "industry_group"
+  },
+  {
+    "code": "1781",
+    "title": "Water Well Drilling",
+    "level": "industry"
+  },
+  {
+    "code": "179",
+    "title": "Miscellaneous Special Trade Contractors",
+    "level": "industry_group"
+  },
+  {
+    "code": "1791",
+    "title": "Structural Steel Erection",
+    "level": "industry"
+  },
+  {
+    "code": "1793",
+    "title": "Glass and Glazing Work",
+    "level": "industry"
+  },
+  {
+    "code": "1794",
+    "title": "Excavation Work",
+    "level": "industry"
+  },
+  {
+    "code": "1795",
+    "title": "Wrecking and Demolition Work",
+    "level": "industry"
+  },
+  {
+    "code": "1796",
+    "title": "Installation or Erection of Building Equipment, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "1799",
+    "title": "Special Trade Contractors, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "20",
+    "title": "Food and Kindred Products",
+    "level": "major_group"
+  },
+  {
+    "code": "201",
+    "title": "Meat Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "2011",
+    "title": "Meat Packing Plants",
+    "level": "industry"
+  },
+  {
+    "code": "2013",
+    "title": "Sausages and Other Prepared Meats",
+    "level": "industry"
+  },
+  {
+    "code": "2015",
+    "title": "Poultry Slaughtering and Processing",
+    "level": "industry"
+  },
+  {
+    "code": "202",
+    "title": "Dairy Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "2021",
+    "title": "Creamery Butter",
+    "level": "industry"
+  },
+  {
+    "code": "2022",
+    "title": "Natural, Processed, and Imitation Cheese",
+    "level": "industry"
+  },
+  {
+    "code": "2023",
+    "title": "Dry, Condensed, and Evaporated Dairy Products",
+    "level": "industry"
+  },
+  {
+    "code": "2024",
+    "title": "Ice Cream and Frozen Desserts",
+    "level": "industry"
+  },
+  {
+    "code": "2026",
+    "title": "Fluid Milk",
+    "level": "industry"
+  },
+  {
+    "code": "203",
+    "title": "Canned, Frozen, and Preserved Fruits, Vegetables, and Food Specialties",
+    "level": "industry_group"
+  },
+  {
+    "code": "2032",
+    "title": "Canned Specialties",
+    "level": "industry"
+  },
+  {
+    "code": "2033",
+    "title": "Canned Fruits, Vegetables, Preserves, Jams, and Jellies",
+    "level": "industry"
+  },
+  {
+    "code": "2034",
+    "title": "Dried and Dehydrated Fruits, Vegetables, and Soup Mixes",
+    "level": "industry"
+  },
+  {
+    "code": "2035",
+    "title": "Pickled Fruits and Vegetables, Vegetable Sauces and Seasonings, and Salad Dressings",
+    "level": "industry"
+  },
+  {
+    "code": "2037",
+    "title": "Frozen Fruits, Fruit Juices, and Vegetables",
+    "level": "industry"
+  },
+  {
+    "code": "2038",
+    "title": "Frozen Specialties, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "204",
+    "title": "Grain Mill Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "2041",
+    "title": "Flour and Other Grain Mill Products",
+    "level": "industry"
+  },
+  {
+    "code": "2043",
+    "title": "Cereal Breakfast Foods",
+    "level": "industry"
+  },
+  {
+    "code": "2044",
+    "title": "Rice Milling",
+    "level": "industry"
+  },
+  {
+    "code": "2045",
+    "title": "Prepared Flour Mixes and Doughs",
+    "level": "industry"
+  },
+  {
+    "code": "2046",
+    "title": "Wet Corn Milling",
+    "level": "industry"
+  },
+  {
+    "code": "2047",
+    "title": "Dog and Cat Food",
+    "level": "industry"
+  },
+  {
+    "code": "2048",
+    "title": "Prepared Feeds and Feed Ingredients for Animals and Fowls, Except Dogs and Cats",
+    "level": "industry"
+  },
+  {
+    "code": "205",
+    "title": "Bakery Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "2051",
+    "title": "Bread and Other Bakery Products, Except Cookies and Crackers",
+    "level": "industry"
+  },
+  {
+    "code": "2052",
+    "title": "Cookies and Crackers",
+    "level": "industry"
+  },
+  {
+    "code": "2053",
+    "title": "Frozen Bakery Products, Except Bread",
+    "level": "industry"
+  },
+  {
+    "code": "206",
+    "title": "Sugar and Confectionery Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "2061",
+    "title": "Cane Sugar, Except Refining",
+    "level": "industry"
+  },
+  {
+    "code": "2062",
+    "title": "Cane Sugar Refining",
+    "level": "industry"
+  },
+  {
+    "code": "2063",
+    "title": "Beet Sugar",
+    "level": "industry"
+  },
+  {
+    "code": "2064",
+    "title": "Candy and Other Confectionery Products",
+    "level": "industry"
+  },
+  {
+    "code": "2066",
+    "title": "Chocolate and Cocoa Products",
+    "level": "industry"
+  },
+  {
+    "code": "2067",
+    "title": "Chewing Gum",
+    "level": "industry"
+  },
+  {
+    "code": "2068",
+    "title": "Salted and Roasted Nuts and Seeds",
+    "level": "industry"
+  },
+  {
+    "code": "207",
+    "title": "Fats and Oils",
+    "level": "industry_group"
+  },
+  {
+    "code": "2074",
+    "title": "Cottonseed Oil Mills",
+    "level": "industry"
+  },
+  {
+    "code": "2075",
+    "title": "Soybean Oil Mills",
+    "level": "industry"
+  },
+  {
+    "code": "2076",
+    "title": "Vegetable Oil Mills, Except Corn, Cottonseed, and Soybean",
+    "level": "industry"
+  },
+  {
+    "code": "2077",
+    "title": "Animal and Marine Fats and Oils",
+    "level": "industry"
+  },
+  {
+    "code": "2079",
+    "title": "Shortening, Table Oils, Margarine, and Other Edible Fats and Oils, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "208",
+    "title": "Beverages",
+    "level": "industry_group"
+  },
+  {
+    "code": "2082",
+    "title": "Malt Beverages",
+    "level": "industry"
+  },
+  {
+    "code": "2083",
+    "title": "Malt",
+    "level": "industry"
+  },
+  {
+    "code": "2084",
+    "title": "Wines, Brandy, and Brandy Spirits",
+    "level": "industry"
+  },
+  {
+    "code": "2085",
+    "title": "Distilled and Blended Liquors",
+    "level": "industry"
+  },
+  {
+    "code": "2086",
+    "title": "Bottled and Canned Soft Drinks and Carbonated Waters",
+    "level": "industry"
+  },
+  {
+    "code": "2087",
+    "title": "Flavoring Extracts and Flavoring Syrups, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "209",
+    "title": "Miscellaneous Food Preparations and Kindred Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "2091",
+    "title": "Canned and Cured Fish and Seafoods",
+    "level": "industry"
+  },
+  {
+    "code": "2092",
+    "title": "Prepared Fresh or Frozen Fish and Seafoods",
+    "level": "industry"
+  },
+  {
+    "code": "2095",
+    "title": "Roasted Coffee",
+    "level": "industry"
+  },
+  {
+    "code": "2096",
+    "title": "Potato Chips, Corn Chips, and Similar Snacks",
+    "level": "industry"
+  },
+  {
+    "code": "2097",
+    "title": "Manufactured Ice",
+    "level": "industry"
+  },
+  {
+    "code": "2098",
+    "title": "Macaroni, Spaghetti, Vermicelli, and Noodles",
+    "level": "industry"
+  },
+  {
+    "code": "2099",
+    "title": "Food Preparations, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "21",
+    "title": "Tobacco Products",
+    "level": "major_group"
+  },
+  {
+    "code": "211",
+    "title": "Cigarettes",
+    "level": "industry_group"
+  },
+  {
+    "code": "2111",
+    "title": "Cigarettes",
+    "level": "industry"
+  },
+  {
+    "code": "212",
+    "title": "Cigars",
+    "level": "industry_group"
+  },
+  {
+    "code": "2121",
+    "title": "Cigars",
+    "level": "industry"
+  },
+  {
+    "code": "213",
+    "title": "Chewing and Smoking Tobacco and Snuff",
+    "level": "industry_group"
+  },
+  {
+    "code": "2131",
+    "title": "Chewing and Smoking Tobacco and Snuff",
+    "level": "industry"
+  },
+  {
+    "code": "214",
+    "title": "Tobacco Stemming and Redrying",
+    "level": "industry_group"
+  },
+  {
+    "code": "2141",
+    "title": "Tobacco Stemming and Redrying",
+    "level": "industry"
+  },
+  {
+    "code": "22",
+    "title": "Textile Mill Products",
+    "level": "major_group"
+  },
+  {
+    "code": "221",
+    "title": "Broadwoven Fabric Mills, Cotton",
+    "level": "industry_group"
+  },
+  {
+    "code": "2211",
+    "title": "Broadwoven Fabric Mills, Cotton",
+    "level": "industry"
+  },
+  {
+    "code": "222",
+    "title": "Broadwoven Fabric Mills, Manmade Fiber and Silk",
+    "level": "industry_group"
+  },
+  {
+    "code": "2221",
+    "title": "Broadwoven Fabric Mills, Manmade Fiber and Silk",
+    "level": "industry"
+  },
+  {
+    "code": "223",
+    "title": "Broadwoven Fabric Mills, Wool",
+    "level": "industry_group"
+  },
+  {
+    "code": "2231",
+    "title": "Broadwoven Fabric Mills, Wool (Including Dyeing and Finishing)",
+    "level": "industry"
+  },
+  {
+    "code": "224",
+    "title": "Narrow Fabric and Other Smallwares Mills",
+    "level": "industry_group"
+  },
+  {
+    "code": "2241",
+    "title": "Narrow Fabric and Other Smallwares Mills: Cotton, Wool, Silk, and Manmade Fiber",
+    "level": "industry"
+  },
+  {
+    "code": "225",
+    "title": "Knitting Mills",
+    "level": "industry_group"
+  },
+  {
+    "code": "2251",
+    "title": "Women's Full-Length and Knee-Length Hosiery, Except Socks",
+    "level": "industry"
+  },
+  {
+    "code": "2252",
+    "title": "Hosiery, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "2253",
+    "title": "Knit Outerwear Mills",
+    "level": "industry"
+  },
+  {
+    "code": "2254",
+    "title": "Knit Underwear and Nightwear Mills",
+    "level": "industry"
+  },
+  {
+    "code": "2257",
+    "title": "Weft Knit Fabric Mills",
+    "level": "industry"
+  },
+  {
+    "code": "2258",
+    "title": "Lace and Warp Knit Fabric Mills",
+    "level": "industry"
+  },
+  {
+    "code": "2259",
+    "title": "Knitting Mills, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "226",
+    "title": "Dyeing and Finishing Textiles, Except Wool Fabrics and Knit Goods",
+    "level": "industry_group"
+  },
+  {
+    "code": "2261",
+    "title": "Finishers of Broadwoven Fabrics of Cotton",
+    "level": "industry"
+  },
+  {
+    "code": "2262",
+    "title": "Finishers of Broadwoven Fabrics of Manmade Fiber and Silk",
+    "level": "industry"
+  },
+  {
+    "code": "2269",
+    "title": "Finishers of Textiles, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "227",
+    "title": "Carpets and Rugs",
+    "level": "industry_group"
+  },
+  {
+    "code": "2271",
+    "title": "Carpets and Rugs",
+    "level": "industry"
+  },
+  {
+    "code": "228",
+    "title": "Yarn and Thread Mills",
+    "level": "industry_group"
+  },
+  {
+    "code": "2281",
+    "title": "Yarn Throwing and Winding Mills",
+    "level": "industry"
+  },
+  {
+    "code": "2282",
+    "title": "Yarn Texturizing, Throwing, Twisting, and Winding Mills",
+    "level": "industry"
+  },
+  {
+    "code": "2284",
+    "title": "Thread Mills",
+    "level": "industry"
+  },
+  {
+    "code": "229",
+    "title": "Miscellaneous Textile Goods",
+    "level": "industry_group"
+  },
+  {
+    "code": "2295",
+    "title": "Coated Fabrics, Not Rubberized",
+    "level": "industry"
+  },
+  {
+    "code": "2296",
+    "title": "Tire Cord and Fabrics",
+    "level": "industry"
+  },
+  {
+    "code": "2297",
+    "title": "Nonwoven Fabrics",
+    "level": "industry"
+  },
+  {
+    "code": "2298",
+    "title": "Cordage and Twine",
+    "level": "industry"
+  },
+  {
+    "code": "2299",
+    "title": "Textile Goods, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "23",
+    "title": "Apparel and Other Finished Products Made from Fabrics and Similar Materials",
+    "level": "major_group"
+  },
+  {
+    "code": "231",
+    "title": "Men's and Boys' Suits, Coats, and Overcoats",
+    "level": "industry_group"
+  },
+  {
+    "code": "2311",
+    "title": "Men's and Boys' Suits, Coats, and Overcoats",
+    "level": "industry"
+  },
+  {
+    "code": "232",
+    "title": "Men's and Boys' Furnishings, Work Clothing, and Allied Garments",
+    "level": "industry_group"
+  },
+  {
+    "code": "2321",
+    "title": "Men's and Boys' Shirts, Except Work Shirts",
+    "level": "industry"
+  },
+  {
+    "code": "2322",
+    "title": "Men's and Boys' Underwear and Nightwear",
+    "level": "industry"
+  },
+  {
+    "code": "2323",
+    "title": "Men's and Boys' Neckwear",
+    "level": "industry"
+  },
+  {
+    "code": "2325",
+    "title": "Trousers, Work Clothing, and Allied Garments",
+    "level": "industry"
+  },
+  {
+    "code": "2326",
+    "title": "Men's and Boys' Work Clothing",
+    "level": "industry"
+  },
+  {
+    "code": "233",
+    "title": "Women's, Misses', and Juniors' Outerwear",
+    "level": "industry_group"
+  },
+  {
+    "code": "2331",
+    "title": "Women's, Misses', and Juniors' Blouses and Shirts",
+    "level": "industry"
+  },
+  {
+    "code": "2335",
+    "title": "Women's, Misses', and Juniors' Dresses",
+    "level": "industry"
+  },
+  {
+    "code": "2337",
+    "title": "Women's, Misses', and Juniors' Suits, Skirts, and Coats",
+    "level": "industry"
+  },
+  {
+    "code": "2339",
+    "title": "Women's, Misses', and Juniors' Outerwear, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "234",
+    "title": "Women's, Misses', Children's, and Infants' Undergarments",
+    "level": "industry_group"
+  },
+  {
+    "code": "2341",
+    "title": "Women's, Misses', Children's, and Infants' Underwear and Nightwear",
+    "level": "industry"
+  },
+  {
+    "code": "2342",
+    "title": "Corsets, Girdles, Garments, and Allied Garments",
+    "level": "industry"
+  },
+  {
+    "code": "235",
+    "title": "Hats, Caps, and Millinery",
+    "level": "industry_group"
+  },
+  {
+    "code": "2353",
+    "title": "Hats, Caps, and Millinery",
+    "level": "industry"
+  },
+  {
+    "code": "236",
+    "title": "Girls', Children's, and Infants' Outerwear",
+    "level": "industry_group"
+  },
+  {
+    "code": "2361",
+    "title": "Girls', Children's, and Infants' Dresses, Blouses, and Shirts",
+    "level": "industry"
+  },
+  {
+    "code": "2369",
+    "title": "Girls', Children's, and Infants' Outerwear, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "237",
+    "title": "Fur Goods",
+    "level": "industry_group"
+  },
+  {
+    "code": "2371",
+    "title": "Fur Goods",
+    "level": "industry"
+  },
+  {
+    "code": "238",
+    "title": "Miscellaneous Apparel and Accessories",
+    "level": "industry_group"
+  },
+  {
+    "code": "2381",
+    "title": "Dress and Work Gloves, Except Knit and All-Leather",
+    "level": "industry"
+  },
+  {
+    "code": "2384",
+    "title": "Robes and Dressing Gowns",
+    "level": "industry"
+  },
+  {
+    "code": "2385",
+    "title": "Waterproof Outerwear",
+    "level": "industry"
+  },
+  {
+    "code": "2386",
+    "title": "Leather and Sheep-Lined Clothing",
+    "level": "industry"
+  },
+  {
+    "code": "2387",
+    "title": "Apparel Belts",
+    "level": "industry"
+  },
+  {
+    "code": "2389",
+    "title": "Apparel and Accessories, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "239",
+    "title": "Miscellaneous Fabricated Textile Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "2391",
+    "title": "Curtains and Draperies",
+    "level": "industry"
+  },
+  {
+    "code": "2392",
+    "title": "Housefurnishings, Except Curtains and Draperies",
+    "level": "industry"
+  },
+  {
+    "code": "2393",
+    "title": "Textile Bags",
+    "level": "industry"
+  },
+  {
+    "code": "2394",
+    "title": "Canvas and Related Products",
+    "level": "industry"
+  },
+  {
+    "code": "2395",
+    "title": "Pleating, Decorative and Novelty Stitching, and Tucking for the Trade",
+    "level": "industry"
+  },
+  {
+    "code": "2396",
+    "title": "Automotive Trimmings, Apparel Findings, and Related Products",
+    "level": "industry"
+  },
+  {
+    "code": "2397",
+    "title": "Schiffli Machine Embroideries",
+    "level": "industry"
+  },
+  {
+    "code": "2399",
+    "title": "Fabricated Textile Products, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "24",
+    "title": "Lumber and Wood Products, Except Furniture",
+    "level": "major_group"
+  },
+  {
+    "code": "241",
+    "title": "Logging",
+    "level": "industry_group"
+  },
+  {
+    "code": "2411",
+    "title": "Logging",
+    "level": "industry"
+  },
+  {
+    "code": "242",
+    "title": "Sawmills and Planing Mills",
+    "level": "industry_group"
+  },
+  {
+    "code": "2421",
+    "title": "Sawmills and Planing Mills, General",
+    "level": "industry"
+  },
+  {
+    "code": "2426",
+    "title": "Hardwood Dimension and Flooring Mills",
+    "level": "industry"
+  },
+  {
+    "code": "2429",
+    "title": "Special Product Sawmills, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "243",
+    "title": "Millwork, Veneer, Plywood, and Structural Wood Members",
+    "level": "industry_group"
+  },
+  {
+    "code": "2431",
+    "title": "Millwork",
+    "level": "industry"
+  },
+  {
+    "code": "2434",
+    "title": "Wood Kitchen Cabinets",
+    "level": "industry"
+  },
+  {
+    "code": "2435",
+    "title": "Hardwood Veneer and Plywood",
+    "level": "industry"
+  },
+  {
+    "code": "2436",
+    "title": "Softwood Veneer and Plywood",
+    "level": "industry"
+  },
+  {
+    "code": "2439",
+    "title": "Structural Wood Members, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "244",
+    "title": "Wood Containers",
+    "level": "industry_group"
+  },
+  {
+    "code": "2441",
+    "title": "Nailed and Lock Corner Wood Boxes and Shook",
+    "level": "industry"
+  },
+  {
+    "code": "2448",
+    "title": "Wood Pallets and Skids",
+    "level": "industry"
+  },
+  {
+    "code": "2449",
+    "title": "Wood Containers, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "245",
+    "title": "Wood Buildings and Mobile Homes",
+    "level": "industry_group"
+  },
+  {
+    "code": "2451",
+    "title": "Mobile Homes",
+    "level": "industry"
+  },
+  {
+    "code": "2452",
+    "title": "Prefabricated Wood Buildings and Components",
+    "level": "industry"
+  },
+  {
+    "code": "249",
+    "title": "Miscellaneous Wood Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "2491",
+    "title": "Wood Preserving",
+    "level": "industry"
+  },
+  {
+    "code": "2493",
+    "title": "Reconstituted Wood Products",
+    "level": "industry"
+  },
+  {
+    "code": "2499",
+    "title": "Wood Products, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "25",
+    "title": "Furniture and Fixtures",
+    "level": "major_group"
+  },
+  {
+    "code": "251",
+    "title": "Household Furniture",
+    "level": "industry_group"
+  },
+  {
+    "code": "2511",
+    "title": "Wood Household Furniture, Except Upholstered",
+    "level": "industry"
+  },
+  {
+    "code": "2512",
+    "title": "Wood Household Furniture, Upholstered",
+    "level": "industry"
+  },
+  {
+    "code": "2514",
+    "title": "Metal Household Furniture",
+    "level": "industry"
+  },
+  {
+    "code": "2515",
+    "title": "Mattresses, Foundations, and Convertible Beds",
+    "level": "industry"
+  },
+  {
+    "code": "2517",
+    "title": "Wood Television, Radio, Phonograph, and Sewing Machine Cabinets",
+    "level": "industry"
+  },
+  {
+    "code": "2519",
+    "title": "Household Furniture, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "252",
+    "title": "Office Furniture",
+    "level": "industry_group"
+  },
+  {
+    "code": "2521",
+    "title": "Wood Office Furniture",
+    "level": "industry"
+  },
+  {
+    "code": "2522",
+    "title": "Office Furniture, Except Wood",
+    "level": "industry"
+  },
+  {
+    "code": "253",
+    "title": "Public Building and Related Furniture",
+    "level": "industry_group"
+  },
+  {
+    "code": "2531",
+    "title": "Public Building and Related Furniture",
+    "level": "industry"
+  },
+  {
+    "code": "254",
+    "title": "Partitions, Shelving, Lockers, and Office and Store Fixtures",
+    "level": "industry_group"
+  },
+  {
+    "code": "2541",
+    "title": "Wood Office and Store Fixtures, Partitions, Shelving, and Lockers",
+    "level": "industry"
+  },
+  {
+    "code": "2542",
+    "title": "Office and Store Fixtures, Partitions, Shelving, and Lockers, Except Wood",
+    "level": "industry"
+  },
+  {
+    "code": "259",
+    "title": "Miscellaneous Furniture and Fixtures",
+    "level": "industry_group"
+  },
+  {
+    "code": "2591",
+    "title": "Drapery Hardware and Window Blinds and Shades",
+    "level": "industry"
+  },
+  {
+    "code": "2599",
+    "title": "Furniture and Fixtures, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "26",
+    "title": "Paper and Allied Products",
+    "level": "major_group"
+  },
+  {
+    "code": "261",
+    "title": "Pulp Mills",
+    "level": "industry_group"
+  },
+  {
+    "code": "2611",
+    "title": "Pulp Mills",
+    "level": "industry"
+  },
+  {
+    "code": "262",
+    "title": "Paper Mills",
+    "level": "industry_group"
+  },
+  {
+    "code": "2621",
+    "title": "Paper Mills",
+    "level": "industry"
+  },
+  {
+    "code": "263",
+    "title": "Paperboard Mills",
+    "level": "industry_group"
+  },
+  {
+    "code": "2631",
+    "title": "Paperboard Mills",
+    "level": "industry"
+  },
+  {
+    "code": "265",
+    "title": "Paperboard Containers and Boxes",
+    "level": "industry_group"
+  },
+  {
+    "code": "2652",
+    "title": "Setup Paperboard Boxes",
+    "level": "industry"
+  },
+  {
+    "code": "2653",
+    "title": "Corrugated and Solid Fiber Boxes",
+    "level": "industry"
+  },
+  {
+    "code": "2655",
+    "title": "Fiber Cans, Tubes, Drums, and Similar Products",
+    "level": "industry"
+  },
+  {
+    "code": "2656",
+    "title": "Sanitary Food Containers, Except Folding",
+    "level": "industry"
+  },
+  {
+    "code": "2657",
+    "title": "Folding Paperboard Boxes, Including Sanitary",
+    "level": "industry"
+  },
+  {
+    "code": "267",
+    "title": "Converted Paper and Paperboard Products, Except Containers and Boxes",
+    "level": "industry_group"
+  },
+  {
+    "code": "2671",
+    "title": "Packaging Paper and Plastics Film, Coated and Laminated",
+    "level": "industry"
+  },
+  {
+    "code": "2672",
+    "title": "Coated and Laminated Paper, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "2673",
+    "title": "Plastics, Foil, and Coated Paper Bags",
+    "level": "industry"
+  },
+  {
+    "code": "2674",
+    "title": "Uncoated Paper and Multiwall Bags",
+    "level": "industry"
+  },
+  {
+    "code": "2675",
+    "title": "Die-Cut Paper and Paperboard and Cardboard",
+    "level": "industry"
+  },
+  {
+    "code": "2676",
+    "title": "Sanitary Paper Products",
+    "level": "industry"
+  },
+  {
+    "code": "2677",
+    "title": "Envelopes",
+    "level": "industry"
+  },
+  {
+    "code": "2678",
+    "title": "Stationery, Tablets, and Related Products",
+    "level": "industry"
+  },
+  {
+    "code": "2679",
+    "title": "Converted Paper and Paperboard Products, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "27",
+    "title": "Printing, Publishing, and Allied Industries",
+    "level": "major_group"
+  },
+  {
+    "code": "271",
+    "title": "Newspapers: Publishing, or Publishing and Printing",
+    "level": "industry_group"
+  },
+  {
+    "code": "2711",
+    "title": "Newspapers: Publishing, or Publishing and Printing",
+    "level": "industry"
+  },
+  {
+    "code": "272",
+    "title": "Periodicals: Publishing, or Publishing and Printing",
+    "level": "industry_group"
+  },
+  {
+    "code": "2721",
+    "title": "Periodicals: Publishing, or Publishing and Printing",
+    "level": "industry"
+  },
+  {
+    "code": "273",
+    "title": "Books",
+    "level": "industry_group"
+  },
+  {
+    "code": "2731",
+    "title": "Books: Publishing, or Publishing and Printing",
+    "level": "industry"
+  },
+  {
+    "code": "2732",
+    "title": "Book Printing",
+    "level": "industry"
+  },
+  {
+    "code": "274",
+    "title": "Miscellaneous Publishing",
+    "level": "industry_group"
+  },
+  {
+    "code": "2741",
+    "title": "Miscellaneous Publishing",
+    "level": "industry"
+  },
+  {
+    "code": "275",
+    "title": "Commercial Printing",
+    "level": "industry_group"
+  },
+  {
+    "code": "2752",
+    "title": "Commercial Printing, Lithographic",
+    "level": "industry"
+  },
+  {
+    "code": "2754",
+    "title": "Commercial Printing, Gravure",
+    "level": "industry"
+  },
+  {
+    "code": "2759",
+    "title": "Commercial Printing, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "276",
+    "title": "Manifold Business Forms",
+    "level": "industry_group"
+  },
+  {
+    "code": "2761",
+    "title": "Manifold Business Forms",
+    "level": "industry"
+  },
+  {
+    "code": "277",
+    "title": "Greeting Cards",
+    "level": "industry_group"
+  },
+  {
+    "code": "2771",
+    "title": "Greeting Cards",
+    "level": "industry"
+  },
+  {
+    "code": "278",
+    "title": "Blankbooks, Looseleaf Binders, and Devices",
+    "level": "industry_group"
+  },
+  {
+    "code": "2782",
+    "title": "Blankbooks, Looseleaf Binders and Devices",
+    "level": "industry"
+  },
+  {
+    "code": "2789",
+    "title": "Bookbinding and Related Work",
+    "level": "industry"
+  },
+  {
+    "code": "279",
+    "title": "Service Industries for the Printing Trade",
+    "level": "industry_group"
+  },
+  {
+    "code": "2791",
+    "title": "Typesetting",
+    "level": "industry"
+  },
+  {
+    "code": "2796",
+    "title": "Platemaking and Related Services",
+    "level": "industry"
+  },
+  {
+    "code": "28",
+    "title": "Chemicals and Allied Products",
+    "level": "major_group"
+  },
+  {
+    "code": "281",
+    "title": "Industrial Chemicals and Synthetics",
+    "level": "industry_group"
+  },
+  {
+    "code": "2812",
+    "title": "Alkalies and Chlorine",
+    "level": "industry"
+  },
+  {
+    "code": "2813",
+    "title": "Industrial Gases",
+    "level": "industry"
+  },
+  {
+    "code": "2816",
+    "title": "Inorganic Pigments",
+    "level": "industry"
+  },
+  {
+    "code": "2819",
+    "title": "Industrial Inorganic Chemicals, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "282",
+    "title": "Plastics Materials and Synthetic Resins, Synthetic Rubber, Cellulosic and Other Manmade Fibers, Except Glass",
+    "level": "industry_group"
+  },
+  {
+    "code": "2821",
+    "title": "Plastics Materials, Synthetic Resins, and Nonvulcanizable Elastomers",
+    "level": "industry"
+  },
+  {
+    "code": "2822",
+    "title": "Synthetic Rubber (Vulcanizable Elastomers)",
+    "level": "industry"
+  },
+  {
+    "code": "2823",
+    "title": "Cellulosic Manmade Fibers",
+    "level": "industry"
+  },
+  {
+    "code": "2824",
+    "title": "Manmade Organic Fibers, Except Cellulosic",
+    "level": "industry"
+  },
+  {
+    "code": "283",
+    "title": "Drugs",
+    "level": "industry_group"
+  },
+  {
+    "code": "2833",
+    "title": "Pharmaceutical Preparations",
+    "level": "industry"
+  },
+  {
+    "code": "2834",
+    "title": "Pharmaceutical Preparations",
+    "level": "industry"
+  },
+  {
+    "code": "2835",
+    "title": "In Vitro and In Vivo Diagnostic Substances",
+    "level": "industry"
+  },
+  {
+    "code": "2836",
+    "title": "Biological Products, Except Diagnostic Substances",
+    "level": "industry"
+  },
+  {
+    "code": "284",
+    "title": "Soap, Detergents, and Cleaning Preparations; Perfumes, Cosmetics, and Other Toilet Preparations",
+    "level": "industry_group"
+  },
+  {
+    "code": "2841",
+    "title": "Soap and Other Detergents, Except Specialty Cleaners",
+    "level": "industry"
+  },
+  {
+    "code": "2842",
+    "title": "Specialty Cleaning, Polishing, and Sanitation Preparations",
+    "level": "industry"
+  },
+  {
+    "code": "2843",
+    "title": "Surface Active Agents, Finishing Agents, Sulfonated Oils, and Assistants",
+    "level": "industry"
+  },
+  {
+    "code": "2844",
+    "title": "Perfumes, Cosmetics, and Other Toilet Preparations",
+    "level": "industry"
+  },
+  {
+    "code": "285",
+    "title": "Paints, Varnishes, Lacquers, Enamels, and Allied Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "2851",
+    "title": "Paints, Varnishes, Lacquers, Enamels, and Allied Products",
+    "level": "industry"
+  },
+  {
+    "code": "286",
+    "title": "Industrial Chemicals",
+    "level": "industry_group"
+  },
+  {
+    "code": "2861",
+    "title": "Gum and Wood Chemicals",
+    "level": "industry"
+  },
+  {
+    "code": "2865",
+    "title": "Cyclic Organic Crudes, and Cyclic Intermediates, Dyes, and Organic Pigments",
+    "level": "industry"
+  },
+  {
+    "code": "2869",
+    "title": "Industrial Organic Chemicals, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "287",
+    "title": "Agricultural Chemicals",
+    "level": "industry_group"
+  },
+  {
+    "code": "2873",
+    "title": "Nitrogenous Fertilizers",
+    "level": "industry"
+  },
+  {
+    "code": "2874",
+    "title": "Phosphatic Fertilizers",
+    "level": "industry"
+  },
+  {
+    "code": "2875",
+    "title": "Fertilizers, Mixing Only",
+    "level": "industry"
+  },
+  {
+    "code": "2879",
+    "title": "Pesticides and Agricultural Chemicals, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "289",
+    "title": "Miscellaneous Chemical Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "2891",
+    "title": "Adhesives and Sealants",
+    "level": "industry"
+  },
+  {
+    "code": "2892",
+    "title": "Explosives",
+    "level": "industry"
+  },
+  {
+    "code": "2893",
+    "title": "Printing Ink",
+    "level": "industry"
+  },
+  {
+    "code": "2895",
+    "title": "Carbon Black",
+    "level": "industry"
+  },
+  {
+    "code": "2899",
+    "title": "Chemicals and Chemical Preparations, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "29",
+    "title": "Petroleum Refining and Related Industries",
+    "level": "major_group"
+  },
+  {
+    "code": "291",
+    "title": "Petroleum Refining",
+    "level": "industry_group"
+  },
+  {
+    "code": "2911",
+    "title": "Petroleum Refining",
+    "level": "industry"
+  },
+  {
+    "code": "295",
+    "title": "Asphalt Paving and Roofing Materials",
+    "level": "industry_group"
+  },
+  {
+    "code": "2951",
+    "title": "Asphalt Paving Mixtures and Blocks",
+    "level": "industry"
+  },
+  {
+    "code": "2952",
+    "title": "Asphalt Felts and Coatings",
+    "level": "industry"
+  },
+  {
+    "code": "299",
+    "title": "Miscellaneous Products of Petroleum and Coal",
+    "level": "industry_group"
+  },
+  {
+    "code": "2992",
+    "title": "Lubricating Oils and Greases",
+    "level": "industry"
+  },
+  {
+    "code": "2999",
+    "title": "Products of Petroleum and Coal, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "30",
+    "title": "Rubber and Miscellaneous Plastics Products",
+    "level": "major_group"
+  },
+  {
+    "code": "301",
+    "title": "Tires and Inner Tubes",
+    "level": "industry_group"
+  },
+  {
+    "code": "3011",
+    "title": "Tires and Inner Tubes",
+    "level": "industry"
+  },
+  {
+    "code": "302",
+    "title": "Rubber and Plastics Footwear",
+    "level": "industry_group"
+  },
+  {
+    "code": "3021",
+    "title": "Rubber and Plastics Footwear",
+    "level": "industry"
+  },
+  {
+    "code": "305",
+    "title": "Gaskets, Packing, and Sealing Devices and Rubber and Plastics Hose and Belting",
+    "level": "industry_group"
+  },
+  {
+    "code": "3052",
+    "title": "Rubber and Plastics Hose and Belting",
+    "level": "industry"
+  },
+  {
+    "code": "3053",
+    "title": "Gaskets, Packing, and Sealing Devices",
+    "level": "industry"
+  },
+  {
+    "code": "306",
+    "title": "Fabricated Rubber Products, NEC",
+    "level": "industry_group"
+  },
+  {
+    "code": "3061",
+    "title": "Molded, Extruded, and Lathe-Cut Mechanical Rubber Goods",
+    "level": "industry"
+  },
+  {
+    "code": "3069",
+    "title": "Fabricated Rubber Products, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "308",
+    "title": "Miscellaneous Plastics Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "3081",
+    "title": "Plastics Plumbing Fixtures",
+    "level": "industry"
+  },
+  {
+    "code": "3082",
+    "title": "Plastics Unsupported Profile Shapes",
+    "level": "industry"
+  },
+  {
+    "code": "3083",
+    "title": "Laminated Plastics Plate, Sheet, and Profile Shapes",
+    "level": "industry"
+  },
+  {
+    "code": "3084",
+    "title": "Plastics Pipe",
+    "level": "industry"
+  },
+  {
+    "code": "3085",
+    "title": "Plastics Bottles",
+    "level": "industry"
+  },
+  {
+    "code": "3086",
+    "title": "Plastics Foam Products",
+    "level": "industry"
+  },
+  {
+    "code": "3087",
+    "title": "Custom Compound of Purchased Plastics Resins",
+    "level": "industry"
+  },
+  {
+    "code": "3088",
+    "title": "Plastics Plumbing Fixtures",
+    "level": "industry"
+  },
+  {
+    "code": "3089",
+    "title": "Plastics Products Manufacturing, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "31",
+    "title": "Leather and Leather Products",
+    "level": "major_group"
+  },
+  {
+    "code": "311",
+    "title": "Leather Tanning and Finishing",
+    "level": "industry_group"
+  },
+  {
+    "code": "3111",
+    "title": "Leather Tanning and Finishing",
+    "level": "industry"
+  },
+  {
+    "code": "313",
+    "title": "Boot and Shoe Cut Stock and Findings",
+    "level": "industry_group"
+  },
+  {
+    "code": "3131",
+    "title": "Boot and Shoe Cut Stock and Findings",
+    "level": "industry"
+  },
+  {
+    "code": "314",
+    "title": "Footwear, Except Rubber",
+    "level": "industry_group"
+  },
+  {
+    "code": "3142",
+    "title": "House Slippers",
+    "level": "industry"
+  },
+  {
+    "code": "3143",
+    "title": "Men's Footwear, Except Athletic",
+    "level": "industry"
+  },
+  {
+    "code": "3144",
+    "title": "Women's Footwear, Except Athletic",
+    "level": "industry"
+  },
+  {
+    "code": "3149",
+    "title": "Footwear, Except Rubber, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "315",
+    "title": "Leather Gloves and Mittens",
+    "level": "industry_group"
+  },
+  {
+    "code": "3151",
+    "title": "Leather Gloves and Mittens",
+    "level": "industry"
+  },
+  {
+    "code": "316",
+    "title": "Luggage",
+    "level": "industry_group"
+  },
+  {
+    "code": "3161",
+    "title": "Luggage",
+    "level": "industry"
+  },
+  {
+    "code": "317",
+    "title": "Handbags and Other Personal Leather Goods",
+    "level": "industry_group"
+  },
+  {
+    "code": "3171",
+    "title": "Women's Handbags and Purses",
+    "level": "industry"
+  },
+  {
+    "code": "3172",
+    "title": "Personal Leather Goods, Except Women's Handbags and Purses",
+    "level": "industry"
+  },
+  {
+    "code": "319",
+    "title": "Leather Goods, NEC",
+    "level": "industry_group"
+  },
+  {
+    "code": "3199",
+    "title": "Leather Goods, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "32",
+    "title": "Stone, Clay, Glass, and Concrete Products",
+    "level": "major_group"
+  },
+  {
+    "code": "321",
+    "title": "Flat Glass",
+    "level": "industry_group"
+  },
+  {
+    "code": "3211",
+    "title": "Flat Glass",
+    "level": "industry"
+  },
+  {
+    "code": "322",
+    "title": "Glass and Glassware, Pressed or Blown",
+    "level": "industry_group"
+  },
+  {
+    "code": "3221",
+    "title": "Glass Containers",
+    "level": "industry"
+  },
+  {
+    "code": "3229",
+    "title": "Pressed and Blown Glass and Glassware, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "323",
+    "title": "Glass Products, Made of Purchased Glass",
+    "level": "industry_group"
+  },
+  {
+    "code": "3231",
+    "title": "Glass Products, Made of Purchased Glass",
+    "level": "industry"
+  },
+  {
+    "code": "324",
+    "title": "Cement, Hydraulic",
+    "level": "industry_group"
+  },
+  {
+    "code": "3241",
+    "title": "Cement, Hydraulic",
+    "level": "industry"
+  },
+  {
+    "code": "325",
+    "title": "Structural Clay Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "3251",
+    "title": "Brick and Structural Clay Tile",
+    "level": "industry"
+  },
+  {
+    "code": "3253",
+    "title": "Ceramic Wall and Floor Tile",
+    "level": "industry"
+  },
+  {
+    "code": "3255",
+    "title": "Clay Refractories",
+    "level": "industry"
+  },
+  {
+    "code": "3259",
+    "title": "Structural Clay Products, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "326",
+    "title": "Pottery and Related Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "3261",
+    "title": "Vitreous China Plumbing Fixtures and China and Earthenware Fittings and Bathroom Accessories",
+    "level": "industry"
+  },
+  {
+    "code": "3262",
+    "title": "Vitreous China Table and Kitchen Articles",
+    "level": "industry"
+  },
+  {
+    "code": "3263",
+    "title": "Fine Earthenware (Whiteware) Table and Kitchen Articles",
+    "level": "industry"
+  },
+  {
+    "code": "3264",
+    "title": "Porcelain Electrical Supplies",
+    "level": "industry"
+  },
+  {
+    "code": "3269",
+    "title": "Pottery Products, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "327",
+    "title": "Concrete, Gypsum, and Plaster Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "3271",
+    "title": "Concrete Block and Brick",
+    "level": "industry"
+  },
+  {
+    "code": "3272",
+    "title": "Concrete Products, Except Block and Brick",
+    "level": "industry"
+  },
+  {
+    "code": "3273",
+    "title": "Ready-Mixed Concrete",
+    "level": "industry"
+  },
+  {
+    "code": "3274",
+    "title": "Lime",
+    "level": "industry"
+  },
+  {
+    "code": "3275",
+    "title": "Gypsum Products",
+    "level": "industry"
+  },
+  {
+    "code": "328",
+    "title": "Cut Stone and Stone Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "3281",
+    "title": "Cut Stone and Stone Products",
+    "level": "industry"
+  },
+  {
+    "code": "329",
+    "title": "Abrasive, Asbestos, and Miscellaneous Nonmetallic Mineral Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "3291",
+    "title": "Abrasive Products",
+    "level": "industry"
+  },
+  {
+    "code": "3292",
+    "title": "Asbestos Products",
+    "level": "industry"
+  },
+  {
+    "code": "3295",
+    "title": "Minerals and Earths, Ground or Otherwise Treated",
+    "level": "industry"
+  },
+  {
+    "code": "3296",
+    "title": "Mineral Wool",
+    "level": "industry"
+  },
+  {
+    "code": "3297",
+    "title": "Nonclay Refractories",
+    "level": "industry"
+  },
+  {
+    "code": "3299",
+    "title": "Nonmetallic Mineral Products, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "33",
+    "title": "Primary Metal Industries",
+    "level": "major_group"
+  },
+  {
+    "code": "331",
+    "title": "Steel Works, Blast Furnaces, and Rolling and Finishing Mills",
+    "level": "industry_group"
+  },
+  {
+    "code": "3312",
+    "title": "Steel Works, Blast Furnaces (Including Coke Ovens), and Rolling Mills",
+    "level": "industry"
+  },
+  {
+    "code": "3313",
+    "title": "Electrometallurgical Products, Except Steel",
+    "level": "industry"
+  },
+  {
+    "code": "3315",
+    "title": "Steel Wiredrawing and Steel Nails and Spikes",
+    "level": "industry"
+  },
+  {
+    "code": "3316",
+    "title": "Cold-Rolled Steel Sheet, Strip, and Bars",
+    "level": "industry"
+  },
+  {
+    "code": "3317",
+    "title": "Steel Pipe and Tubes",
+    "level": "industry"
+  },
+  {
+    "code": "332",
+    "title": "Iron and Steel Foundries",
+    "level": "industry_group"
+  },
+  {
+    "code": "3321",
+    "title": "Gray and Ductile Iron Foundries",
+    "level": "industry"
+  },
+  {
+    "code": "3322",
+    "title": "Malleable Iron Foundries",
+    "level": "industry"
+  },
+  {
+    "code": "3324",
+    "title": "Steel Investment Foundries",
+    "level": "industry"
+  },
+  {
+    "code": "3325",
+    "title": "Steel Foundries, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "333",
+    "title": "Primary Smelting and Refining of Nonferrous Metals",
+    "level": "industry_group"
+  },
+  {
+    "code": "3331",
+    "title": "Primary Smelting and Refining of Copper",
+    "level": "industry"
+  },
+  {
+    "code": "3334",
+    "title": "Primary Production of Aluminum",
+    "level": "industry"
+  },
+  {
+    "code": "3339",
+    "title": "Primary Smelting and Refining of Nonferrous Metals, Except Copper and Aluminum",
+    "level": "industry"
+  },
+  {
+    "code": "334",
+    "title": "Secondary Smelting and Refining of Nonferrous Metals",
+    "level": "industry_group"
+  },
+  {
+    "code": "3341",
+    "title": "Secondary Smelting and Refining of Nonferrous Metals",
+    "level": "industry"
+  },
+  {
+    "code": "335",
+    "title": "Rolling, Drawing, and Extruding of Nonferrous Metals",
+    "level": "industry_group"
+  },
+  {
+    "code": "3351",
+    "title": "Rolling, Drawing, and Extruding of Copper",
+    "level": "industry"
+  },
+  {
+    "code": "3353",
+    "title": "Aluminum Sheet, Plate, and Foil",
+    "level": "industry"
+  },
+  {
+    "code": "3354",
+    "title": "Aluminum Extruded Products",
+    "level": "industry"
+  },
+  {
+    "code": "3355",
+    "title": "Aluminum Rolling and Drawing, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "3356",
+    "title": "Rolling, Drawing, and Extruding of Nonferrous Metals, Except Copper and Aluminum",
+    "level": "industry"
+  },
+  {
+    "code": "3357",
+    "title": "Drawing and Insulating of Nonferrous Metals",
+    "level": "industry"
+  },
+  {
+    "code": "336",
+    "title": "Nonferrous Foundries (Castings)",
+    "level": "industry_group"
+  },
+  {
+    "code": "3363",
+    "title": "Aluminum Die-Castings",
+    "level": "industry"
+  },
+  {
+    "code": "3364",
+    "title": "Nonferrous Die-Castings, Except Aluminum",
+    "level": "industry"
+  },
+  {
+    "code": "3365",
+    "title": "Aluminum Foundries",
+    "level": "industry"
+  },
+  {
+    "code": "3366",
+    "title": "Copper Foundries",
+    "level": "industry"
+  },
+  {
+    "code": "3369",
+    "title": "Nonferrous Foundries, Except Aluminum and Copper",
+    "level": "industry"
+  },
+  {
+    "code": "339",
+    "title": "Miscellaneous Primary Metal Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "3398",
+    "title": "Metal Heat Treating",
+    "level": "industry"
+  },
+  {
+    "code": "3399",
+    "title": "Primary Metal Products, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "34",
+    "title": "Fabricated Metal Products, Except Machinery and Transportation Equipment",
+    "level": "major_group"
+  },
+  {
+    "code": "341",
+    "title": "Metal Cans and Shipping Containers",
+    "level": "industry_group"
+  },
+  {
+    "code": "3411",
+    "title": "Metal Cans",
+    "level": "industry"
+  },
+  {
+    "code": "3412",
+    "title": "Metal Shipping Barrels, Drums, Kegs, and Pails",
+    "level": "industry"
+  },
+  {
+    "code": "342",
+    "title": "Cutlery, Handtools, and General Hardware",
+    "level": "industry_group"
+  },
+  {
+    "code": "3421",
+    "title": "Cutlery",
+    "level": "industry"
+  },
+  {
+    "code": "3423",
+    "title": "Hand and Edge Tools, Except Machine Tools and Handsaws",
+    "level": "industry"
+  },
+  {
+    "code": "3425",
+    "title": "Saw Blades and Handsaws",
+    "level": "industry"
+  },
+  {
+    "code": "3429",
+    "title": "Hardware, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "343",
+    "title": "Heating Equipment, Except Electric and Warm Air; and Plumbing Fixtures",
+    "level": "industry_group"
+  },
+  {
+    "code": "3431",
+    "title": "Enameled Iron and Metal Sanitary Ware",
+    "level": "industry"
+  },
+  {
+    "code": "3432",
+    "title": "Plumbing Fixture Fittings and Trim",
+    "level": "industry"
+  },
+  {
+    "code": "3433",
+    "title": "Heating Equipment, Except Electric and Warm Air Furnaces",
+    "level": "industry"
+  },
+  {
+    "code": "344",
+    "title": "Fabricated Structural Metal Manufacturing",
+    "level": "industry_group"
+  },
+  {
+    "code": "3441",
+    "title": "Fabricated Structural Metal",
+    "level": "industry"
+  },
+  {
+    "code": "3442",
+    "title": "Metal Doors, Sash, Frames, Molding, and Trim Manufacturing",
+    "level": "industry"
+  },
+  {
+    "code": "3443",
+    "title": "Fabricated Plate Work (Boiler Shops)",
+    "level": "industry"
+  },
+  {
+    "code": "3444",
+    "title": "Sheet Metal Work",
+    "level": "industry"
+  },
+  {
+    "code": "3446",
+    "title": "Architectural and Ornamental Metal Work",
+    "level": "industry"
+  },
+  {
+    "code": "3448",
+    "title": "Prefabricated Metal Buildings and Components",
+    "level": "industry"
+  },
+  {
+    "code": "3449",
+    "title": "Miscellaneous Structural Metal Work",
+    "level": "industry"
+  },
+  {
+    "code": "345",
+    "title": "Screw Machine Products, and Bolts, Nuts, Screws, Rivets, and Washers",
+    "level": "industry_group"
+  },
+  {
+    "code": "3451",
+    "title": "Screw Machine Products",
+    "level": "industry"
+  },
+  {
+    "code": "3452",
+    "title": "Bolts, Nuts, Screws, Rivets, and Washers",
+    "level": "industry"
+  },
+  {
+    "code": "346",
+    "title": "Metal Forgings and Stampings",
+    "level": "industry_group"
+  },
+  {
+    "code": "3462",
+    "title": "Iron and Steel Forgings",
+    "level": "industry"
+  },
+  {
+    "code": "3463",
+    "title": "Nonferrous Forgings",
+    "level": "industry"
+  },
+  {
+    "code": "3465",
+    "title": "Automotive Stampings",
+    "level": "industry"
+  },
+  {
+    "code": "3466",
+    "title": "Crowns and Closures",
+    "level": "industry"
+  },
+  {
+    "code": "3469",
+    "title": "Metal Stampings, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "347",
+    "title": "Coating, Engraving, and Allied Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "3471",
+    "title": "Electroplating, Plating, Polishing, Anodizing, and Coloring",
+    "level": "industry"
+  },
+  {
+    "code": "3479",
+    "title": "Services to Metal Coating and Allied Services, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "348",
+    "title": "Ordnance and Accessories, Except Vehicles and Guided Missiles",
+    "level": "industry_group"
+  },
+  {
+    "code": "3482",
+    "title": "Small Arms Ammunition",
+    "level": "industry"
+  },
+  {
+    "code": "3483",
+    "title": "Ammunition, Except for Small Arms, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "3484",
+    "title": "Small Arms",
+    "level": "industry"
+  },
+  {
+    "code": "3489",
+    "title": "Ordnance and Accessories, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "349",
+    "title": "Miscellaneous Fabricated Metal Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "3491",
+    "title": "Industrial Valves",
+    "level": "industry"
+  },
+  {
+    "code": "3492",
+    "title": "Fluid Power Valves and Hose Fittings",
+    "level": "industry"
+  },
+  {
+    "code": "3493",
+    "title": "Steel Springs, Except Wire",
+    "level": "industry"
+  },
+  {
+    "code": "3494",
+    "title": "Valves and Pipe Fittings, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "3495",
+    "title": "Wire Springs",
+    "level": "industry"
+  },
+  {
+    "code": "3496",
+    "title": "Miscellaneous Fabricated Wire Products",
+    "level": "industry"
+  },
+  {
+    "code": "3497",
+    "title": "Metal Foil and Leaf",
+    "level": "industry"
+  },
+  {
+    "code": "3498",
+    "title": "Fabricated Pipe and Pipe Fittings",
+    "level": "industry"
+  },
+  {
+    "code": "3499",
+    "title": "Miscellaneous Fabricated Metal Products, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "35",
+    "title": "Industrial and Commercial Machinery and Computer Equipment",
+    "level": "major_group"
+  },
+  {
+    "code": "351",
+    "title": "Engines and Turbines",
+    "level": "industry_group"
+  },
+  {
+    "code": "3511",
+    "title": "Steam, Gas, and Hydraulic Turbines, and Turbine Generator Set Units",
+    "level": "industry"
+  },
+  {
+    "code": "3519",
+    "title": "Internal Combustion Engines, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "352",
+    "title": "Farm and Garden Machinery and Equipment",
+    "level": "industry_group"
+  },
+  {
+    "code": "3523",
+    "title": "Farm Machinery and Equipment",
+    "level": "industry"
+  },
+  {
+    "code": "3524",
+    "title": "Lawn and Garden Tractors and Home Lawn and Garden Equipment",
+    "level": "industry"
+  },
+  {
+    "code": "353",
+    "title": "Construction, Mining, and Materials Handling Machinery and Equipment",
+    "level": "industry_group"
+  },
+  {
+    "code": "3531",
+    "title": "Construction Machinery and Equipment",
+    "level": "industry"
+  },
+  {
+    "code": "3532",
+    "title": "Mining Machinery and Equipment, Except Oil and Gas Field Machinery and Equipment",
+    "level": "industry"
+  },
+  {
+    "code": "3533",
+    "title": "Oil and Gas Field Machinery and Equipment",
+    "level": "industry"
+  },
+  {
+    "code": "3534",
+    "title": "Elevators and Moving Stairways",
+    "level": "industry"
+  },
+  {
+    "code": "3535",
+    "title": "Conveyors and Conveying Equipment",
+    "level": "industry"
+  },
+  {
+    "code": "3536",
+    "title": "Overhead Traveling Cranes, Hoists, and Monorail Systems",
+    "level": "industry"
+  },
+  {
+    "code": "3537",
+    "title": "Industrial Trucks, Tractors, Trailers, and Stackers",
+    "level": "industry"
+  },
+  {
+    "code": "354",
+    "title": "Metalworking Machinery and Equipment",
+    "level": "industry_group"
+  },
+  {
+    "code": "3541",
+    "title": "Machine Tools, Metal Cutting Types",
+    "level": "industry"
+  },
+  {
+    "code": "3542",
+    "title": "Machine Tools, Metal Forming Types",
+    "level": "industry"
+  },
+  {
+    "code": "3543",
+    "title": "Industrial Patterns",
+    "level": "industry"
+  },
+  {
+    "code": "3544",
+    "title": "Special Dies, Tools, Jigs, and Fixtures",
+    "level": "industry"
+  },
+  {
+    "code": "3545",
+    "title": "Cutting Tools, Machine Tool Accessories, and Machinists' Precision Measuring Devices",
+    "level": "industry"
+  },
+  {
+    "code": "3546",
+    "title": "Power-Driven Handtools",
+    "level": "industry"
+  },
+  {
+    "code": "3547",
+    "title": "Rolling Mill Machinery and Equipment",
+    "level": "industry"
+  },
+  {
+    "code": "3548",
+    "title": "Welding Apparatus",
+    "level": "industry"
+  },
+  {
+    "code": "3549",
+    "title": "Metalworking Machinery, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "355",
+    "title": "Special Industry Machinery, Except Metalworking",
+    "level": "industry_group"
+  },
+  {
+    "code": "3552",
+    "title": "Textile Machinery",
+    "level": "industry"
+  },
+  {
+    "code": "3553",
+    "title": "Woodworking Machinery",
+    "level": "industry"
+  },
+  {
+    "code": "3554",
+    "title": "Paper Industries Machinery",
+    "level": "industry"
+  },
+  {
+    "code": "3555",
+    "title": "Printing Trades Machinery and Equipment",
+    "level": "industry"
+  },
+  {
+    "code": "3556",
+    "title": "Food Products Machinery",
+    "level": "industry"
+  },
+  {
+    "code": "3559",
+    "title": "Special Industry Machinery, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "356",
+    "title": "General Industrial Machinery and Equipment",
+    "level": "industry_group"
+  },
+  {
+    "code": "3561",
+    "title": "Pumps and Pumping Equipment",
+    "level": "industry"
+  },
+  {
+    "code": "3562",
+    "title": "Ball and Roller Bearings",
+    "level": "industry"
+  },
+  {
+    "code": "3563",
+    "title": "Air and Gas Compressors",
+    "level": "industry"
+  },
+  {
+    "code": "3564",
+    "title": "Industrial and Commercial Machinery and Equipment, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "3565",
+    "title": "Packaging Machinery",
+    "level": "industry"
+  },
+  {
+    "code": "3566",
+    "title": "Speed Changers, Industrial High-Speed Drives, and Gears",
+    "level": "industry"
+  },
+  {
+    "code": "3567",
+    "title": "Industrial Process Furnaces and Ovens",
+    "level": "industry"
+  },
+  {
+    "code": "3568",
+    "title": "General Industrial Machinery and Equipment, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "3569",
+    "title": "General Industrial Machinery and Equipment, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "357",
+    "title": "Computer and Office Equipment",
+    "level": "industry_group"
+  },
+  {
+    "code": "3571",
+    "title": "Electronic Computers",
+    "level": "industry"
+  },
+  {
+    "code": "3572",
+    "title": "Computer Storage Devices",
+    "level": "industry"
+  },
+  {
+    "code": "3575",
+    "title": "Computer Terminals",
+    "level": "industry"
+  },
+  {
+    "code": "3577",
+    "title": "Computer Peripheral Equipment, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "3578",
+    "title": "Calculating and Accounting Machines, Except Electronic Computers",
+    "level": "industry"
+  },
+  {
+    "code": "3579",
+    "title": "Office Machines, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "358",
+    "title": "Refrigeration and Service Industry Machinery",
+    "level": "industry_group"
+  },
+  {
+    "code": "3581",
+    "title": "Automatic Vending Machines",
+    "level": "industry"
+  },
+  {
+    "code": "3582",
+    "title": "Commercial Laundry, Drycleaning, and Pressing Machines",
+    "level": "industry"
+  },
+  {
+    "code": "3585",
+    "title": "Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment",
+    "level": "industry"
+  },
+  {
+    "code": "3586",
+    "title": "Measuring and Dispensing Pumps",
+    "level": "industry"
+  },
+  {
+    "code": "3589",
+    "title": "Industrial and Commercial Machinery and Equipment, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "359",
+    "title": "Miscellaneous Industrial and Commercial Machinery and Equipment",
+    "level": "industry_group"
+  },
+  {
+    "code": "3592",
+    "title": "Carburetors, Pistons, Piston Rings, and Valves",
+    "level": "industry"
+  },
+  {
+    "code": "3593",
+    "title": "Fluid Power Cylinders and Actuators",
+    "level": "industry"
+  },
+  {
+    "code": "3594",
+    "title": "Fluid Power Pumps and Motors",
+    "level": "industry"
+  },
+  {
+    "code": "3596",
+    "title": "Scales and Balances, Except Laboratory",
+    "level": "industry"
+  },
+  {
+    "code": "3599",
+    "title": "Industrial and Commercial Machinery and Equipment, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "36",
+    "title": "Electronic and Other Electrical Equipment and Components, Except Computer Equipment",
+    "level": "major_group"
+  },
+  {
+    "code": "361",
+    "title": "Electric Transmission and Distribution Equipment",
+    "level": "industry_group"
+  },
+  {
+    "code": "3612",
+    "title": "Power, Distribution, and Specialty Transformers",
+    "level": "industry"
+  },
+  {
+    "code": "3613",
+    "title": "Switchgear and Switchboard Apparatus",
+    "level": "industry"
+  },
+  {
+    "code": "362",
+    "title": "Electrical Industrial Apparatus",
+    "level": "industry_group"
+  },
+  {
+    "code": "3621",
+    "title": "Motors and Generators",
+    "level": "industry"
+  },
+  {
+    "code": "3624",
+    "title": "Carbon and Graphite Products",
+    "level": "industry"
+  },
+  {
+    "code": "3625",
+    "title": "Relays and Industrial Controls",
+    "level": "industry"
+  },
+  {
+    "code": "3629",
+    "title": "Electrical Industrial Apparatus, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "363",
+    "title": "Household Appliances",
+    "level": "industry_group"
+  },
+  {
+    "code": "3631",
+    "title": "Household Cooking Equipment",
+    "level": "industry"
+  },
+  {
+    "code": "3632",
+    "title": "Household Refrigerators and Home and Farm Freezers",
+    "level": "industry"
+  },
+  {
+    "code": "3633",
+    "title": "Household Laundry Equipment",
+    "level": "industry"
+  },
+  {
+    "code": "3634",
+    "title": "Housewares and Fans",
+    "level": "industry"
+  },
+  {
+    "code": "3635",
+    "title": "Household Vacuum Cleaners",
+    "level": "industry"
+  },
+  {
+    "code": "3639",
+    "title": "Household Appliances, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "364",
+    "title": "Electric Lighting and Wiring Equipment",
+    "level": "industry_group"
+  },
+  {
+    "code": "3641",
+    "title": "Current-Carrying Wiring Devices",
+    "level": "industry"
+  },
+  {
+    "code": "3643",
+    "title": "Current-Carrying Wiring Devices",
+    "level": "industry"
+  },
+  {
+    "code": "3644",
+    "title": "Noncurrent-Carrying Wiring Devices",
+    "level": "industry"
+  },
+  {
+    "code": "3645",
+    "title": "Residential Electric Lighting Fixtures",
+    "level": "industry"
+  },
+  {
+    "code": "3646",
+    "title": "Commercial, Industrial, and Institutional Electric Lighting Fixtures",
+    "level": "industry"
+  },
+  {
+    "code": "3647",
+    "title": "Vehicular Lighting Equipment",
+    "level": "industry"
+  },
+  {
+    "code": "3648",
+    "title": "Lighting Equipment, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "365",
+    "title": "Household Audio and Video Equipment, and Audio Recordings",
+    "level": "industry_group"
+  },
+  {
+    "code": "3651",
+    "title": "Household Audio and Video Equipment",
+    "level": "industry"
+  },
+  {
+    "code": "3652",
+    "title": "Phonograph Records and Prerecorded Audio Tapes and Disks",
+    "level": "industry"
+  },
+  {
+    "code": "366",
+    "title": "Communication Equipment",
+    "level": "industry_group"
+  },
+  {
+    "code": "3661",
+    "title": "Telephone and Telegraph Apparatus",
+    "level": "industry"
+  },
+  {
+    "code": "3663",
+    "title": "Radio and Television Broadcasting and Communications Equipment",
+    "level": "industry"
+  },
+  {
+    "code": "3669",
+    "title": "Communications Equipment, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "367",
+    "title": "Electronic Components and Accessories",
+    "level": "industry_group"
+  },
+  {
+    "code": "3671",
+    "title": "Electron Tubes",
+    "level": "industry"
+  },
+  {
+    "code": "3672",
+    "title": "Printed Circuit Boards",
+    "level": "industry"
+  },
+  {
+    "code": "3674",
+    "title": "Semiconductors and Related Devices",
+    "level": "industry"
+  },
+  {
+    "code": "3675",
+    "title": "Electronic Capacitors",
+    "level": "industry"
+  },
+  {
+    "code": "3676",
+    "title": "Electronic Resistors",
+    "level": "industry"
+  },
+  {
+    "code": "3677",
+    "title": "Electronic Coils, Transformers, and Other Inductors",
+    "level": "industry"
+  },
+  {
+    "code": "3678",
+    "title": "Electronic Connectors",
+    "level": "industry"
+  },
+  {
+    "code": "3679",
+    "title": "Electronic Components, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "369",
+    "title": "Miscellaneous Electrical Machinery, Equipment, and Supplies",
+    "level": "industry_group"
+  },
+  {
+    "code": "3691",
+    "title": "Storage Batteries",
+    "level": "industry"
+  },
+  {
+    "code": "3692",
+    "title": "Primary Batteries, Dry and Wet",
+    "level": "industry"
+  },
+  {
+    "code": "3694",
+    "title": "Electrical Equipment for Internal Combustion Engines",
+    "level": "industry"
+  },
+  {
+    "code": "3695",
+    "title": "Magnetic and Optical Recording Media",
+    "level": "industry"
+  },
+  {
+    "code": "3699",
+    "title": "Electronic and Other Electrical Equipment and Components, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "37",
+    "title": "Transportation Equipment",
+    "level": "major_group"
+  },
+  {
+    "code": "371",
+    "title": "Motor Vehicles and Motor Vehicle Equipment",
+    "level": "industry_group"
+  },
+  {
+    "code": "3711",
+    "title": "Motor Vehicles and Passenger Car Bodies",
+    "level": "industry"
+  },
+  {
+    "code": "3713",
+    "title": "Truck and Bus Bodies",
+    "level": "industry"
+  },
+  {
+    "code": "3714",
+    "title": "Motor Vehicle Parts and Accessories",
+    "level": "industry"
+  },
+  {
+    "code": "3715",
+    "title": "Truck Trailers",
+    "level": "industry"
+  },
+  {
+    "code": "3716",
+    "title": "Motor Homes",
+    "level": "industry"
+  },
+  {
+    "code": "372",
+    "title": "Aircraft and Parts",
+    "level": "industry_group"
+  },
+  {
+    "code": "3721",
+    "title": "Aircraft",
+    "level": "industry"
+  },
+  {
+    "code": "3724",
+    "title": "Aircraft Engines and Engine Parts",
+    "level": "industry"
+  },
+  {
+    "code": "3728",
+    "title": "Aircraft Parts and Auxiliary Equipment, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "373",
+    "title": "Ship and Boat Building and Repairing",
+    "level": "industry_group"
+  },
+  {
+    "code": "3731",
+    "title": "Ship Building and Repairing",
+    "level": "industry"
+  },
+  {
+    "code": "3732",
+    "title": "Boat Building and Repairing",
+    "level": "industry"
+  },
+  {
+    "code": "374",
+    "title": "Railroad Equipment",
+    "level": "industry_group"
+  },
+  {
+    "code": "3743",
+    "title": "Railroad Equipment",
+    "level": "industry"
+  },
+  {
+    "code": "375",
+    "title": "Motorcycles, Bicycles, and Parts",
+    "level": "industry_group"
+  },
+  {
+    "code": "3751",
+    "title": "Motorcycles, Bicycles, and Parts",
+    "level": "industry"
+  },
+  {
+    "code": "376",
+    "title": "Guided Missiles and Space Vehicles and Parts",
+    "level": "industry_group"
+  },
+  {
+    "code": "3761",
+    "title": "Guided Missiles and Space Vehicles",
+    "level": "industry"
+  },
+  {
+    "code": "3764",
+    "title": "Guided Missile and Space Vehicle Propulsion Units and Propulsion Unit Parts",
+    "level": "industry"
+  },
+  {
+    "code": "3769",
+    "title": "Guided Missile Space Vehicle Parts and Auxiliary Equipment, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "379",
+    "title": "Miscellaneous Transportation Equipment",
+    "level": "industry_group"
+  },
+  {
+    "code": "3792",
+    "title": "Travel Trailers and Campers",
+    "level": "industry"
+  },
+  {
+    "code": "3795",
+    "title": "Tanks and Tank Components",
+    "level": "industry"
+  },
+  {
+    "code": "3799",
+    "title": "Transportation Equipment, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "38",
+    "title": "Measuring, Analyzing, and Controlling Instruments; Photographic, Medical and Optical Goods; Watches and Clocks",
+    "level": "major_group"
+  },
+  {
+    "code": "381",
+    "title": "Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems and Instruments",
+    "level": "industry_group"
+  },
+  {
+    "code": "3812",
+    "title": "Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems and Instruments",
+    "level": "industry"
+  },
+  {
+    "code": "382",
+    "title": "Laboratory Apparatus and Analytical, Optical, Measuring, and Controlling Instruments",
+    "level": "industry_group"
+  },
+  {
+    "code": "3821",
+    "title": "Laboratory Apparatus and Furniture",
+    "level": "industry"
+  },
+  {
+    "code": "3822",
+    "title": "Automatic Controls for Regulating Residential and Commercial Environments and Appliances",
+    "level": "industry"
+  },
+  {
+    "code": "3823",
+    "title": "Industrial Instruments for Measurement, Display, Indicating, Recording, Transmitting, and Controlling",
+    "level": "industry"
+  },
+  {
+    "code": "3824",
+    "title": "Industrial Process Control Instruments",
+    "level": "industry"
+  },
+  {
+    "code": "3825",
+    "title": "Instruments for Measuring and Testing of Electricity and Electrical Signals",
+    "level": "industry"
+  },
+  {
+    "code": "3826",
+    "title": "Laboratory Analytical Instruments",
+    "level": "industry"
+  },
+  {
+    "code": "3827",
+    "title": "Optical Instruments and Lenses",
+    "level": "industry"
+  },
+  {
+    "code": "3829",
+    "title": "Measuring and Controlling Devices, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "384",
+    "title": "Surgical, Medical, and Dental Instruments and Supplies",
+    "level": "industry_group"
+  },
+  {
+    "code": "3841",
+    "title": "Surgical and Medical Instruments and Apparatus",
+    "level": "industry"
+  },
+  {
+    "code": "3842",
+    "title": "Orthopedic, Prosthetic, and Surgical Appliances and Supplies",
+    "level": "industry"
+  },
+  {
+    "code": "3843",
+    "title": "Dental Equipment and Supplies",
+    "level": "industry"
+  },
+  {
+    "code": "3844",
+    "title": "X-Ray Apparatus and Tubes and Related Irradiation Apparatus",
+    "level": "industry"
+  },
+  {
+    "code": "3845",
+    "title": "Electromedical and Electrotherapeutic Apparatus",
+    "level": "industry"
+  },
+  {
+    "code": "385",
+    "title": "Ophthalmic Goods",
+    "level": "industry_group"
+  },
+  {
+    "code": "3851",
+    "title": "Ophthalmic Goods",
+    "level": "industry"
+  },
+  {
+    "code": "386",
+    "title": "Photographic Equipment and Supplies",
+    "level": "industry_group"
+  },
+  {
+    "code": "3861",
+    "title": "Photographic Equipment and Supplies",
+    "level": "industry"
+  },
+  {
+    "code": "387",
+    "title": "Watches, Clocks, Clockwork Operated Devices, and Parts",
+    "level": "industry_group"
+  },
+  {
+    "code": "3873",
+    "title": "Watches, Clocks, Clockwork Operated Devices, and Parts",
+    "level": "industry"
+  },
+  {
+    "code": "39",
+    "title": "Miscellaneous Manufacturing Industries",
+    "level": "major_group"
+  },
+  {
+    "code": "391",
+    "title": "Jewelry, Silverware, and Plated Ware",
+    "level": "industry_group"
+  },
+  {
+    "code": "3911",
+    "title": "Jewelry, Precious Metal",
+    "level": "industry"
+  },
+  {
+    "code": "3914",
+    "title": "Silverware, Plated Ware, and Stainless Steel Ware",
+    "level": "industry"
+  },
+  {
+    "code": "3915",
+    "title": "Jewelers' Findings and Materials, and Lapidary Work",
+    "level": "industry"
+  },
+  {
+    "code": "393",
+    "title": "Musical Instruments",
+    "level": "industry_group"
+  },
+  {
+    "code": "3931",
+    "title": "Musical Instruments",
+    "level": "industry"
+  },
+  {
+    "code": "394",
+    "title": "Dolls, Toys, Games and Sporting and Athletic Goods",
+    "level": "industry_group"
+  },
+  {
+    "code": "3942",
+    "title": "Dolls and Stuffed Toys",
+    "level": "industry"
+  },
+  {
+    "code": "3944",
+    "title": "Games, Toys, and Children's Vehicles, Except Dolls and Bicycles",
+    "level": "industry"
+  },
+  {
+    "code": "3949",
+    "title": "Sporting and Athletic Goods, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "395",
+    "title": "Pens, Pencils, and Other Artists' Materials",
+    "level": "industry_group"
+  },
+  {
+    "code": "3951",
+    "title": "Pens, Mechanical Pencils, and Parts",
+    "level": "industry"
+  },
+  {
+    "code": "3952",
+    "title": "Lead Pencils, Crayons, and Artists' Materials",
+    "level": "industry"
+  },
+  {
+    "code": "3953",
+    "title": "Marking Devices",
+    "level": "industry"
+  },
+  {
+    "code": "3955",
+    "title": "Carbon Paper and Inked Ribbons",
+    "level": "industry"
+  },
+  {
+    "code": "396",
+    "title": "Costume Jewelry, Costume Novelties, Buttons, and Miscellaneous Notions, Except Precious Metal",
+    "level": "industry_group"
+  },
+  {
+    "code": "3961",
+    "title": "Costume Jewelry and Costume Novelties, Except Precious Metal",
+    "level": "industry"
+  },
+  {
+    "code": "3965",
+    "title": "Fasteners, Buttons, Needles, and Pins",
+    "level": "industry"
+  },
+  {
+    "code": "399",
+    "title": "Miscellaneous Manufacturing Industries",
+    "level": "industry_group"
+  },
+  {
+    "code": "3991",
+    "title": "Brooms, Brushes, Mops, and Sponges",
+    "level": "industry"
+  },
+  {
+    "code": "3993",
+    "title": "Signs and Advertising Specialties",
+    "level": "industry"
+  },
+  {
+    "code": "3995",
+    "title": "Burial Caskets",
+    "level": "industry"
+  },
+  {
+    "code": "3996",
+    "title": "Linoleum, Asphalted-Felt-Base, and Other Hard Surface Floor Coverings, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "3999",
+    "title": "Manufacturing Industries, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "40",
+    "title": "Railroad Transportation",
+    "level": "major_group"
+  },
+  {
+    "code": "401",
+    "title": "Railroads, Line-Haul Operating",
+    "level": "industry_group"
+  },
+  {
+    "code": "4011",
+    "title": "Railroads, Line-Haul Operating",
+    "level": "industry"
+  },
+  {
+    "code": "402",
+    "title": "Railroad Switching and Terminal Establishments",
+    "level": "industry_group"
+  },
+  {
+    "code": "4013",
+    "title": "Railroad Switching and Terminal Establishments",
+    "level": "industry"
+  },
+  {
+    "code": "41",
+    "title": "Local and Suburban Transit and Interurban Highway Passenger Transportation",
+    "level": "major_group"
+  },
+  {
+    "code": "411",
+    "title": "Local and Suburban Transit",
+    "level": "industry_group"
+  },
+  {
+    "code": "4111",
+    "title": "Local and Suburban Transit",
+    "level": "industry"
+  },
+  {
+    "code": "4119",
+    "title": "Local Passenger Transportation, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "412",
+    "title": "Taxicabs",
+    "level": "industry_group"
+  },
+  {
+    "code": "4121",
+    "title": "Taxicabs",
+    "level": "industry"
+  },
+  {
+    "code": "413",
+    "title": "Intercity and Rural Bus Transportation",
+    "level": "industry_group"
+  },
+  {
+    "code": "4131",
+    "title": "Intercity and Rural Bus Transportation",
+    "level": "industry"
+  },
+  {
+    "code": "414",
+    "title": "Bus Charter Service",
+    "level": "industry_group"
+  },
+  {
+    "code": "4141",
+    "title": "Local Bus Charter Service",
+    "level": "industry"
+  },
+  {
+    "code": "4142",
+    "title": "Bus Charter Service, Except Local",
+    "level": "industry"
+  },
+  {
+    "code": "415",
+    "title": "School Buses",
+    "level": "industry_group"
+  },
+  {
+    "code": "4151",
+    "title": "School Buses",
+    "level": "industry"
+  },
+  {
+    "code": "417",
+    "title": "Terminal and Service Facilities for Motor Vehicle Passenger Transportation",
+    "level": "industry_group"
+  },
+  {
+    "code": "4173",
+    "title": "Terminal and Service Facilities for Motor Vehicle Passenger Transportation",
+    "level": "industry"
+  },
+  {
+    "code": "42",
+    "title": "Motor Freight Transportation and Warehousing",
+    "level": "major_group"
+  },
+  {
+    "code": "421",
+    "title": "Trucking and Courier Services, Except Air",
+    "level": "industry_group"
+  },
+  {
+    "code": "4212",
+    "title": "Local Trucking Without Storage",
+    "level": "industry"
+  },
+  {
+    "code": "4213",
+    "title": "Trucking, Except Local",
+    "level": "industry"
+  },
+  {
+    "code": "4214",
+    "title": "Local Trucking With Storage",
+    "level": "industry"
+  },
+  {
+    "code": "4215",
+    "title": "Courier Services, Except by Air",
+    "level": "industry"
+  },
+  {
+    "code": "422",
+    "title": "Public Warehousing and Storage",
+    "level": "industry_group"
+  },
+  {
+    "code": "4221",
+    "title": "Farm Product Warehousing and Storage",
+    "level": "industry"
+  },
+  {
+    "code": "4222",
+    "title": "Refrigerated Warehousing and Storage",
+    "level": "industry"
+  },
+  {
+    "code": "4225",
+    "title": "General Warehousing and Storage",
+    "level": "industry"
+  },
+  {
+    "code": "4226",
+    "title": "Special Warehousing and Storage, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "43",
+    "title": "United States Postal Service",
+    "level": "major_group"
+  },
+  {
+    "code": "431",
+    "title": "United States Postal Service",
+    "level": "industry_group"
+  },
+  {
+    "code": "4311",
+    "title": "United States Postal Service",
+    "level": "industry"
+  },
+  {
+    "code": "44",
+    "title": "Water Transportation",
+    "level": "major_group"
+  },
+  {
+    "code": "441",
+    "title": "Deep Sea Foreign Transportation of Freight",
+    "level": "industry_group"
+  },
+  {
+    "code": "4412",
+    "title": "Deep Sea Foreign Transportation of Freight",
+    "level": "industry"
+  },
+  {
+    "code": "442",
+    "title": "Deep Sea Domestic Transportation of Freight",
+    "level": "industry_group"
+  },
+  {
+    "code": "4424",
+    "title": "Deep Sea Domestic Transportation of Freight",
+    "level": "industry"
+  },
+  {
+    "code": "443",
+    "title": "Freight Transportation on the Great Lakes-St. Lawrence Seaway",
+    "level": "industry_group"
+  },
+  {
+    "code": "4432",
+    "title": "Freight Transportation on the Great Lakes-St. Lawrence Seaway",
+    "level": "industry"
+  },
+  {
+    "code": "444",
+    "title": "Water Transportation of Freight, NEC",
+    "level": "industry_group"
+  },
+  {
+    "code": "4449",
+    "title": "Services Incidental to Water Transportation, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "448",
+    "title": "Water Transportation of Passengers",
+    "level": "industry_group"
+  },
+  {
+    "code": "4481",
+    "title": "Deep Sea Transportation of Passengers, Except by Ferry",
+    "level": "industry"
+  },
+  {
+    "code": "4482",
+    "title": "Ferries",
+    "level": "industry"
+  },
+  {
+    "code": "4489",
+    "title": "Water Transportation of Passengers, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "449",
+    "title": "Services Incidental to Water Transportation",
+    "level": "industry_group"
+  },
+  {
+    "code": "4491",
+    "title": "Marine Cargo Handling",
+    "level": "industry"
+  },
+  {
+    "code": "4492",
+    "title": "Towing and Tugboat Services",
+    "level": "industry"
+  },
+  {
+    "code": "4493",
+    "title": "Marinas",
+    "level": "industry"
+  },
+  {
+    "code": "4499",
+    "title": "Services Incidental to Water Transportation, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "45",
+    "title": "Transportation by Air",
+    "level": "major_group"
+  },
+  {
+    "code": "451",
+    "title": "Air Transportation, Scheduled, and Air Courier Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "4512",
+    "title": "Air Transportation, Scheduled",
+    "level": "industry"
+  },
+  {
+    "code": "4513",
+    "title": "Air Courier Services",
+    "level": "industry"
+  },
+  {
+    "code": "452",
+    "title": "Air Transportation, Nonscheduled",
+    "level": "industry_group"
+  },
+  {
+    "code": "4522",
+    "title": "Air Transportation, Nonscheduled",
+    "level": "industry"
+  },
+  {
+    "code": "458",
+    "title": "Airports, Flying Fields, and Airport Terminal Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "4581",
+    "title": "Airports, Flying Fields, and Airport Terminal Services",
+    "level": "industry"
+  },
+  {
+    "code": "46",
+    "title": "Pipelines, Except Natural Gas",
+    "level": "major_group"
+  },
+  {
+    "code": "461",
+    "title": "Pipelines, Except Natural Gas",
+    "level": "industry_group"
+  },
+  {
+    "code": "4612",
+    "title": "Crude Petroleum Pipelines",
+    "level": "industry"
+  },
+  {
+    "code": "4613",
+    "title": "Refined Petroleum Pipelines",
+    "level": "industry"
+  },
+  {
+    "code": "4619",
+    "title": "Pipelines, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "47",
+    "title": "Transportation Services",
+    "level": "major_group"
+  },
+  {
+    "code": "471",
+    "title": "Freight Transportation Arrangement",
+    "level": "industry_group"
+  },
+  {
+    "code": "4712",
+    "title": "Freight Transportation Arrangement",
+    "level": "industry"
+  },
+  {
+    "code": "472",
+    "title": "Arrangement of Passenger Transportation",
+    "level": "industry_group"
+  },
+  {
+    "code": "4724",
+    "title": "Travel Agencies",
+    "level": "industry"
+  },
+  {
+    "code": "4725",
+    "title": "Tour Operators",
+    "level": "industry"
+  },
+  {
+    "code": "4729",
+    "title": "Arrangement of Passenger Transportation, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "473",
+    "title": "Rental of Railroad Cars",
+    "level": "industry_group"
+  },
+  {
+    "code": "4731",
+    "title": "Arrangement of Transportation of Freight and Cargo",
+    "level": "industry"
+  },
+  {
+    "code": "474",
+    "title": "Rental of Railroad Cars",
+    "level": "industry_group"
+  },
+  {
+    "code": "4741",
+    "title": "Rental of Railroad Cars",
+    "level": "industry"
+  },
+  {
+    "code": "478",
+    "title": "Miscellaneous Services Incidental to Transportation",
+    "level": "industry_group"
+  },
+  {
+    "code": "4783",
+    "title": "Packing and Crating",
+    "level": "industry"
+  },
+  {
+    "code": "4785",
+    "title": "Fixed Facilities and Inspection and Weighing Services for Motor Vehicle Transportation",
+    "level": "industry"
+  },
+  {
+    "code": "4789",
+    "title": "Services Allied to Transportation, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "48",
+    "title": "Communications",
+    "level": "major_group"
+  },
+  {
+    "code": "481",
+    "title": "Telephone Communications",
+    "level": "industry_group"
+  },
+  {
+    "code": "4812",
+    "title": "Radiotelephone Communications",
+    "level": "industry"
+  },
+  {
+    "code": "4813",
+    "title": "Telephone Communications, Except Radiotelephone",
+    "level": "industry"
+  },
+  {
+    "code": "482",
+    "title": "Telegraph and Other Message Communications",
+    "level": "industry_group"
+  },
+  {
+    "code": "4822",
+    "title": "Telegraph and Other Message Communications",
+    "level": "industry"
+  },
+  {
+    "code": "483",
+    "title": "Radio and Television Broadcasting Stations",
+    "level": "industry_group"
+  },
+  {
+    "code": "4832",
+    "title": "Radio Broadcasting Stations",
+    "level": "industry"
+  },
+  {
+    "code": "4833",
+    "title": "Television Broadcasting Stations",
+    "level": "industry"
+  },
+  {
+    "code": "484",
+    "title": "Cable and Other Pay Television Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "4841",
+    "title": "Cable and Other Pay Television Services",
+    "level": "industry"
+  },
+  {
+    "code": "489",
+    "title": "Communications Services, NEC",
+    "level": "industry_group"
+  },
+  {
+    "code": "4899",
+    "title": "Communications Services, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "49",
+    "title": "Electric, Gas, and Sanitary Services",
+    "level": "major_group"
+  },
+  {
+    "code": "491",
+    "title": "Electric Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "4911",
+    "title": "Electric Services",
+    "level": "industry"
+  },
+  {
+    "code": "4931",
+    "title": "Electric and Other Services Combined",
+    "level": "industry"
+  },
+  {
+    "code": "4932",
+    "title": "Gas and Other Services Combined",
+    "level": "industry"
+  },
+  {
+    "code": "4939",
+    "title": "Combination Utilities, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "492",
+    "title": "Gas Production and Distribution",
+    "level": "industry_group"
+  },
+  {
+    "code": "4922",
+    "title": "Natural Gas Transmission",
+    "level": "industry"
+  },
+  {
+    "code": "4923",
+    "title": "Natural Gas Transmission and Distribution",
+    "level": "industry"
+  },
+  {
+    "code": "4924",
+    "title": "Natural Gas Distribution",
+    "level": "industry"
+  },
+  {
+    "code": "4925",
+    "title": "Mixed, Manufactured, or Liquefied Petroleum Gas Production and/or Distribution",
+    "level": "industry"
+  },
+  {
+    "code": "493",
+    "title": "Combination Electric and Gas, and Other Utility Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "4941",
+    "title": "Water Supply",
+    "level": "industry"
+  },
+  {
+    "code": "494",
+    "title": "Water Supply",
+    "level": "industry_group"
+  },
+  {
+    "code": "4952",
+    "title": "Sewerage Systems",
+    "level": "industry"
+  },
+  {
+    "code": "4953",
+    "title": "Refuse Systems",
+    "level": "industry"
+  },
+  {
+    "code": "4959",
+    "title": "Services Allied to Motion Picture Production, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "495",
+    "title": "Sanitary Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "4961",
+    "title": "Steam and Air-Conditioning Supply",
+    "level": "industry"
+  },
+  {
+    "code": "50",
+    "title": "Wholesale Trade-Durable Goods",
+    "level": "major_group"
+  },
+  {
+    "code": "501",
+    "title": "Motor Vehicles and Motor Vehicle Parts and Supplies",
+    "level": "industry_group"
+  },
+  {
+    "code": "5012",
+    "title": "Automobiles and Other Motor Vehicles",
+    "level": "industry"
+  },
+  {
+    "code": "5013",
+    "title": "Motor Vehicle Supplies and New Parts",
+    "level": "industry"
+  },
+  {
+    "code": "5014",
+    "title": "Tires and Tubes",
+    "level": "industry"
+  },
+  {
+    "code": "5015",
+    "title": "Motor Vehicle Parts, Used",
+    "level": "industry"
+  },
+  {
+    "code": "502",
+    "title": "Furniture and Home Furnishings",
+    "level": "industry_group"
+  },
+  {
+    "code": "5021",
+    "title": "Furniture",
+    "level": "industry"
+  },
+  {
+    "code": "5023",
+    "title": "Home Furnishings",
+    "level": "industry"
+  },
+  {
+    "code": "503",
+    "title": "Lumber and Other Construction Materials",
+    "level": "industry_group"
+  },
+  {
+    "code": "5031",
+    "title": "Lumber, Plywood, Millwork, and Wood Panels",
+    "level": "industry"
+  },
+  {
+    "code": "5032",
+    "title": "Brick, Stone, and Related Construction Materials",
+    "level": "industry"
+  },
+  {
+    "code": "5033",
+    "title": "Roofing, Siding, and Insulation Materials",
+    "level": "industry"
+  },
+  {
+    "code": "5039",
+    "title": "Construction Materials, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "504",
+    "title": "Professional and Commercial Equipment and Supplies",
+    "level": "industry_group"
+  },
+  {
+    "code": "5043",
+    "title": "Photographic Equipment and Supplies",
+    "level": "industry"
+  },
+  {
+    "code": "5044",
+    "title": "Office Equipment",
+    "level": "industry"
+  },
+  {
+    "code": "5045",
+    "title": "Computers and Computer Peripherals and Software",
+    "level": "industry"
+  },
+  {
+    "code": "5046",
+    "title": "Commercial Equipment, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "5047",
+    "title": "Medical and Hospital Equipment and Supplies",
+    "level": "industry"
+  },
+  {
+    "code": "5048",
+    "title": "Ophthalmic Goods",
+    "level": "industry"
+  },
+  {
+    "code": "5049",
+    "title": "Professional Equipment and Supplies, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "505",
+    "title": "Metals and Minerals, Except Petroleum",
+    "level": "industry_group"
+  },
+  {
+    "code": "5051",
+    "title": "Metals Service Centers and Offices",
+    "level": "industry"
+  },
+  {
+    "code": "5052",
+    "title": "Coal and Other Minerals and Ores",
+    "level": "industry"
+  },
+  {
+    "code": "506",
+    "title": "Electrical Goods",
+    "level": "industry_group"
+  },
+  {
+    "code": "5063",
+    "title": "Electrical Apparatus and Equipment, Wiring Supplies, and Construction Materials",
+    "level": "industry"
+  },
+  {
+    "code": "5064",
+    "title": "Electrical Appliances, Television and Radio Sets",
+    "level": "industry"
+  },
+  {
+    "code": "5065",
+    "title": "Electronic Parts and Equipment, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "507",
+    "title": "Hardware, and Plumbing and Heating Equipment and Supplies",
+    "level": "industry_group"
+  },
+  {
+    "code": "5072",
+    "title": "Hardware",
+    "level": "industry"
+  },
+  {
+    "code": "5074",
+    "title": "Plumbing and Heating Equipment and Supplies (Hydronics)",
+    "level": "industry"
+  },
+  {
+    "code": "5075",
+    "title": "Warm Air Heating and Air-Conditioning Equipment and Supplies",
+    "level": "industry"
+  },
+  {
+    "code": "5078",
+    "title": "Refrigeration Equipment and Supplies",
+    "level": "industry"
+  },
+  {
+    "code": "508",
+    "title": "Machinery, Equipment, and Supplies",
+    "level": "industry_group"
+  },
+  {
+    "code": "5082",
+    "title": "Construction and Mining (Except Petroleum) Machinery and Equipment",
+    "level": "industry"
+  },
+  {
+    "code": "5083",
+    "title": "Farm and Garden Machinery and Equipment",
+    "level": "industry"
+  },
+  {
+    "code": "5084",
+    "title": "Industrial Machinery and Equipment",
+    "level": "industry"
+  },
+  {
+    "code": "5085",
+    "title": "Industrial and Personal Service Paper",
+    "level": "industry"
+  },
+  {
+    "code": "5087",
+    "title": "Service Establishment Equipment and Supplies",
+    "level": "industry"
+  },
+  {
+    "code": "5088",
+    "title": "Transportation Equipment and Supplies, Except Motor Vehicles",
+    "level": "industry"
+  },
+  {
+    "code": "509",
+    "title": "Miscellaneous Durable Goods",
+    "level": "industry_group"
+  },
+  {
+    "code": "5091",
+    "title": "Sporting and Recreational Goods and Supplies",
+    "level": "industry"
+  },
+  {
+    "code": "5092",
+    "title": "Toys and Hobby Goods and Supplies",
+    "level": "industry"
+  },
+  {
+    "code": "5093",
+    "title": "Scrap and Waste Materials",
+    "level": "industry"
+  },
+  {
+    "code": "5094",
+    "title": "Jewelry, Watches, Precious Stones, and Precious Metals",
+    "level": "industry"
+  },
+  {
+    "code": "5099",
+    "title": "Durable Goods, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "51",
+    "title": "Wholesale Trade-Nondurable Goods",
+    "level": "major_group"
+  },
+  {
+    "code": "511",
+    "title": "Paper and Paper Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "5111",
+    "title": "Printing and Writing Paper",
+    "level": "industry"
+  },
+  {
+    "code": "5112",
+    "title": "Stationery and Office Supplies",
+    "level": "industry"
+  },
+  {
+    "code": "5113",
+    "title": "Industrial and Personal Service Paper",
+    "level": "industry"
+  },
+  {
+    "code": "512",
+    "title": "Drugs, Drug Proprietaries, and Druggists' Sundries",
+    "level": "industry_group"
+  },
+  {
+    "code": "5122",
+    "title": "Drugs, Drug Proprietaries, and Druggists' Sundries",
+    "level": "industry"
+  },
+  {
+    "code": "513",
+    "title": "Apparel, Piece Goods, and Notions",
+    "level": "industry_group"
+  },
+  {
+    "code": "5131",
+    "title": "Piece Goods, Notions, and Other Dry Goods",
+    "level": "industry"
+  },
+  {
+    "code": "5136",
+    "title": "Men's and Boys' Clothing and Furnishings",
+    "level": "industry"
+  },
+  {
+    "code": "5137",
+    "title": "Women's, Children's, and Infants' Clothing and Accessories",
+    "level": "industry"
+  },
+  {
+    "code": "5139",
+    "title": "Footwear",
+    "level": "industry"
+  },
+  {
+    "code": "514",
+    "title": "Groceries and Related Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "5141",
+    "title": "Groceries, General Line",
+    "level": "industry"
+  },
+  {
+    "code": "5142",
+    "title": "Packaged Frozen Foods",
+    "level": "industry"
+  },
+  {
+    "code": "5143",
+    "title": "Dairy Products, Except Dried or Canned",
+    "level": "industry"
+  },
+  {
+    "code": "5144",
+    "title": "Poultry and Poultry Products",
+    "level": "industry"
+  },
+  {
+    "code": "5145",
+    "title": "Confectionery",
+    "level": "industry"
+  },
+  {
+    "code": "5146",
+    "title": "Fish and Seafoods",
+    "level": "industry"
+  },
+  {
+    "code": "5147",
+    "title": "Meats and Meat Products",
+    "level": "industry"
+  },
+  {
+    "code": "5148",
+    "title": "Fresh Fruits and Vegetables",
+    "level": "industry"
+  },
+  {
+    "code": "5149",
+    "title": "Groceries and Related Products, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "515",
+    "title": "Farm-Product Raw Materials",
+    "level": "industry_group"
+  },
+  {
+    "code": "5153",
+    "title": "Grain and Field Beans",
+    "level": "industry"
+  },
+  {
+    "code": "5154",
+    "title": "Livestock",
+    "level": "industry"
+  },
+  {
+    "code": "5159",
+    "title": "Farm-Product Raw Materials, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "516",
+    "title": "Chemicals and Allied Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "5162",
+    "title": "Plastics Materials and Basic Forms and Shapes",
+    "level": "industry"
+  },
+  {
+    "code": "5169",
+    "title": "Chemicals and Allied Products, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "517",
+    "title": "Petroleum and Petroleum Products",
+    "level": "industry_group"
+  },
+  {
+    "code": "5171",
+    "title": "Petroleum Bulk Stations and Terminals",
+    "level": "industry"
+  },
+  {
+    "code": "5172",
+    "title": "Petroleum and Petroleum Products Wholesalers, Except Bulk Stations and Terminals",
+    "level": "industry"
+  },
+  {
+    "code": "518",
+    "title": "Beer, Wine, and Distilled Alcoholic Beverages",
+    "level": "industry_group"
+  },
+  {
+    "code": "5181",
+    "title": "Beer and Ale",
+    "level": "industry"
+  },
+  {
+    "code": "5182",
+    "title": "Wine and Distilled Alcoholic Beverages",
+    "level": "industry"
+  },
+  {
+    "code": "519",
+    "title": "Miscellaneous Nondurable Goods",
+    "level": "industry_group"
+  },
+  {
+    "code": "5191",
+    "title": "Farm Supplies",
+    "level": "industry"
+  },
+  {
+    "code": "5192",
+    "title": "Books, Periodicals, and Newspapers",
+    "level": "industry"
+  },
+  {
+    "code": "5193",
+    "title": "Flowers, Nursery Stock, and Florists' Supplies",
+    "level": "industry"
+  },
+  {
+    "code": "5194",
+    "title": "Tobacco and Tobacco Products",
+    "level": "industry"
+  },
+  {
+    "code": "5198",
+    "title": "Paints, Varnishes, and Supplies",
+    "level": "industry"
+  },
+  {
+    "code": "5199",
+    "title": "Nondurable Goods, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "52",
+    "title": "Building Materials, Hardware, Garden Supply, and Mobile Home Dealers",
+    "level": "major_group"
+  },
+  {
+    "code": "521",
+    "title": "Lumber and Other Building Materials Dealers",
+    "level": "industry_group"
+  },
+  {
+    "code": "5211",
+    "title": "Lumber and Other Building Materials Dealers",
+    "level": "industry"
+  },
+  {
+    "code": "523",
+    "title": "Paint, Glass, and Wallpaper Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5231",
+    "title": "Paint, Glass, and Wallpaper Stores",
+    "level": "industry"
+  },
+  {
+    "code": "525",
+    "title": "Hardware Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5251",
+    "title": "Hardware Stores",
+    "level": "industry"
+  },
+  {
+    "code": "526",
+    "title": "Retail Nurseries, Lawn and Garden Supply Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5261",
+    "title": "Retail Nurseries, Lawn and Garden Supply Stores",
+    "level": "industry"
+  },
+  {
+    "code": "527",
+    "title": "Mobile Home Dealers",
+    "level": "industry_group"
+  },
+  {
+    "code": "5271",
+    "title": "Mobile Home Dealers",
+    "level": "industry"
+  },
+  {
+    "code": "53",
+    "title": "General Merchandise Stores",
+    "level": "major_group"
+  },
+  {
+    "code": "531",
+    "title": "Department Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5311",
+    "title": "Department Stores",
+    "level": "industry"
+  },
+  {
+    "code": "533",
+    "title": "Variety Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5331",
+    "title": "Variety Stores",
+    "level": "industry"
+  },
+  {
+    "code": "539",
+    "title": "Miscellaneous General Merchandise Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5399",
+    "title": "Miscellaneous General Merchandise Stores",
+    "level": "industry"
+  },
+  {
+    "code": "54",
+    "title": "Food Stores",
+    "level": "major_group"
+  },
+  {
+    "code": "541",
+    "title": "Grocery Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5411",
+    "title": "Grocery Stores",
+    "level": "industry"
+  },
+  {
+    "code": "542",
+    "title": "Meat and Fish (Seafood) Markets, Including Freezer Provisioners",
+    "level": "industry_group"
+  },
+  {
+    "code": "5421",
+    "title": "Meat and Fish (Seafood) Markets, Including Freezer Provisioners",
+    "level": "industry"
+  },
+  {
+    "code": "543",
+    "title": "Fruit and Vegetable Markets",
+    "level": "industry_group"
+  },
+  {
+    "code": "5431",
+    "title": "Fruit and Vegetable Markets",
+    "level": "industry"
+  },
+  {
+    "code": "544",
+    "title": "Candy, Nut, and Confectionery Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5441",
+    "title": "Candy, Nut, and Confectionery Stores",
+    "level": "industry"
+  },
+  {
+    "code": "545",
+    "title": "Dairy Products Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5451",
+    "title": "Dairy Products Stores",
+    "level": "industry"
+  },
+  {
+    "code": "546",
+    "title": "Retail Bakeries",
+    "level": "industry_group"
+  },
+  {
+    "code": "5461",
+    "title": "Retail Bakeries",
+    "level": "industry"
+  },
+  {
+    "code": "549",
+    "title": "Miscellaneous Food Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5499",
+    "title": "Miscellaneous Food Stores",
+    "level": "industry"
+  },
+  {
+    "code": "55",
+    "title": "Automotive Dealers and Gasoline Service Stations",
+    "level": "major_group"
+  },
+  {
+    "code": "551",
+    "title": "Motor Vehicle Dealers (New and Used)",
+    "level": "industry_group"
+  },
+  {
+    "code": "5511",
+    "title": "Motor Vehicle Dealers (New and Used)",
+    "level": "industry"
+  },
+  {
+    "code": "5521",
+    "title": "Motor Vehicle Dealers (Used Only)",
+    "level": "industry"
+  },
+  {
+    "code": "552",
+    "title": "Motor Vehicle Dealers (Used Only)",
+    "level": "industry_group"
+  },
+  {
+    "code": "553",
+    "title": "Auto and Home Supply Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5531",
+    "title": "Auto and Home Supply Stores",
+    "level": "industry"
+  },
+  {
+    "code": "554",
+    "title": "Gasoline Service Stations",
+    "level": "industry_group"
+  },
+  {
+    "code": "5541",
+    "title": "Gasoline Service Stations",
+    "level": "industry"
+  },
+  {
+    "code": "555",
+    "title": "Boat Dealers",
+    "level": "industry_group"
+  },
+  {
+    "code": "5551",
+    "title": "Boat Dealers",
+    "level": "industry"
+  },
+  {
+    "code": "556",
+    "title": "Recreational Vehicle Dealers",
+    "level": "industry_group"
+  },
+  {
+    "code": "5561",
+    "title": "Recreational Vehicle Dealers",
+    "level": "industry"
+  },
+  {
+    "code": "557",
+    "title": "Motorcycle Dealers",
+    "level": "industry_group"
+  },
+  {
+    "code": "5571",
+    "title": "Motorcycle Dealers",
+    "level": "industry"
+  },
+  {
+    "code": "559",
+    "title": "Automotive Dealers, NEC",
+    "level": "industry_group"
+  },
+  {
+    "code": "5599",
+    "title": "Automotive Dealers, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "56",
+    "title": "Apparel and Accessory Stores",
+    "level": "major_group"
+  },
+  {
+    "code": "561",
+    "title": "Men's and Boys' Clothing and Accessory Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5611",
+    "title": "Men's and Boys' Clothing and Accessory Stores",
+    "level": "industry"
+  },
+  {
+    "code": "562",
+    "title": "Women's Clothing Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5621",
+    "title": "Women's Clothing Stores",
+    "level": "industry"
+  },
+  {
+    "code": "563",
+    "title": "Women's Accessory and Specialty Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5632",
+    "title": "Women's Accessory and Specialty Stores",
+    "level": "industry"
+  },
+  {
+    "code": "564",
+    "title": "Children's and Infants' Wear Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5641",
+    "title": "Children's and Infants' Wear Stores",
+    "level": "industry"
+  },
+  {
+    "code": "565",
+    "title": "Family Clothing Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5651",
+    "title": "Family Clothing Stores",
+    "level": "industry"
+  },
+  {
+    "code": "566",
+    "title": "Shoe Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5661",
+    "title": "Shoe Stores",
+    "level": "industry"
+  },
+  {
+    "code": "569",
+    "title": "Miscellaneous Apparel and Accessory Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5699",
+    "title": "Miscellaneous Apparel and Accessory Stores",
+    "level": "industry"
+  },
+  {
+    "code": "57",
+    "title": "Home Furniture, Furnishings, and Equipment Stores",
+    "level": "major_group"
+  },
+  {
+    "code": "571",
+    "title": "Home Furniture and Furnishings Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5712",
+    "title": "Furniture Stores",
+    "level": "industry"
+  },
+  {
+    "code": "5713",
+    "title": "Floor Covering Stores",
+    "level": "industry"
+  },
+  {
+    "code": "5714",
+    "title": "Drapery, Curtain, and Upholstery Stores",
+    "level": "industry"
+  },
+  {
+    "code": "5719",
+    "title": "Miscellaneous Homefurnishings Stores",
+    "level": "industry"
+  },
+  {
+    "code": "572",
+    "title": "Household Appliance Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5722",
+    "title": "Household Appliance Stores",
+    "level": "industry"
+  },
+  {
+    "code": "573",
+    "title": "Radio, Television, Consumer Electronics, and Music Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5731",
+    "title": "Radio, Television, and Consumer Electronics Stores",
+    "level": "industry"
+  },
+  {
+    "code": "5734",
+    "title": "Computer and Computer Software Stores",
+    "level": "industry"
+  },
+  {
+    "code": "5735",
+    "title": "Record and Prerecorded Tape Stores",
+    "level": "industry"
+  },
+  {
+    "code": "5736",
+    "title": "Musical Instrument Stores",
+    "level": "industry"
+  },
+  {
+    "code": "58",
+    "title": "Eating and Drinking Places",
+    "level": "major_group"
+  },
+  {
+    "code": "581",
+    "title": "Eating and Drinking Places",
+    "level": "industry_group"
+  },
+  {
+    "code": "5812",
+    "title": "Eating Places",
+    "level": "industry"
+  },
+  {
+    "code": "5813",
+    "title": "Drinking Places (Alcoholic Beverages)",
+    "level": "industry"
+  },
+  {
+    "code": "59",
+    "title": "Miscellaneous Retail",
+    "level": "major_group"
+  },
+  {
+    "code": "591",
+    "title": "Drug Stores and Proprietary Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5912",
+    "title": "Drug Stores and Proprietary Stores",
+    "level": "industry"
+  },
+  {
+    "code": "592",
+    "title": "Liquor Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5921",
+    "title": "Liquor Stores",
+    "level": "industry"
+  },
+  {
+    "code": "593",
+    "title": "Used Merchandise Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5932",
+    "title": "Used Merchandise Stores",
+    "level": "industry"
+  },
+  {
+    "code": "594",
+    "title": "Miscellaneous Shopping Goods Stores",
+    "level": "industry_group"
+  },
+  {
+    "code": "5941",
+    "title": "Sporting Goods Stores and Bicycle Shops",
+    "level": "industry"
+  },
+  {
+    "code": "5942",
+    "title": "Book Stores",
+    "level": "industry"
+  },
+  {
+    "code": "5943",
+    "title": "Stationery Stores",
+    "level": "industry"
+  },
+  {
+    "code": "5944",
+    "title": "Jewelry Stores",
+    "level": "industry"
+  },
+  {
+    "code": "5945",
+    "title": "Hobby, Toy, and Game Shops",
+    "level": "industry"
+  },
+  {
+    "code": "5946",
+    "title": "Camera and Photographic Supply Stores",
+    "level": "industry"
+  },
+  {
+    "code": "5947",
+    "title": "Gift, Novelty, and Souvenir Shops",
+    "level": "industry"
+  },
+  {
+    "code": "5948",
+    "title": "Luggage Stores and Leather Goods Stores",
+    "level": "industry"
+  },
+  {
+    "code": "5949",
+    "title": "Sewing, Needlework, and Piece Goods Stores",
+    "level": "industry"
+  },
+  {
+    "code": "596",
+    "title": "Nonstore Retailers",
+    "level": "industry_group"
+  },
+  {
+    "code": "5961",
+    "title": "Catalog and Mail-Order Houses",
+    "level": "industry"
+  },
+  {
+    "code": "5962",
+    "title": "Automatic Merchandising Machine Operators",
+    "level": "industry"
+  },
+  {
+    "code": "5963",
+    "title": "Direct Selling Establishments",
+    "level": "industry"
+  },
+  {
+    "code": "598",
+    "title": "Fuel Dealers",
+    "level": "industry_group"
+  },
+  {
+    "code": "5983",
+    "title": "Fuel Oil Dealers",
+    "level": "industry"
+  },
+  {
+    "code": "5984",
+    "title": "Liquefied Petroleum Gas (Bottled Gas) Dealers",
+    "level": "industry"
+  },
+  {
+    "code": "5989",
+    "title": "Fuel Dealers, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "599",
+    "title": "Retail Stores, NEC",
+    "level": "industry_group"
+  },
+  {
+    "code": "5992",
+    "title": "Florists",
+    "level": "industry"
+  },
+  {
+    "code": "5993",
+    "title": "Tobacco Stores and Stands",
+    "level": "industry"
+  },
+  {
+    "code": "5994",
+    "title": "News Dealers and Newsstands",
+    "level": "industry"
+  },
+  {
+    "code": "5995",
+    "title": "Optical Goods Stores",
+    "level": "industry"
+  },
+  {
+    "code": "5999",
+    "title": "Miscellaneous Retail Stores, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "60",
+    "title": "Depository Institutions",
+    "level": "major_group"
+  },
+  {
+    "code": "601",
+    "title": "Central Reserve Depository Institutions",
+    "level": "industry_group"
+  },
+  {
+    "code": "6011",
+    "title": "Federal Reserve Banks",
+    "level": "industry"
+  },
+  {
+    "code": "6019",
+    "title": "Central Reserve Depository Institutions, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "602",
+    "title": "Commercial Banks",
+    "level": "industry_group"
+  },
+  {
+    "code": "6021",
+    "title": "National Commercial Banks",
+    "level": "industry"
+  },
+  {
+    "code": "6022",
+    "title": "State Commercial Banks-Federal Reserve Members and State (Insured)",
+    "level": "industry"
+  },
+  {
+    "code": "6029",
+    "title": "Commercial Banks, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "603",
+    "title": "Savings Institutions",
+    "level": "industry_group"
+  },
+  {
+    "code": "6035",
+    "title": "Savings Institutions, Federally Chartered",
+    "level": "industry"
+  },
+  {
+    "code": "6036",
+    "title": "Savings Institutions, Not Federally Chartered-State Chartered",
+    "level": "industry"
+  },
+  {
+    "code": "606",
+    "title": "Credit Unions",
+    "level": "industry_group"
+  },
+  {
+    "code": "6061",
+    "title": "Credit Unions, Federally Chartered",
+    "level": "industry"
+  },
+  {
+    "code": "6062",
+    "title": "Credit Unions, State-Chartered-Federally Insured",
+    "level": "industry"
+  },
+  {
+    "code": "609",
+    "title": "Functions Related to Depository Banking",
+    "level": "industry_group"
+  },
+  {
+    "code": "6099",
+    "title": "Functions Related to Depository Banking, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "61",
+    "title": "Non-Depository Credit Institutions",
+    "level": "major_group"
+  },
+  {
+    "code": "611",
+    "title": "Federal and Federally-Sponsored Credit Agencies",
+    "level": "industry_group"
+  },
+  {
+    "code": "6111",
+    "title": "Federal and Federally-Sponsored Credit Agencies",
+    "level": "industry"
+  },
+  {
+    "code": "614",
+    "title": "Personal Credit Institutions",
+    "level": "industry_group"
+  },
+  {
+    "code": "6141",
+    "title": "Personal Credit Institutions",
+    "level": "industry"
+  },
+  {
+    "code": "615",
+    "title": "Business Credit Institutions",
+    "level": "industry_group"
+  },
+  {
+    "code": "6153",
+    "title": "Short-Term Business Credit Institutions, Except Agencies",
+    "level": "industry"
+  },
+  {
+    "code": "6159",
+    "title": "Federal and Federally-Sponsored Credit Agencies, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "616",
+    "title": "Mortgage Bankers, Brokers, and Service",
+    "level": "industry_group"
+  },
+  {
+    "code": "6162",
+    "title": "Mortgage Bankers and Loan Correspondents",
+    "level": "industry"
+  },
+  {
+    "code": "6163",
+    "title": "Loan Brokers",
+    "level": "industry"
+  },
+  {
+    "code": "62",
+    "title": "Security and Commodity Brokers, Dealers, Exchanges, and Services",
+    "level": "major_group"
+  },
+  {
+    "code": "621",
+    "title": "Security Brokers, Dealers, and Flotation Companies",
+    "level": "industry_group"
+  },
+  {
+    "code": "6211",
+    "title": "Security Brokers, Dealers, and Flotation Companies",
+    "level": "industry"
+  },
+  {
+    "code": "622",
+    "title": "Commodity Contracts Dealers, Brokers, and Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "6221",
+    "title": "Commodity Contracts Dealers, Brokers",
+    "level": "industry"
+  },
+  {
+    "code": "6231",
+    "title": "Security and Commodity Exchanges",
+    "level": "industry"
+  },
+  {
+    "code": "623",
+    "title": "Security and Commodity Exchanges",
+    "level": "industry_group"
+  },
+  {
+    "code": "628",
+    "title": "Services Allied With the Exchange of Securities or Commodities",
+    "level": "industry_group"
+  },
+  {
+    "code": "6282",
+    "title": "Investment Advice",
+    "level": "industry"
+  },
+  {
+    "code": "6289",
+    "title": "Services Allied With the Exchange of Securities or Commodities, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "63",
+    "title": "Insurance Carriers",
+    "level": "major_group"
+  },
+  {
+    "code": "631",
+    "title": "Life Insurance",
+    "level": "industry_group"
+  },
+  {
+    "code": "6311",
+    "title": "Life Insurance",
+    "level": "industry"
+  },
+  {
+    "code": "632",
+    "title": "Medical Service and Health Insurance",
+    "level": "industry_group"
+  },
+  {
+    "code": "6321",
+    "title": "Accident and Health Insurance",
+    "level": "industry"
+  },
+  {
+    "code": "6324",
+    "title": "Hospital and Medical Service Plans",
+    "level": "industry"
+  },
+  {
+    "code": "633",
+    "title": "Fire, Marine, and Casualty Insurance",
+    "level": "industry_group"
+  },
+  {
+    "code": "6331",
+    "title": "Fire, Marine, and Casualty Insurance",
+    "level": "industry"
+  },
+  {
+    "code": "635",
+    "title": "Surety Insurance",
+    "level": "industry_group"
+  },
+  {
+    "code": "6351",
+    "title": "Surety Insurance",
+    "level": "industry"
+  },
+  {
+    "code": "636",
+    "title": "Title Insurance",
+    "level": "industry_group"
+  },
+  {
+    "code": "6361",
+    "title": "Title Insurance",
+    "level": "industry"
+  },
+  {
+    "code": "637",
+    "title": "Pension, Health, and Welfare Funds",
+    "level": "industry_group"
+  },
+  {
+    "code": "6371",
+    "title": "Pension, Health, and Welfare Funds",
+    "level": "industry"
+  },
+  {
+    "code": "639",
+    "title": "Insurance Carriers, NEC",
+    "level": "industry_group"
+  },
+  {
+    "code": "6399",
+    "title": "Insurance Carriers, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "64",
+    "title": "Insurance Agents, Brokers, and Service",
+    "level": "major_group"
+  },
+  {
+    "code": "641",
+    "title": "Insurance Agents, Brokers, and Service",
+    "level": "industry_group"
+  },
+  {
+    "code": "6411",
+    "title": "Insurance Agents, Brokers, and Service",
+    "level": "industry"
+  },
+  {
+    "code": "65",
+    "title": "Real Estate",
+    "level": "major_group"
+  },
+  {
+    "code": "651",
+    "title": "Real Estate Operators (Except Developers) and Lessors",
+    "level": "industry_group"
+  },
+  {
+    "code": "6512",
+    "title": "Operators of Apartment Buildings",
+    "level": "industry"
+  },
+  {
+    "code": "6513",
+    "title": "Operators of Real Property, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "6514",
+    "title": "Operators of Dwellings Other Than Apartment Buildings",
+    "level": "industry"
+  },
+  {
+    "code": "6515",
+    "title": "Operators of Residential Mobile Home Sites",
+    "level": "industry"
+  },
+  {
+    "code": "6517",
+    "title": "Lessors of Railroad Property",
+    "level": "industry"
+  },
+  {
+    "code": "6519",
+    "title": "Lessors of Real Property, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "653",
+    "title": "Real Estate Agents and Managers",
+    "level": "industry_group"
+  },
+  {
+    "code": "6531",
+    "title": "Real Estate Agents and Managers",
+    "level": "industry"
+  },
+  {
+    "code": "654",
+    "title": "Title Abstract Offices",
+    "level": "industry_group"
+  },
+  {
+    "code": "6541",
+    "title": "Title Abstract Offices",
+    "level": "industry"
+  },
+  {
+    "code": "655",
+    "title": "Land Subdividers and Developers",
+    "level": "industry_group"
+  },
+  {
+    "code": "6552",
+    "title": "Land Subdividers and Developers, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "6553",
+    "title": "Cemetery Subdividers and Developers",
+    "level": "industry"
+  },
+  {
+    "code": "67",
+    "title": "Holding and Other Investment Offices",
+    "level": "major_group"
+  },
+  {
+    "code": "671",
+    "title": "Holding Offices",
+    "level": "industry_group"
+  },
+  {
+    "code": "6712",
+    "title": "State Chartered Banks, Federal Reserve Members and State (Insured)",
+    "level": "industry"
+  },
+  {
+    "code": "672",
+    "title": "Investment Offices",
+    "level": "industry_group"
+  },
+  {
+    "code": "6722",
+    "title": "Management Investment Companies, Open-End",
+    "level": "industry"
+  },
+  {
+    "code": "6726",
+    "title": "Investment Offices, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "673",
+    "title": "Trusts",
+    "level": "industry_group"
+  },
+  {
+    "code": "6732",
+    "title": "Educational, Religious, and Charitable Trusts",
+    "level": "industry"
+  },
+  {
+    "code": "6733",
+    "title": "Trusts, Except Educational, Religious, and Charitable",
+    "level": "industry"
+  },
+  {
+    "code": "679",
+    "title": "Miscellaneous Investing",
+    "level": "industry_group"
+  },
+  {
+    "code": "6792",
+    "title": "Oil Royalty Traders",
+    "level": "industry"
+  },
+  {
+    "code": "6794",
+    "title": "Patent Owners and Lessors",
+    "level": "industry"
+  },
+  {
+    "code": "6798",
+    "title": "Real Estate Investment Trusts",
+    "level": "industry"
+  },
+  {
+    "code": "6799",
+    "title": "Investors, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "70",
+    "title": "Hotels, Rooming Houses, Camps, and Other Lodging Places",
+    "level": "major_group"
+  },
+  {
+    "code": "701",
+    "title": "Hotels and Motels",
+    "level": "industry_group"
+  },
+  {
+    "code": "7011",
+    "title": "Hotels and Motels",
+    "level": "industry"
+  },
+  {
+    "code": "702",
+    "title": "Rooming Houses and Boarding Houses",
+    "level": "industry_group"
+  },
+  {
+    "code": "7021",
+    "title": "Rooming and Boarding Houses",
+    "level": "industry"
+  },
+  {
+    "code": "703",
+    "title": "Camps and Recreational Vehicle Parks",
+    "level": "industry_group"
+  },
+  {
+    "code": "7032",
+    "title": "Sporting and Recreational Camps",
+    "level": "industry"
+  },
+  {
+    "code": "7033",
+    "title": "Recreational Vehicle Parks and Campsites",
+    "level": "industry"
+  },
+  {
+    "code": "704",
+    "title": "Organization Hotels and Lodging Houses, on Membership Basis",
+    "level": "industry_group"
+  },
+  {
+    "code": "7041",
+    "title": "Organization Hotels and Lodging Houses, on Membership Basis",
+    "level": "industry"
+  },
+  {
+    "code": "72",
+    "title": "Personal Services",
+    "level": "major_group"
+  },
+  {
+    "code": "721",
+    "title": "Laundry, Cleaning, and Garment Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "7211",
+    "title": "Power Laundries, Family and Commercial",
+    "level": "industry"
+  },
+  {
+    "code": "7212",
+    "title": "Garment Pressing, and Agents for Laundries and Drycleaners",
+    "level": "industry"
+  },
+  {
+    "code": "7213",
+    "title": "Linen Supply",
+    "level": "industry"
+  },
+  {
+    "code": "7215",
+    "title": "Coin-Operated Laundries and Drycleaning",
+    "level": "industry"
+  },
+  {
+    "code": "7216",
+    "title": "Drycleaning Plants, Except Rug Cleaning",
+    "level": "industry"
+  },
+  {
+    "code": "7217",
+    "title": "Carpet and Upholstery Cleaning",
+    "level": "industry"
+  },
+  {
+    "code": "7218",
+    "title": "Industrial Launderers",
+    "level": "industry"
+  },
+  {
+    "code": "7219",
+    "title": "Laundry and Garment Services, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "722",
+    "title": "Photographic Studios, Portrait",
+    "level": "industry_group"
+  },
+  {
+    "code": "7221",
+    "title": "Photographic Studios, Portrait",
+    "level": "industry"
+  },
+  {
+    "code": "723",
+    "title": "Beauty Shops",
+    "level": "industry_group"
+  },
+  {
+    "code": "7231",
+    "title": "Beauty Shops",
+    "level": "industry"
+  },
+  {
+    "code": "724",
+    "title": "Barber Shops",
+    "level": "industry_group"
+  },
+  {
+    "code": "7241",
+    "title": "Barber Shops",
+    "level": "industry"
+  },
+  {
+    "code": "725",
+    "title": "Shoe Repair Shops and Shoeshine Parlors",
+    "level": "industry_group"
+  },
+  {
+    "code": "7251",
+    "title": "Shoe Repair Shops and Shoeshine Parlors",
+    "level": "industry"
+  },
+  {
+    "code": "726",
+    "title": "Funeral Service and Crematories",
+    "level": "industry_group"
+  },
+  {
+    "code": "7261",
+    "title": "Funeral Service and Crematories",
+    "level": "industry"
+  },
+  {
+    "code": "729",
+    "title": "Miscellaneous Personal Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "7291",
+    "title": "Tax Return Preparation Services",
+    "level": "industry"
+  },
+  {
+    "code": "7299",
+    "title": "Services, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "73",
+    "title": "Business Services",
+    "level": "major_group"
+  },
+  {
+    "code": "731",
+    "title": "Advertising Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "7311",
+    "title": "Advertising Agencies",
+    "level": "industry"
+  },
+  {
+    "code": "7312",
+    "title": "Outdoor Advertising Services",
+    "level": "industry"
+  },
+  {
+    "code": "7313",
+    "title": "Radio, Television, and Publishers' Advertising Representatives",
+    "level": "industry"
+  },
+  {
+    "code": "7319",
+    "title": "Services Allied to Advertising, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "732",
+    "title": "Consumer Credit Reporting, Collection Agencies",
+    "level": "industry_group"
+  },
+  {
+    "code": "7322",
+    "title": "Adjustment and Collection Services",
+    "level": "industry"
+  },
+  {
+    "code": "7323",
+    "title": "Credit Reporting Services",
+    "level": "industry"
+  },
+  {
+    "code": "733",
+    "title": "Mailing, Reproduction, and Stenographic Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "7331",
+    "title": "Mailing, Reproduction, and Stenographic Services",
+    "level": "industry"
+  },
+  {
+    "code": "7334",
+    "title": "Photocopying and Duplicating Services",
+    "level": "industry"
+  },
+  {
+    "code": "7335",
+    "title": "Commercial Photography",
+    "level": "industry"
+  },
+  {
+    "code": "7336",
+    "title": "Commercial Art and Graphic Design",
+    "level": "industry"
+  },
+  {
+    "code": "7338",
+    "title": "Secretarial and Court Reporting Services",
+    "level": "industry"
+  },
+  {
+    "code": "734",
+    "title": "Services to Buildings and Dwellings",
+    "level": "industry_group"
+  },
+  {
+    "code": "7342",
+    "title": "Disinfecting and Pest Control Services",
+    "level": "industry"
+  },
+  {
+    "code": "7349",
+    "title": "Building Cleaning and Maintenance Services, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "735",
+    "title": "Miscellaneous Equipment Rental and Leasing",
+    "level": "industry_group"
+  },
+  {
+    "code": "7352",
+    "title": "Medical Equipment Rental and Leasing",
+    "level": "industry"
+  },
+  {
+    "code": "7353",
+    "title": "Heavy Construction Equipment Rental and Leasing",
+    "level": "industry"
+  },
+  {
+    "code": "7359",
+    "title": "Equipment Rental and Leasing, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "736",
+    "title": "Personnel Supply Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "7361",
+    "title": "Help Supply Services",
+    "level": "industry"
+  },
+  {
+    "code": "7363",
+    "title": "Help Supply Services",
+    "level": "industry"
+  },
+  {
+    "code": "737",
+    "title": "Computer Programming, Data Processing, and Other Computer Related Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "7371",
+    "title": "Computer Programming Services",
+    "level": "industry"
+  },
+  {
+    "code": "7372",
+    "title": "Prepackaged Software",
+    "level": "industry"
+  },
+  {
+    "code": "7373",
+    "title": "Computer Integrated Systems Design",
+    "level": "industry"
+  },
+  {
+    "code": "7374",
+    "title": "Computer Processing and Data Preparation and Processing Services",
+    "level": "industry"
+  },
+  {
+    "code": "7375",
+    "title": "Computer Rental and Leasing",
+    "level": "industry"
+  },
+  {
+    "code": "7376",
+    "title": "Computer Maintenance and Repair",
+    "level": "industry"
+  },
+  {
+    "code": "7377",
+    "title": "Computer Rental and Leasing",
+    "level": "industry"
+  },
+  {
+    "code": "7378",
+    "title": "Computer Maintenance and Repair",
+    "level": "industry"
+  },
+  {
+    "code": "7379",
+    "title": "Services Allied to Computer Programming, Data Processing, and Other Computer Related Services, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "738",
+    "title": "Miscellaneous Business Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "7381",
+    "title": "Investigation, Guard, and Armored Car Services",
+    "level": "industry"
+  },
+  {
+    "code": "7382",
+    "title": "Home Health Care Services",
+    "level": "industry"
+  },
+  {
+    "code": "7383",
+    "title": "News Syndicates",
+    "level": "industry"
+  },
+  {
+    "code": "7384",
+    "title": "Photofinishing Laboratories",
+    "level": "industry"
+  },
+  {
+    "code": "7389",
+    "title": "Services Allied to Motion Picture Production",
+    "level": "industry"
+  },
+  {
+    "code": "74",
+    "title": "Amusement and Recreation Services",
+    "level": "major_group"
+  },
+  {
+    "code": "791",
+    "title": "Dance Studios, Schools, and Halls",
+    "level": "industry_group"
+  },
+  {
+    "code": "7911",
+    "title": "Dance Studios, Schools, and Halls",
+    "level": "industry"
+  },
+  {
+    "code": "792",
+    "title": "Theatrical Producers (Except Motion Picture), Bands, Orchestras, and Entertainers",
+    "level": "industry_group"
+  },
+  {
+    "code": "7922",
+    "title": "Theatrical Producers (Except Motion Picture) and Miscellaneous Theatrical Services",
+    "level": "industry"
+  },
+  {
+    "code": "7929",
+    "title": "Bands, Orchestras, Actors, and Other Entertainers and Entertainment Groups",
+    "level": "industry"
+  },
+  {
+    "code": "793",
+    "title": "Bowling Centers",
+    "level": "industry_group"
+  },
+  {
+    "code": "7933",
+    "title": "Bowling Centers",
+    "level": "industry"
+  },
+  {
+    "code": "794",
+    "title": "Commercial Sports",
+    "level": "industry_group"
+  },
+  {
+    "code": "7941",
+    "title": "Professional Sports Clubs-Except Racing",
+    "level": "industry"
+  },
+  {
+    "code": "7948",
+    "title": "Racing, Including Track Operation",
+    "level": "industry"
+  },
+  {
+    "code": "799",
+    "title": "Services, NEC",
+    "level": "industry_group"
+  },
+  {
+    "code": "7991",
+    "title": "Physical Fitness Facilities",
+    "level": "industry"
+  },
+  {
+    "code": "7992",
+    "title": "Public Golf Courses",
+    "level": "industry"
+  },
+  {
+    "code": "7993",
+    "title": "Coin-Operated Amusement Devices (Except Slot Machines)",
+    "level": "industry"
+  },
+  {
+    "code": "7996",
+    "title": "Amusement Parks",
+    "level": "industry"
+  },
+  {
+    "code": "7997",
+    "title": "Membership Sports and Recreation Clubs",
+    "level": "industry"
+  },
+  {
+    "code": "7999",
+    "title": "Amusement and Recreation Services, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "75",
+    "title": "Automotive Repair, Services, and Parking",
+    "level": "major_group"
+  },
+  {
+    "code": "751",
+    "title": "Automotive Rental and Leasing, Without Drivers",
+    "level": "industry_group"
+  },
+  {
+    "code": "7513",
+    "title": "Truck Rental and Leasing, Without Drivers",
+    "level": "industry"
+  },
+  {
+    "code": "7514",
+    "title": "Passenger Car Rental",
+    "level": "industry"
+  },
+  {
+    "code": "7515",
+    "title": "Passenger Car Leasing",
+    "level": "industry"
+  },
+  {
+    "code": "752",
+    "title": "Automobile Parking",
+    "level": "industry_group"
+  },
+  {
+    "code": "7521",
+    "title": "Automobile Parking",
+    "level": "industry"
+  },
+  {
+    "code": "753",
+    "title": "Automotive Repair Shops",
+    "level": "industry_group"
+  },
+  {
+    "code": "7532",
+    "title": "Top, Body, and Upholstery Repair Shops and Paint Shops",
+    "level": "industry"
+  },
+  {
+    "code": "7533",
+    "title": "Automotive Exhaust System Repair Shops",
+    "level": "industry"
+  },
+  {
+    "code": "7534",
+    "title": "Tire Retreading and Repair Shops",
+    "level": "industry"
+  },
+  {
+    "code": "7536",
+    "title": "Automotive Glass Replacement Shops",
+    "level": "industry"
+  },
+  {
+    "code": "7537",
+    "title": "Automotive Transmission Repair Shops",
+    "level": "industry"
+  },
+  {
+    "code": "7538",
+    "title": "General Automotive Repair Shops",
+    "level": "industry"
+  },
+  {
+    "code": "7539",
+    "title": "Automotive Repair Shops, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "754",
+    "title": "Automotive Services, Except Repair",
+    "level": "industry_group"
+  },
+  {
+    "code": "7542",
+    "title": "Carwashes",
+    "level": "industry"
+  },
+  {
+    "code": "7549",
+    "title": "Automotive Services, Except Repair and Carwashes",
+    "level": "industry"
+  },
+  {
+    "code": "76",
+    "title": "Miscellaneous Repair Services",
+    "level": "major_group"
+  },
+  {
+    "code": "762",
+    "title": "Electrical Repair Shops",
+    "level": "industry_group"
+  },
+  {
+    "code": "7622",
+    "title": "Radio and Television Repair Shops",
+    "level": "industry"
+  },
+  {
+    "code": "7623",
+    "title": "Refrigeration and Air-Conditioning Service and Repair Shops",
+    "level": "industry"
+  },
+  {
+    "code": "7629",
+    "title": "Electrical and Electronic Repair Shops, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "763",
+    "title": "Watch, Clock, and Jewelry Repair",
+    "level": "industry_group"
+  },
+  {
+    "code": "7631",
+    "title": "Watch, Clock, and Jewelry Repair",
+    "level": "industry"
+  },
+  {
+    "code": "764",
+    "title": "Reupholstery and Furniture Repair",
+    "level": "industry_group"
+  },
+  {
+    "code": "7641",
+    "title": "Reupholstery and Furniture Repair",
+    "level": "industry"
+  },
+  {
+    "code": "769",
+    "title": "Miscellaneous Repair Shops and Related Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "7692",
+    "title": "Welding Repair",
+    "level": "industry"
+  },
+  {
+    "code": "7694",
+    "title": "Armature Rewinding Shops",
+    "level": "industry"
+  },
+  {
+    "code": "7699",
+    "title": "Repair Shops and Related Services, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "78",
+    "title": "Motion Pictures",
+    "level": "major_group"
+  },
+  {
+    "code": "781",
+    "title": "Motion Picture Production and Allied Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "7812",
+    "title": "Motion Picture and Tape Production",
+    "level": "industry"
+  },
+  {
+    "code": "7819",
+    "title": "Services Allied to Motion Picture Production",
+    "level": "industry"
+  },
+  {
+    "code": "782",
+    "title": "Motion Picture Distribution and Allied Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "7822",
+    "title": "Motion Picture and Tape Distribution",
+    "level": "industry"
+  },
+  {
+    "code": "783",
+    "title": "Motion Picture Theaters",
+    "level": "industry_group"
+  },
+  {
+    "code": "7832",
+    "title": "Motion Picture Theaters, Except Drive-In",
+    "level": "industry"
+  },
+  {
+    "code": "7833",
+    "title": "Drive-In Motion Picture Theaters",
+    "level": "industry"
+  },
+  {
+    "code": "784",
+    "title": "Video Tape Rental",
+    "level": "industry_group"
+  },
+  {
+    "code": "7841",
+    "title": "Video Tape Rental",
+    "level": "industry"
+  },
+  {
+    "code": "79",
+    "title": "Amusement and Recreation Services, Except Motion Pictures",
+    "level": "major_group"
+  },
+  {
+    "code": "80",
+    "title": "Health Services",
+    "level": "major_group"
+  },
+  {
+    "code": "801",
+    "title": "Offices and Clinics of Doctors of Medicine",
+    "level": "industry_group"
+  },
+  {
+    "code": "8011",
+    "title": "Offices and Clinics of Doctors of Medicine",
+    "level": "industry"
+  },
+  {
+    "code": "802",
+    "title": "Offices and Clinics of Dentists",
+    "level": "industry_group"
+  },
+  {
+    "code": "8021",
+    "title": "Offices and Clinics of Dentists",
+    "level": "industry"
+  },
+  {
+    "code": "803",
+    "title": "Offices and Clinics of Doctors of Osteopathy",
+    "level": "industry_group"
+  },
+  {
+    "code": "8031",
+    "title": "Offices and Clinics of Doctors of Osteopathy",
+    "level": "industry"
+  },
+  {
+    "code": "804",
+    "title": "Offices and Clinics of Other Health Practitioners",
+    "level": "industry_group"
+  },
+  {
+    "code": "8041",
+    "title": "Offices and Clinics of Chiropractors",
+    "level": "industry"
+  },
+  {
+    "code": "8042",
+    "title": "Offices and Clinics of Optometrists",
+    "level": "industry"
+  },
+  {
+    "code": "8043",
+    "title": "Offices and Clinics of Podiatrists",
+    "level": "industry"
+  },
+  {
+    "code": "8049",
+    "title": "Offices and Clinics of Other Health Practitioners, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "805",
+    "title": "Nursing and Personal Care Facilities",
+    "level": "industry_group"
+  },
+  {
+    "code": "8051",
+    "title": "Skilled Nursing Care Facilities",
+    "level": "industry"
+  },
+  {
+    "code": "8052",
+    "title": "Intermediate Care Facilities",
+    "level": "industry"
+  },
+  {
+    "code": "8059",
+    "title": "Nursing and Personal Care Facilities, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "806",
+    "title": "Hospitals",
+    "level": "industry_group"
+  },
+  {
+    "code": "8062",
+    "title": "General Medical and Surgical Hospitals",
+    "level": "industry"
+  },
+  {
+    "code": "8063",
+    "title": "Psychiatric Hospitals",
+    "level": "industry"
+  },
+  {
+    "code": "8069",
+    "title": "Specialty Hospitals, Except Psychiatric",
+    "level": "industry"
+  },
+  {
+    "code": "807",
+    "title": "Medical and Dental Laboratories",
+    "level": "industry_group"
+  },
+  {
+    "code": "8071",
+    "title": "Medical Laboratories",
+    "level": "industry"
+  },
+  {
+    "code": "8072",
+    "title": "Dental Laboratories",
+    "level": "industry"
+  },
+  {
+    "code": "808",
+    "title": "Home Health Care Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "8082",
+    "title": "Home Health Care Services",
+    "level": "industry"
+  },
+  {
+    "code": "809",
+    "title": "Miscellaneous Health and Allied Services, NEC",
+    "level": "industry_group"
+  },
+  {
+    "code": "8092",
+    "title": "Kidney Dialysis Centers",
+    "level": "industry"
+  },
+  {
+    "code": "8093",
+    "title": "Specialty Outpatient Facilities, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "8099",
+    "title": "Health and Allied Services, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "81",
+    "title": "Legal Services",
+    "level": "major_group"
+  },
+  {
+    "code": "811",
+    "title": "Legal Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "8111",
+    "title": "Legal Services",
+    "level": "industry"
+  },
+  {
+    "code": "82",
+    "title": "Educational Services",
+    "level": "major_group"
+  },
+  {
+    "code": "821",
+    "title": "Elementary and Secondary Schools",
+    "level": "industry_group"
+  },
+  {
+    "code": "8211",
+    "title": "Elementary and Secondary Schools",
+    "level": "industry"
+  },
+  {
+    "code": "822",
+    "title": "Colleges, Universities, Professional Schools, and Junior Colleges",
+    "level": "industry_group"
+  },
+  {
+    "code": "8221",
+    "title": "Colleges, Universities, and Professional Schools",
+    "level": "industry"
+  },
+  {
+    "code": "8222",
+    "title": "Junior Colleges and Technical Institutes",
+    "level": "industry"
+  },
+  {
+    "code": "823",
+    "title": "Libraries",
+    "level": "industry_group"
+  },
+  {
+    "code": "8231",
+    "title": "Libraries",
+    "level": "industry"
+  },
+  {
+    "code": "824",
+    "title": "Vocational Schools",
+    "level": "industry_group"
+  },
+  {
+    "code": "8243",
+    "title": "Data Processing Schools",
+    "level": "industry"
+  },
+  {
+    "code": "8244",
+    "title": "Business and Secretarial Schools",
+    "level": "industry"
+  },
+  {
+    "code": "8249",
+    "title": "Vocational Schools, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "829",
+    "title": "Schools and Educational Services, NEC",
+    "level": "industry_group"
+  },
+  {
+    "code": "8299",
+    "title": "Schools and Educational Services, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "83",
+    "title": "Social Services",
+    "level": "major_group"
+  },
+  {
+    "code": "832",
+    "title": "Individual and Family Social Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "8322",
+    "title": "Individual and Family Social Services",
+    "level": "industry"
+  },
+  {
+    "code": "833",
+    "title": "Job Training and Vocational Rehabilitation Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "8331",
+    "title": "Job Training and Vocational Rehabilitation Services",
+    "level": "industry"
+  },
+  {
+    "code": "835",
+    "title": "Child Day Care Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "8351",
+    "title": "Child Day Care Services",
+    "level": "industry"
+  },
+  {
+    "code": "836",
+    "title": "Residential Care",
+    "level": "industry_group"
+  },
+  {
+    "code": "8361",
+    "title": "Residential Care",
+    "level": "industry"
+  },
+  {
+    "code": "839",
+    "title": "Services, NEC",
+    "level": "industry_group"
+  },
+  {
+    "code": "8399",
+    "title": "Services, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "84",
+    "title": "Museums, Art Galleries, and Botanical and Zoological Gardens",
+    "level": "major_group"
+  },
+  {
+    "code": "841",
+    "title": "Museums and Art Galleries",
+    "level": "industry_group"
+  },
+  {
+    "code": "8412",
+    "title": "Museums and Art Galleries",
+    "level": "industry"
+  },
+  {
+    "code": "842",
+    "title": "Arboreta and Botanical or Zoological Gardens",
+    "level": "industry_group"
+  },
+  {
+    "code": "8422",
+    "title": "Arboreta and Botanical or Zoological Gardens",
+    "level": "industry"
+  },
+  {
+    "code": "86",
+    "title": "Membership Organizations",
+    "level": "major_group"
+  },
+  {
+    "code": "861",
+    "title": "Business Associations",
+    "level": "industry_group"
+  },
+  {
+    "code": "8611",
+    "title": "Business Associations",
+    "level": "industry"
+  },
+  {
+    "code": "862",
+    "title": "Professional Membership Organizations",
+    "level": "industry_group"
+  },
+  {
+    "code": "8621",
+    "title": "Professional Membership Organizations",
+    "level": "industry"
+  },
+  {
+    "code": "863",
+    "title": "Labor Unions and Similar Labor Organizations",
+    "level": "industry_group"
+  },
+  {
+    "code": "8631",
+    "title": "Labor Unions and Similar Labor Organizations",
+    "level": "industry"
+  },
+  {
+    "code": "864",
+    "title": "Civic, Social, and Fraternal Associations",
+    "level": "industry_group"
+  },
+  {
+    "code": "8641",
+    "title": "Civic, Social, and Fraternal Associations",
+    "level": "industry"
+  },
+  {
+    "code": "865",
+    "title": "Political Organizations",
+    "level": "industry_group"
+  },
+  {
+    "code": "8651",
+    "title": "Political Organizations",
+    "level": "industry"
+  },
+  {
+    "code": "866",
+    "title": "Religious Organizations",
+    "level": "industry_group"
+  },
+  {
+    "code": "8661",
+    "title": "Religious Organizations",
+    "level": "industry"
+  },
+  {
+    "code": "869",
+    "title": "Membership Organizations, NEC",
+    "level": "industry_group"
+  },
+  {
+    "code": "8699",
+    "title": "Membership Organizations, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "87",
+    "title": "Engineering, Accounting, Research, Management, and Related Services",
+    "level": "major_group"
+  },
+  {
+    "code": "871",
+    "title": "Engineering Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "8711",
+    "title": "Engineering Services",
+    "level": "industry"
+  },
+  {
+    "code": "872",
+    "title": "Accounting, Auditing, and Bookkeeping Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "8721",
+    "title": "Accounting, Auditing, and Bookkeeping Services",
+    "level": "industry"
+  },
+  {
+    "code": "873",
+    "title": "Research, Development, and Testing Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "8731",
+    "title": "Commercial Physical and Biological Research",
+    "level": "industry"
+  },
+  {
+    "code": "8732",
+    "title": "Commercial Economic, Sociological, and Educational Research",
+    "level": "industry"
+  },
+  {
+    "code": "8733",
+    "title": "Noncommercial Research Organizations",
+    "level": "industry"
+  },
+  {
+    "code": "8734",
+    "title": "Testing Laboratories, Except Medical",
+    "level": "industry"
+  },
+  {
+    "code": "874",
+    "title": "Management and Public Relations Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "8741",
+    "title": "Management Services",
+    "level": "industry"
+  },
+  {
+    "code": "8742",
+    "title": "Management Consulting Services",
+    "level": "industry"
+  },
+  {
+    "code": "8743",
+    "title": "Public Relations Services",
+    "level": "industry"
+  },
+  {
+    "code": "8744",
+    "title": "Facilities Support Management Services",
+    "level": "industry"
+  },
+  {
+    "code": "8748",
+    "title": "Business Consulting Services, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "88",
+    "title": "Private Households",
+    "level": "major_group"
+  },
+  {
+    "code": "881",
+    "title": "Private Households",
+    "level": "industry_group"
+  },
+  {
+    "code": "8811",
+    "title": "Private Households",
+    "level": "industry"
+  },
+  {
+    "code": "89",
+    "title": "Services, Not Elsewhere Classified",
+    "level": "major_group"
+  },
+  {
+    "code": "891",
+    "title": "Engineering and Architectural Services",
+    "level": "industry_group"
+  },
+  {
+    "code": "8911",
+    "title": "Engineering and Architectural Services, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "899",
+    "title": "Services, NEC",
+    "level": "industry_group"
+  },
+  {
+    "code": "8999",
+    "title": "Services, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "91",
+    "title": "Executive, Legislative, and General Government, Except Finance",
+    "level": "major_group"
+  },
+  {
+    "code": "911",
+    "title": "Executive Offices",
+    "level": "industry_group"
+  },
+  {
+    "code": "9111",
+    "title": "Executive Offices",
+    "level": "industry"
+  },
+  {
+    "code": "912",
+    "title": "Legislative Bodies",
+    "level": "industry_group"
+  },
+  {
+    "code": "9121",
+    "title": "Legislative Bodies",
+    "level": "industry"
+  },
+  {
+    "code": "913",
+    "title": "Executive and Legislative Offices, Combined",
+    "level": "industry_group"
+  },
+  {
+    "code": "9131",
+    "title": "Executive and Legislative Offices, Combined",
+    "level": "industry"
+  },
+  {
+    "code": "919",
+    "title": "General Government, NEC",
+    "level": "industry_group"
+  },
+  {
+    "code": "9199",
+    "title": "General Government, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "92",
+    "title": "Justice, Public Order, and Safety",
+    "level": "major_group"
+  },
+  {
+    "code": "921",
+    "title": "Courts",
+    "level": "industry_group"
+  },
+  {
+    "code": "9211",
+    "title": "Courts",
+    "level": "industry"
+  },
+  {
+    "code": "922",
+    "title": "Public Order and Safety",
+    "level": "industry_group"
+  },
+  {
+    "code": "9221",
+    "title": "Police Protection",
+    "level": "industry"
+  },
+  {
+    "code": "9222",
+    "title": "Legal Counsel and Prosecution",
+    "level": "industry"
+  },
+  {
+    "code": "9223",
+    "title": "Correctional Institutions",
+    "level": "industry"
+  },
+  {
+    "code": "9224",
+    "title": "Fire Protection",
+    "level": "industry"
+  },
+  {
+    "code": "9229",
+    "title": "Public Order and Safety, NEC",
+    "level": "industry"
+  },
+  {
+    "code": "93",
+    "title": "Public Finance, Taxation, and Monetary Policy",
+    "level": "major_group"
+  },
+  {
+    "code": "931",
+    "title": "Public Finance, Taxation, and Monetary Policy",
+    "level": "industry_group"
+  },
+  {
+    "code": "9311",
+    "title": "Public Finance, Taxation, and Monetary Policy",
+    "level": "industry"
+  },
+  {
+    "code": "94",
+    "title": "Administration of Human Resource Programs",
+    "level": "major_group"
+  },
+  {
+    "code": "941",
+    "title": "Administration of Educational Programs",
+    "level": "industry_group"
+  },
+  {
+    "code": "9411",
+    "title": "Administration of Educational Programs",
+    "level": "industry"
+  },
+  {
+    "code": "943",
+    "title": "Administration of Public Health Programs",
+    "level": "industry_group"
+  },
+  {
+    "code": "9431",
+    "title": "Administration of Public Health Programs",
+    "level": "industry"
+  },
+  {
+    "code": "944",
+    "title": "Administration of Social, Human Resource and Income Maintenance Programs",
+    "level": "industry_group"
+  },
+  {
+    "code": "9441",
+    "title": "Administration of Social, Human Resource and Income Maintenance Programs",
+    "level": "industry"
+  },
+  {
+    "code": "945",
+    "title": "Administration of Veterans' Affairs, Except Health and Insurance",
+    "level": "industry_group"
+  },
+  {
+    "code": "9451",
+    "title": "Administration of Veterans' Affairs, Except Health and Insurance",
+    "level": "industry"
+  },
+  {
+    "code": "95",
+    "title": "Administration of Environmental Quality and Housing Programs",
+    "level": "major_group"
+  },
+  {
+    "code": "951",
+    "title": "Administration of Environmental Quality Programs",
+    "level": "industry_group"
+  },
+  {
+    "code": "9511",
+    "title": "Air and Water Resource and Solid Waste Management",
+    "level": "industry"
+  },
+  {
+    "code": "9512",
+    "title": "Land, Mineral, Wildlife, and Forest Conservation",
+    "level": "industry"
+  },
+  {
+    "code": "953",
+    "title": "Administration of Housing and Urban Development Programs",
+    "level": "industry_group"
+  },
+  {
+    "code": "9531",
+    "title": "Administration of Housing Programs",
+    "level": "industry"
+  },
+  {
+    "code": "9532",
+    "title": "Administration of Urban Planning and Community and Rural Development",
+    "level": "industry"
+  },
+  {
+    "code": "96",
+    "title": "Administration of Economic Programs",
+    "level": "major_group"
+  },
+  {
+    "code": "961",
+    "title": "Administration of General Economic Programs",
+    "level": "industry_group"
+  },
+  {
+    "code": "9611",
+    "title": "Administration of General Economic Programs",
+    "level": "industry"
+  },
+  {
+    "code": "962",
+    "title": "Regulation and Administration of Transportation Programs",
+    "level": "industry_group"
+  },
+  {
+    "code": "9621",
+    "title": "Regulation and Administration of Transportation Programs",
+    "level": "industry"
+  },
+  {
+    "code": "963",
+    "title": "Regulation and Administration of Communications, Electric, Gas, and Other Utilities",
+    "level": "industry_group"
+  },
+  {
+    "code": "9631",
+    "title": "Regulation and Administration of Communications, Electric, Gas, and Other Utilities",
+    "level": "industry"
+  },
+  {
+    "code": "964",
+    "title": "Regulation of Agricultural Marketing and Commodities",
+    "level": "industry_group"
+  },
+  {
+    "code": "9641",
+    "title": "Regulation of Agricultural Marketing and Commodities",
+    "level": "industry"
+  },
+  {
+    "code": "965",
+    "title": "Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",
+    "level": "industry_group"
+  },
+  {
+    "code": "9651",
+    "title": "Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",
+    "level": "industry"
+  },
+  {
+    "code": "966",
+    "title": "Space Research and Technology",
+    "level": "industry_group"
+  },
+  {
+    "code": "9661",
+    "title": "Space Research and Technology",
+    "level": "industry"
+  },
+  {
+    "code": "97",
+    "title": "National Security and International Affairs",
+    "level": "major_group"
+  },
+  {
+    "code": "971",
+    "title": "National Security",
+    "level": "industry_group"
+  },
+  {
+    "code": "9711",
+    "title": "National Security",
+    "level": "industry"
+  },
+  {
+    "code": "972",
+    "title": "International Affairs",
+    "level": "industry_group"
+  },
+  {
+    "code": "9721",
+    "title": "International Affairs",
+    "level": "industry"
+  },
+  {
+    "code": "99",
+    "title": "Nonclassifiable Establishments",
+    "level": "major_group"
+  },
+  {
+    "code": "999",
+    "title": "Nonclassifiable Establishments",
+    "level": "industry_group"
+  },
+  {
+    "code": "9999",
+    "title": "Nonclassifiable Establishments",
+    "level": "industry"
+  }
+]

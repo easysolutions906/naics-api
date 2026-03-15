@@ -1,0 +1,992 @@
+[
+  {
+    "naics": "111110",
+    "sic": "0116",
+    "naicsTitle": "Soybean Farming",
+    "sicTitle": "Soybeans"
+  },
+  {
+    "naics": "111140",
+    "sic": "0111",
+    "naicsTitle": "Wheat Farming",
+    "sicTitle": "Wheat"
+  },
+  {
+    "naics": "111150",
+    "sic": "0115",
+    "naicsTitle": "Corn Farming",
+    "sicTitle": "Corn"
+  },
+  {
+    "naics": "111160",
+    "sic": "0112",
+    "naicsTitle": "Rice Farming",
+    "sicTitle": "Rice"
+  },
+  {
+    "naics": "111310",
+    "sic": "0174",
+    "naicsTitle": "Orange Groves",
+    "sicTitle": "Citrus Fruits"
+  },
+  {
+    "naics": "111332",
+    "sic": "0172",
+    "naicsTitle": "Grape Vineyards",
+    "sicTitle": "Grapes"
+  },
+  {
+    "naics": "111910",
+    "sic": "0132",
+    "naicsTitle": "Tobacco Farming",
+    "sicTitle": "Tobacco"
+  },
+  {
+    "naics": "111920",
+    "sic": "0131",
+    "naicsTitle": "Cotton Farming",
+    "sicTitle": "Cotton"
+  },
+  {
+    "naics": "112111",
+    "sic": "0212",
+    "naicsTitle": "Beef Cattle Ranching and Farming",
+    "sicTitle": "Beef Cattle, Except Feedlots"
+  },
+  {
+    "naics": "112112",
+    "sic": "0211",
+    "naicsTitle": "Cattle Feedlots",
+    "sicTitle": "Beef Cattle Feedlots"
+  },
+  {
+    "naics": "112120",
+    "sic": "0241",
+    "naicsTitle": "Dairy Cattle and Milk Production",
+    "sicTitle": "Dairy Farms"
+  },
+  {
+    "naics": "112210",
+    "sic": "0213",
+    "naicsTitle": "Hog and Pig Farming",
+    "sicTitle": "Hogs"
+  },
+  {
+    "naics": "112310",
+    "sic": "0252",
+    "naicsTitle": "Chicken Egg Production",
+    "sicTitle": "Chicken Eggs"
+  },
+  {
+    "naics": "112320",
+    "sic": "0251",
+    "naicsTitle": "Broilers and Other Meat Type Chicken Production",
+    "sicTitle": "Broiler, Fryer, and Roaster Chickens"
+  },
+  {
+    "naics": "112330",
+    "sic": "0253",
+    "naicsTitle": "Turkey Production",
+    "sicTitle": "Turkeys and Turkey Eggs"
+  },
+  {
+    "naics": "113310",
+    "sic": "2411",
+    "naicsTitle": "Logging",
+    "sicTitle": "Logging"
+  },
+  {
+    "naics": "211120",
+    "sic": "1311",
+    "naicsTitle": "Crude Petroleum Extraction",
+    "sicTitle": "Crude Petroleum and Natural Gas"
+  },
+  {
+    "naics": "211130",
+    "sic": "1311",
+    "naicsTitle": "Natural Gas Extraction",
+    "sicTitle": "Crude Petroleum and Natural Gas"
+  },
+  {
+    "naics": "212111",
+    "sic": "1221",
+    "naicsTitle": "Bituminous Coal and Lignite Surface Mining",
+    "sicTitle": "Bituminous Coal and Lignite Surface Mining"
+  },
+  {
+    "naics": "212210",
+    "sic": "1011",
+    "naicsTitle": "Iron Ore Mining",
+    "sicTitle": "Iron Ores"
+  },
+  {
+    "naics": "212221",
+    "sic": "1041",
+    "naicsTitle": "Gold Ore Mining",
+    "sicTitle": "Gold Ores"
+  },
+  {
+    "naics": "221111",
+    "sic": "4911",
+    "naicsTitle": "Hydroelectric Power Generation",
+    "sicTitle": "Electric Services"
+  },
+  {
+    "naics": "221112",
+    "sic": "4911",
+    "naicsTitle": "Fossil Fuel Electric Power Generation",
+    "sicTitle": "Electric Services"
+  },
+  {
+    "naics": "221210",
+    "sic": "4924",
+    "naicsTitle": "Natural Gas Distribution",
+    "sicTitle": "Natural Gas Distribution"
+  },
+  {
+    "naics": "236115",
+    "sic": "1521",
+    "naicsTitle": "New Single-Family Housing Construction",
+    "sicTitle": "General Contractors-Single-Family Houses"
+  },
+  {
+    "naics": "236116",
+    "sic": "1522",
+    "naicsTitle": "New Multifamily Housing Construction",
+    "sicTitle": "General Contractors-Residential Buildings"
+  },
+  {
+    "naics": "236220",
+    "sic": "1542",
+    "naicsTitle": "Commercial and Institutional Building Construction",
+    "sicTitle": "General Contractors-Nonresidential Buildings"
+  },
+  {
+    "naics": "237310",
+    "sic": "1611",
+    "naicsTitle": "Highway, Street, and Bridge Construction",
+    "sicTitle": "Highway and Street Construction"
+  },
+  {
+    "naics": "238210",
+    "sic": "1731",
+    "naicsTitle": "Electrical Contractors",
+    "sicTitle": "Electrical Work"
+  },
+  {
+    "naics": "238220",
+    "sic": "1711",
+    "naicsTitle": "Plumbing, Heating, and Air-Conditioning Contractors",
+    "sicTitle": "Plumbing, Heating and Air-Conditioning"
+  },
+  {
+    "naics": "238320",
+    "sic": "1721",
+    "naicsTitle": "Painting and Wall Covering Contractors",
+    "sicTitle": "Painting and Paper Hanging"
+  },
+  {
+    "naics": "311111",
+    "sic": "2047",
+    "naicsTitle": "Dog and Cat Food Manufacturing",
+    "sicTitle": "Dog and Cat Food"
+  },
+  {
+    "naics": "311211",
+    "sic": "2041",
+    "naicsTitle": "Flour Milling",
+    "sicTitle": "Flour and Other Grain Mill Products"
+  },
+  {
+    "naics": "311230",
+    "sic": "2043",
+    "naicsTitle": "Breakfast Cereal Manufacturing",
+    "sicTitle": "Cereal Breakfast Foods"
+  },
+  {
+    "naics": "311411",
+    "sic": "2037",
+    "naicsTitle": "Frozen Fruit, Juice, and Vegetable Manufacturing",
+    "sicTitle": "Frozen Fruits, Fruit Juices, and Vegetables"
+  },
+  {
+    "naics": "311511",
+    "sic": "2026",
+    "naicsTitle": "Fluid Milk Manufacturing",
+    "sicTitle": "Fluid Milk"
+  },
+  {
+    "naics": "311513",
+    "sic": "2022",
+    "naicsTitle": "Cheese Manufacturing",
+    "sicTitle": "Natural, Processed, and Imitation Cheese"
+  },
+  {
+    "naics": "311520",
+    "sic": "2024",
+    "naicsTitle": "Ice Cream and Frozen Dessert Manufacturing",
+    "sicTitle": "Ice Cream and Frozen Desserts"
+  },
+  {
+    "naics": "311611",
+    "sic": "2011",
+    "naicsTitle": "Animal (except Poultry) Slaughtering",
+    "sicTitle": "Meat Packing Plants"
+  },
+  {
+    "naics": "311615",
+    "sic": "2015",
+    "naicsTitle": "Poultry Processing",
+    "sicTitle": "Poultry Slaughtering and Processing"
+  },
+  {
+    "naics": "311812",
+    "sic": "2051",
+    "naicsTitle": "Commercial Bakeries",
+    "sicTitle": "Bread and Other Bakery Products"
+  },
+  {
+    "naics": "311821",
+    "sic": "2052",
+    "naicsTitle": "Cookie and Cracker Manufacturing",
+    "sicTitle": "Cookies and Crackers"
+  },
+  {
+    "naics": "311920",
+    "sic": "2095",
+    "naicsTitle": "Coffee and Tea Manufacturing",
+    "sicTitle": "Roasted Coffee"
+  },
+  {
+    "naics": "312111",
+    "sic": "2086",
+    "naicsTitle": "Soft Drink Manufacturing",
+    "sicTitle": "Bottled and Canned Soft Drinks"
+  },
+  {
+    "naics": "312120",
+    "sic": "2082",
+    "naicsTitle": "Breweries",
+    "sicTitle": "Malt Beverages"
+  },
+  {
+    "naics": "312130",
+    "sic": "2084",
+    "naicsTitle": "Wineries",
+    "sicTitle": "Wines, Brandy, and Brandy Spirits"
+  },
+  {
+    "naics": "312140",
+    "sic": "2085",
+    "naicsTitle": "Distilleries",
+    "sicTitle": "Distilled and Blended Liquors"
+  },
+  {
+    "naics": "312230",
+    "sic": "2111",
+    "naicsTitle": "Tobacco Manufacturing",
+    "sicTitle": "Cigarettes"
+  },
+  {
+    "naics": "322110",
+    "sic": "2611",
+    "naicsTitle": "Pulp Mills",
+    "sicTitle": "Pulp Mills"
+  },
+  {
+    "naics": "322120",
+    "sic": "2621",
+    "naicsTitle": "Paper Mills",
+    "sicTitle": "Paper Mills"
+  },
+  {
+    "naics": "324110",
+    "sic": "2911",
+    "naicsTitle": "Petroleum Refineries",
+    "sicTitle": "Petroleum Refining"
+  },
+  {
+    "naics": "325110",
+    "sic": "2869",
+    "naicsTitle": "Petrochemical Manufacturing",
+    "sicTitle": "Industrial Organic Chemicals"
+  },
+  {
+    "naics": "325120",
+    "sic": "2813",
+    "naicsTitle": "Industrial Gas Manufacturing",
+    "sicTitle": "Industrial Gases"
+  },
+  {
+    "naics": "325211",
+    "sic": "2821",
+    "naicsTitle": "Plastics Material and Resin Manufacturing",
+    "sicTitle": "Plastics Materials and Synthetic Resins"
+  },
+  {
+    "naics": "325412",
+    "sic": "2834",
+    "naicsTitle": "Pharmaceutical Preparation Manufacturing",
+    "sicTitle": "Pharmaceutical Preparations"
+  },
+  {
+    "naics": "325510",
+    "sic": "2851",
+    "naicsTitle": "Paint and Coating Manufacturing",
+    "sicTitle": "Paints, Varnishes, Lacquers, Enamels"
+  },
+  {
+    "naics": "325611",
+    "sic": "2841",
+    "naicsTitle": "Soap and Other Detergent Manufacturing",
+    "sicTitle": "Soap and Other Detergents"
+  },
+  {
+    "naics": "325620",
+    "sic": "2844",
+    "naicsTitle": "Toilet Preparation Manufacturing",
+    "sicTitle": "Perfumes, Cosmetics, and Other Toilet Preparations"
+  },
+  {
+    "naics": "326211",
+    "sic": "3011",
+    "naicsTitle": "Tire Manufacturing (except Retreading)",
+    "sicTitle": "Tires and Inner Tubes"
+  },
+  {
+    "naics": "331110",
+    "sic": "3312",
+    "naicsTitle": "Iron and Steel Mills and Ferroalloy Manufacturing",
+    "sicTitle": "Steel Works, Blast Furnaces"
+  },
+  {
+    "naics": "332710",
+    "sic": "3599",
+    "naicsTitle": "Machine Shops",
+    "sicTitle": "Industrial and Commercial Machinery, NEC"
+  },
+  {
+    "naics": "333120",
+    "sic": "3531",
+    "naicsTitle": "Construction Machinery Manufacturing",
+    "sicTitle": "Construction Machinery and Equipment"
+  },
+  {
+    "naics": "334111",
+    "sic": "3571",
+    "naicsTitle": "Electronic Computer Manufacturing",
+    "sicTitle": "Electronic Computers"
+  },
+  {
+    "naics": "334112",
+    "sic": "3572",
+    "naicsTitle": "Computer Storage Device Manufacturing",
+    "sicTitle": "Computer Storage Devices"
+  },
+  {
+    "naics": "334210",
+    "sic": "3661",
+    "naicsTitle": "Telephone Apparatus Manufacturing",
+    "sicTitle": "Telephone and Telegraph Apparatus"
+  },
+  {
+    "naics": "334220",
+    "sic": "3663",
+    "naicsTitle": "Radio and Television Broadcasting Equipment",
+    "sicTitle": "Radio and TV Broadcasting Equipment"
+  },
+  {
+    "naics": "334413",
+    "sic": "3674",
+    "naicsTitle": "Semiconductor and Related Device Manufacturing",
+    "sicTitle": "Semiconductors and Related Devices"
+  },
+  {
+    "naics": "334510",
+    "sic": "3845",
+    "naicsTitle": "Electromedical Apparatus Manufacturing",
+    "sicTitle": "Electromedical Apparatus"
+  },
+  {
+    "naics": "335220",
+    "sic": "3631",
+    "naicsTitle": "Major Appliance Manufacturing",
+    "sicTitle": "Household Cooking Equipment"
+  },
+  {
+    "naics": "335311",
+    "sic": "3612",
+    "naicsTitle": "Power Transformer Manufacturing",
+    "sicTitle": "Power Transformers"
+  },
+  {
+    "naics": "335312",
+    "sic": "3621",
+    "naicsTitle": "Motor and Generator Manufacturing",
+    "sicTitle": "Motors and Generators"
+  },
+  {
+    "naics": "336110",
+    "sic": "3711",
+    "naicsTitle": "Automobile and Light Duty Motor Vehicle Manufacturing",
+    "sicTitle": "Motor Vehicles and Passenger Car Bodies"
+  },
+  {
+    "naics": "336411",
+    "sic": "3721",
+    "naicsTitle": "Aircraft Manufacturing",
+    "sicTitle": "Aircraft"
+  },
+  {
+    "naics": "336412",
+    "sic": "3724",
+    "naicsTitle": "Aircraft Engine and Engine Parts Manufacturing",
+    "sicTitle": "Aircraft Engines and Engine Parts"
+  },
+  {
+    "naics": "336510",
+    "sic": "3743",
+    "naicsTitle": "Railroad Rolling Stock Manufacturing",
+    "sicTitle": "Railroad Equipment"
+  },
+  {
+    "naics": "336611",
+    "sic": "3731",
+    "naicsTitle": "Ship Building and Repairing",
+    "sicTitle": "Ship Building and Repairing"
+  },
+  {
+    "naics": "336612",
+    "sic": "3732",
+    "naicsTitle": "Boat Building",
+    "sicTitle": "Boat Building and Repairing"
+  },
+  {
+    "naics": "339112",
+    "sic": "3841",
+    "naicsTitle": "Surgical and Medical Instrument Manufacturing",
+    "sicTitle": "Surgical and Medical Instruments"
+  },
+  {
+    "naics": "339920",
+    "sic": "3949",
+    "naicsTitle": "Sporting and Athletic Goods Manufacturing",
+    "sicTitle": "Sporting and Athletic Goods"
+  },
+  {
+    "naics": "423110",
+    "sic": "5012",
+    "naicsTitle": "Automobile and Other Motor Vehicle Merchant Wholesalers",
+    "sicTitle": "Automobiles and Other Motor Vehicles"
+  },
+  {
+    "naics": "423430",
+    "sic": "5045",
+    "naicsTitle": "Computer Equipment Merchant Wholesalers",
+    "sicTitle": "Computers and Computer Peripherals"
+  },
+  {
+    "naics": "424210",
+    "sic": "5122",
+    "naicsTitle": "Drugs and Druggists Sundries Merchant Wholesalers",
+    "sicTitle": "Drugs and Druggists Sundries"
+  },
+  {
+    "naics": "441110",
+    "sic": "5511",
+    "naicsTitle": "New Car Dealers",
+    "sicTitle": "Motor Vehicle Dealers (New and Used)"
+  },
+  {
+    "naics": "441120",
+    "sic": "5521",
+    "naicsTitle": "Used Car Dealers",
+    "sicTitle": "Motor Vehicle Dealers (Used Only)"
+  },
+  {
+    "naics": "444110",
+    "sic": "5211",
+    "naicsTitle": "Home Centers",
+    "sicTitle": "Lumber and Other Building Materials Dealers"
+  },
+  {
+    "naics": "445110",
+    "sic": "5411",
+    "naicsTitle": "Supermarkets and Other Grocery Retailers",
+    "sicTitle": "Grocery Stores"
+  },
+  {
+    "naics": "449210",
+    "sic": "5731",
+    "naicsTitle": "Electronics and Appliance Retailers",
+    "sicTitle": "Radio, Television, and Consumer Electronics"
+  },
+  {
+    "naics": "456110",
+    "sic": "5912",
+    "naicsTitle": "Pharmacies and Drug Retailers",
+    "sicTitle": "Drug Stores and Proprietary Stores"
+  },
+  {
+    "naics": "481111",
+    "sic": "4512",
+    "naicsTitle": "Scheduled Passenger Air Transportation",
+    "sicTitle": "Air Transportation, Scheduled"
+  },
+  {
+    "naics": "482111",
+    "sic": "4011",
+    "naicsTitle": "Line-Haul Railroads",
+    "sicTitle": "Railroads, Line-Haul Operating"
+  },
+  {
+    "naics": "484110",
+    "sic": "4212",
+    "naicsTitle": "General Freight Trucking, Local",
+    "sicTitle": "Local Trucking Without Storage"
+  },
+  {
+    "naics": "484121",
+    "sic": "4213",
+    "naicsTitle": "General Freight Trucking, Long-Distance, Truckload",
+    "sicTitle": "Trucking, Except Local"
+  },
+  {
+    "naics": "491110",
+    "sic": "4311",
+    "naicsTitle": "Postal Service",
+    "sicTitle": "United States Postal Service"
+  },
+  {
+    "naics": "492110",
+    "sic": "4215",
+    "naicsTitle": "Couriers and Express Delivery Services",
+    "sicTitle": "Courier Services, Except by Air"
+  },
+  {
+    "naics": "493110",
+    "sic": "4225",
+    "naicsTitle": "General Warehousing and Storage",
+    "sicTitle": "General Warehousing and Storage"
+  },
+  {
+    "naics": "511110",
+    "sic": "2711",
+    "naicsTitle": "Newspaper Publishers",
+    "sicTitle": "Newspapers: Publishing"
+  },
+  {
+    "naics": "511120",
+    "sic": "2721",
+    "naicsTitle": "Periodical Publishers",
+    "sicTitle": "Periodicals: Publishing"
+  },
+  {
+    "naics": "511130",
+    "sic": "2731",
+    "naicsTitle": "Book Publishers",
+    "sicTitle": "Books: Publishing"
+  },
+  {
+    "naics": "511210",
+    "sic": "7372",
+    "naicsTitle": "Software Publishers",
+    "sicTitle": "Prepackaged Software"
+  },
+  {
+    "naics": "512110",
+    "sic": "7812",
+    "naicsTitle": "Motion Picture and Video Production",
+    "sicTitle": "Motion Picture and Tape Production"
+  },
+  {
+    "naics": "515112",
+    "sic": "4832",
+    "naicsTitle": "Radio Stations",
+    "sicTitle": "Radio Broadcasting Stations"
+  },
+  {
+    "naics": "515120",
+    "sic": "4833",
+    "naicsTitle": "Television Broadcasting",
+    "sicTitle": "Television Broadcasting Stations"
+  },
+  {
+    "naics": "517111",
+    "sic": "4813",
+    "naicsTitle": "Wired Telecommunications Carriers",
+    "sicTitle": "Telephone Communications"
+  },
+  {
+    "naics": "517112",
+    "sic": "4812",
+    "naicsTitle": "Wireless Telecommunications Carriers",
+    "sicTitle": "Radiotelephone Communications"
+  },
+  {
+    "naics": "518210",
+    "sic": "7374",
+    "naicsTitle": "Data Processing and Hosting Services",
+    "sicTitle": "Computer Processing and Data Preparation"
+  },
+  {
+    "naics": "522110",
+    "sic": "6021",
+    "naicsTitle": "Commercial Banking",
+    "sicTitle": "National Commercial Banks"
+  },
+  {
+    "naics": "522130",
+    "sic": "6061",
+    "naicsTitle": "Credit Unions",
+    "sicTitle": "Credit Unions, Federally Chartered"
+  },
+  {
+    "naics": "522210",
+    "sic": "6141",
+    "naicsTitle": "Credit Card Issuing",
+    "sicTitle": "Personal Credit Institutions"
+  },
+  {
+    "naics": "523110",
+    "sic": "6211",
+    "naicsTitle": "Investment Banking and Securities Intermediation",
+    "sicTitle": "Security Brokers, Dealers"
+  },
+  {
+    "naics": "524113",
+    "sic": "6311",
+    "naicsTitle": "Direct Life Insurance Carriers",
+    "sicTitle": "Life Insurance"
+  },
+  {
+    "naics": "524114",
+    "sic": "6321",
+    "naicsTitle": "Direct Health and Medical Insurance Carriers",
+    "sicTitle": "Accident and Health Insurance"
+  },
+  {
+    "naics": "524126",
+    "sic": "6331",
+    "naicsTitle": "Direct Property and Casualty Insurance Carriers",
+    "sicTitle": "Fire, Marine, and Casualty Insurance"
+  },
+  {
+    "naics": "524210",
+    "sic": "6411",
+    "naicsTitle": "Insurance Agencies and Brokerages",
+    "sicTitle": "Insurance Agents, Brokers, and Service"
+  },
+  {
+    "naics": "531110",
+    "sic": "6512",
+    "naicsTitle": "Lessors of Residential Buildings",
+    "sicTitle": "Operators of Apartment Buildings"
+  },
+  {
+    "naics": "531210",
+    "sic": "6531",
+    "naicsTitle": "Offices of Real Estate Agents and Brokers",
+    "sicTitle": "Real Estate Agents and Managers"
+  },
+  {
+    "naics": "541110",
+    "sic": "8111",
+    "naicsTitle": "Offices of Lawyers",
+    "sicTitle": "Legal Services"
+  },
+  {
+    "naics": "541211",
+    "sic": "8721",
+    "naicsTitle": "Offices of Certified Public Accountants",
+    "sicTitle": "Accounting, Auditing, and Bookkeeping"
+  },
+  {
+    "naics": "541213",
+    "sic": "7291",
+    "naicsTitle": "Tax Preparation Services",
+    "sicTitle": "Tax Return Preparation Services"
+  },
+  {
+    "naics": "541310",
+    "sic": "8711",
+    "naicsTitle": "Architectural Services",
+    "sicTitle": "Engineering Services"
+  },
+  {
+    "naics": "541330",
+    "sic": "8711",
+    "naicsTitle": "Engineering Services",
+    "sicTitle": "Engineering Services"
+  },
+  {
+    "naics": "541380",
+    "sic": "8734",
+    "naicsTitle": "Testing Laboratories and Services",
+    "sicTitle": "Testing Laboratories, Except Medical"
+  },
+  {
+    "naics": "541430",
+    "sic": "7336",
+    "naicsTitle": "Graphic Design Services",
+    "sicTitle": "Commercial Art and Graphic Design"
+  },
+  {
+    "naics": "541511",
+    "sic": "7371",
+    "naicsTitle": "Custom Computer Programming Services",
+    "sicTitle": "Computer Programming Services"
+  },
+  {
+    "naics": "541512",
+    "sic": "7373",
+    "naicsTitle": "Computer Systems Design Services",
+    "sicTitle": "Computer Integrated Systems Design"
+  },
+  {
+    "naics": "541611",
+    "sic": "8742",
+    "naicsTitle": "Administrative Management Consulting Services",
+    "sicTitle": "Management Consulting Services"
+  },
+  {
+    "naics": "541613",
+    "sic": "8742",
+    "naicsTitle": "Marketing Consulting Services",
+    "sicTitle": "Management Consulting Services"
+  },
+  {
+    "naics": "541714",
+    "sic": "8731",
+    "naicsTitle": "Research and Development in Biotechnology",
+    "sicTitle": "Commercial Physical and Biological Research"
+  },
+  {
+    "naics": "541810",
+    "sic": "7311",
+    "naicsTitle": "Advertising Agencies",
+    "sicTitle": "Advertising Agencies"
+  },
+  {
+    "naics": "541910",
+    "sic": "8732",
+    "naicsTitle": "Marketing Research and Public Opinion Polling",
+    "sicTitle": "Commercial Economic Research"
+  },
+  {
+    "naics": "541940",
+    "sic": "0742",
+    "naicsTitle": "Veterinary Services",
+    "sicTitle": "Veterinary Services for Animal Specialties"
+  },
+  {
+    "naics": "551111",
+    "sic": "6712",
+    "naicsTitle": "Offices of Bank Holding Companies",
+    "sicTitle": "State Chartered Banks"
+  },
+  {
+    "naics": "561110",
+    "sic": "8741",
+    "naicsTitle": "Office Administrative Services",
+    "sicTitle": "Management Services"
+  },
+  {
+    "naics": "561320",
+    "sic": "7363",
+    "naicsTitle": "Temporary Help Services",
+    "sicTitle": "Help Supply Services"
+  },
+  {
+    "naics": "561510",
+    "sic": "4724",
+    "naicsTitle": "Travel Agencies",
+    "sicTitle": "Travel Agencies"
+  },
+  {
+    "naics": "561612",
+    "sic": "7382",
+    "naicsTitle": "Security Guards and Patrol Services",
+    "sicTitle": "Home Health Care Services"
+  },
+  {
+    "naics": "561720",
+    "sic": "7349",
+    "naicsTitle": "Janitorial Services",
+    "sicTitle": "Building Cleaning and Maintenance"
+  },
+  {
+    "naics": "561730",
+    "sic": "0782",
+    "naicsTitle": "Landscaping Services",
+    "sicTitle": "Lawn and Garden Services"
+  },
+  {
+    "naics": "562111",
+    "sic": "4953",
+    "naicsTitle": "Solid Waste Collection",
+    "sicTitle": "Refuse Systems"
+  },
+  {
+    "naics": "611110",
+    "sic": "8211",
+    "naicsTitle": "Elementary and Secondary Schools",
+    "sicTitle": "Elementary and Secondary Schools"
+  },
+  {
+    "naics": "611310",
+    "sic": "8221",
+    "naicsTitle": "Colleges, Universities, and Professional Schools",
+    "sicTitle": "Colleges, Universities, and Professional Schools"
+  },
+  {
+    "naics": "621111",
+    "sic": "8011",
+    "naicsTitle": "Offices of Physicians (except Mental Health)",
+    "sicTitle": "Offices and Clinics of Doctors of Medicine"
+  },
+  {
+    "naics": "621210",
+    "sic": "8021",
+    "naicsTitle": "Offices of Dentists",
+    "sicTitle": "Offices and Clinics of Dentists"
+  },
+  {
+    "naics": "621310",
+    "sic": "8041",
+    "naicsTitle": "Offices of Chiropractors",
+    "sicTitle": "Offices and Clinics of Chiropractors"
+  },
+  {
+    "naics": "621610",
+    "sic": "8082",
+    "naicsTitle": "Home Health Care Services",
+    "sicTitle": "Home Health Care Services"
+  },
+  {
+    "naics": "622110",
+    "sic": "8062",
+    "naicsTitle": "General Medical and Surgical Hospitals",
+    "sicTitle": "General Medical and Surgical Hospitals"
+  },
+  {
+    "naics": "622210",
+    "sic": "8063",
+    "naicsTitle": "Psychiatric and Substance Abuse Hospitals",
+    "sicTitle": "Psychiatric Hospitals"
+  },
+  {
+    "naics": "623110",
+    "sic": "8051",
+    "naicsTitle": "Nursing Care Facilities",
+    "sicTitle": "Skilled Nursing Care Facilities"
+  },
+  {
+    "naics": "624410",
+    "sic": "8351",
+    "naicsTitle": "Child Care Services",
+    "sicTitle": "Child Day Care Services"
+  },
+  {
+    "naics": "711110",
+    "sic": "7922",
+    "naicsTitle": "Theater Companies and Dinner Theaters",
+    "sicTitle": "Theatrical Producers"
+  },
+  {
+    "naics": "711211",
+    "sic": "7941",
+    "naicsTitle": "Sports Teams and Clubs",
+    "sicTitle": "Professional Sports Clubs"
+  },
+  {
+    "naics": "713110",
+    "sic": "7996",
+    "naicsTitle": "Amusement and Theme Parks",
+    "sicTitle": "Amusement Parks"
+  },
+  {
+    "naics": "713940",
+    "sic": "7991",
+    "naicsTitle": "Fitness and Recreational Sports Centers",
+    "sicTitle": "Physical Fitness Facilities"
+  },
+  {
+    "naics": "721110",
+    "sic": "7011",
+    "naicsTitle": "Hotels (except Casino Hotels) and Motels",
+    "sicTitle": "Hotels and Motels"
+  },
+  {
+    "naics": "722511",
+    "sic": "5812",
+    "naicsTitle": "Full-Service Restaurants",
+    "sicTitle": "Eating Places"
+  },
+  {
+    "naics": "722513",
+    "sic": "5812",
+    "naicsTitle": "Limited-Service Restaurants",
+    "sicTitle": "Eating Places"
+  },
+  {
+    "naics": "811111",
+    "sic": "7538",
+    "naicsTitle": "General Automotive Repair",
+    "sicTitle": "General Automotive Repair Shops"
+  },
+  {
+    "naics": "812111",
+    "sic": "7241",
+    "naicsTitle": "Barber Shops",
+    "sicTitle": "Barber Shops"
+  },
+  {
+    "naics": "812112",
+    "sic": "7231",
+    "naicsTitle": "Beauty Salons",
+    "sicTitle": "Beauty Shops"
+  },
+  {
+    "naics": "812210",
+    "sic": "7261",
+    "naicsTitle": "Funeral Homes and Funeral Services",
+    "sicTitle": "Funeral Service and Crematories"
+  },
+  {
+    "naics": "813110",
+    "sic": "8661",
+    "naicsTitle": "Religious Organizations",
+    "sicTitle": "Religious Organizations"
+  },
+  {
+    "naics": "814110",
+    "sic": "8811",
+    "naicsTitle": "Private Households",
+    "sicTitle": "Private Households"
+  },
+  {
+    "naics": "921110",
+    "sic": "9111",
+    "naicsTitle": "Executive Offices",
+    "sicTitle": "Executive Offices"
+  },
+  {
+    "naics": "922120",
+    "sic": "9221",
+    "naicsTitle": "Police Protection",
+    "sicTitle": "Police Protection"
+  },
+  {
+    "naics": "922160",
+    "sic": "9224",
+    "naicsTitle": "Fire Protection",
+    "sicTitle": "Fire Protection"
+  },
+  {
+    "naics": "928110",
+    "sic": "9711",
+    "naicsTitle": "National Security",
+    "sicTitle": "National Security"
+  }
+]

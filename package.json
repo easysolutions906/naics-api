@@ -1,0 +1,31 @@
+{
+  "name": "@easysolutions906/naics-api",
+  "version": "1.0.0",
+  "description": "NAICS and SIC industry code lookup API with keyword search, sector browsing, and NAICS-to-SIC crosswalk",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "build-data": "node scripts/generate-naics.js && node scripts/generate-sic.js && node scripts/generate-crosswalk.js && node scripts/build-data.js",
+    "generate": "node scripts/generate-naics.js && node scripts/generate-sic.js && node scripts/generate-crosswalk.js"
+  },
+  "keywords": [
+    "naics",
+    "sic",
+    "industry-codes",
+    "classification",
+    "census",
+    "business",
+    "api",
+    "mcp"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "express": "^5.1.0",
+    "stripe": "^20.4.1",
+    "zod": "^3.24.0"
+  }
+}
