@@ -1,75 +1,69 @@
-# NAICS/SIC Industry Code Lookup API
+# MCP NAICS/SIC Server
 
-Look up NAICS 2022 and SIC 1987 industry codes with keyword search, sector browsing, batch lookup, and NAICS-to-SIC crosswalk mapping.
+A [Model Context Protocol](https://modelcontextprotocol.io) (MCP) server for looking up NAICS 2022 and SIC industry codes with keyword search, sector browsing, and NAICS-to-SIC crosswalk mapping.
 
-## Data
+## Tools (4 total)
 
-- **NAICS 2022**: ~1,800 codes from the US Census Bureau (2-digit sectors through 6-digit national industries)
-- **SIC 1987**: ~1,000 codes from the Standard Industrial Classification system (still used in SEC filings, OSHA, and many legacy systems)
-- **Crosswalk**: ~130 NAICS-to-SIC mappings for the most commonly used codes
+| Tool | Description |
+|------|-------------|
+| `naics_lookup` | Look up a NAICS code with title, hierarchy, children, and SIC crosswalk |
+| `naics_search` | Search NAICS codes by keyword (e.g., "software", "restaurant") |
+| `sic_lookup` | Look up a SIC code with title, hierarchy, children, and NAICS crosswalk |
+| `sic_search` | Search SIC codes by keyword |
 
-## API Endpoints
-
-| Method | Path | Description |
-|--------|------|-------------|
-| GET | `/` | API info and endpoint list |
-| GET | `/health` | Health check |
-| GET | `/data-info` | Data build date and record counts |
-| GET | `/lookup?code=541511` | Look up a NAICS code |
-| GET | `/search?q=software&limit=25` | Search NAICS codes by keyword |
-| GET | `/sector/:code` | List all codes in a NAICS sector |
-| GET | `/sic/lookup?code=7372` | Look up a SIC code |
-| GET | `/sic/search?q=software` | Search SIC codes by keyword |
-| GET | `/crosswalk?naics=541511` | NAICS to SIC crosswalk |
-| POST | `/lookup/batch` | Batch lookup (NAICS or SIC) |
-| GET | `/stats` | Code counts by sector and level |
-
-## MCP Tools
-
-When running as an MCP server (stdio mode or via `/mcp` endpoint):
-
-- `naics_lookup` — Look up a NAICS code with hierarchy and crosswalk
-- `naics_search` — Search NAICS codes by keyword
-- `sic_lookup` — Look up a SIC code with hierarchy and crosswalk
-- `sic_search` — Search SIC codes by keyword
-
-## Quick Start
+## Install
 
 ```bash
-# Generate data files
-npm run build-data
-
-# Install dependencies
-npm install
-
-# Run locally (HTTP mode)
-PORT=3000 node src/index.js
-
-# Run as MCP server (stdio mode)
-node src/index.js
+npx @easysolutions906/naics-api
 ```
 
-## Environment Variables
+### Claude Desktop
 
-| Variable | Required | Description |
-|----------|----------|-------------|
-| `PORT` | No | HTTP port (if set, runs in HTTP mode; if unset, runs in MCP stdio mode) |
-| `ADMIN_SECRET` | No | Secret for admin key management endpoints |
-| `STRIPE_SECRET_KEY` | No | Stripe API key for billing |
-| `STRIPE_WEBHOOK_SECRET` | No | Stripe webhook signature verification |
+Add to your `claude_desktop_config.json`:
 
-## Data Refresh
-
-```bash
-npm run build-data
+```json
+{
+  "mcpServers": {
+    "naics": {
+      "command": "npx",
+      "args": ["-y", "@easysolutions906/naics-api"]
+    }
+  }
+}
 ```
 
-This runs the data generation scripts and writes `meta.json` with the build date. The NAICS codes are updated by Census Bureau on a 5-year cycle (next revision: 2027). SIC codes have not been updated since 1987.
+### Cursor
 
-## Deploy to Railway
+Add to `.cursor/mcp.json`:
 
-```bash
-railway up
+```json
+{
+  "mcpServers": {
+    "naics": {
+      "command": "npx",
+      "args": ["-y", "@easysolutions906/naics-api"]
+    }
+  }
+}
 ```
 
-The `Procfile` tells Railway to run `node src/index.js`. Set the `PORT` environment variable in Railway's dashboard (Railway sets it automatically).
+## REST API
+
+Set `PORT` env var to run as an HTTP server.
+
+- `GET /lookup?code=541511` -- look up a NAICS code
+- `GET /search?q=software` -- search NAICS codes by keyword
+- `GET /sector/:code` -- list all codes in a NAICS sector
+- `GET /sic/lookup?code=7372` -- look up a SIC code
+- `GET /sic/search?q=software` -- search SIC codes by keyword
+- `GET /crosswalk?naics=541511` -- NAICS to SIC crosswalk
+- `POST /lookup/batch` -- batch lookup NAICS or SIC codes
+
+## Data Source
+
+NAICS 2022 codes from the [US Census Bureau](https://www.census.gov/naics/). SIC 1987 codes from the Standard Industrial Classification system. NAICS is revised on a 5-year cycle (next: 2027). SIC has not been updated since 1987. Run `npm run build-data` to regenerate.
+
+## Transport
+
+- **stdio** (default) -- for local use with Claude Desktop and Cursor
+- **HTTP** -- set `PORT` env var to start in Streamable HTTP mode on `/mcp`
